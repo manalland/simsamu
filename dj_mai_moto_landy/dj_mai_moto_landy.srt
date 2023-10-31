@@ -1,0 +1,208 @@
+2
+00:00:02,130 --> 00:00:03,840 1
+bonjour madame
+
+3
+00:00:03,920 --> 00:00:04,420 2
+bonjour
+
+4
+00:00:04,420 --> 00:00:11,040 3
+bonjour je suis le docteur du SAMU le docteur ABAS on m'a dit que votre frère a fait un accident de moto c'est bien ça?
+
+5
+00:00:11,290 --> 00:00:17,460 4
+oui c'est ça il faut que vous m'envoyiez une ambulance pour l'emmener aux urgences parce que là moi je peux pas l'emmener faut que je m'occupe de ma moto là
+
+6
+00:00:17,549 --> 00:00:19,129 5
+qu'est ce qu'il s'est passé exactement?
+
+7
+00:00:19,820 --> 00:00:27,519 6
+bah on eu un accident dans le tunnel du LANDY et heu et là il faut qu'il aille aux urgences mais moi il faut que je m'occupe de ma moto là en fait monsieur
+
+8
+00:00:27,540 --> 00:00:31,479 7
+il est où votre frère il est il est où votre frère là il est à côté de vous?
+
+9
+00:00:31,750 --> 00:00:33,610 8
+oui oui il est sur le côté de la route là
+
+10
+00:00:33,820 --> 00:00:34,860 9
+il est blessé?
+
+11
+00:00:35,510 --> 00:00:38,360 10
+bah il saigne un peu de la tête
+
+12
+00:00:38,519 --> 00:00:39,710 11
+il s'est cogné la tête?
+
+13
+00:00:40,110 --> 00:00:40,710 12
+ouais
+
+14
+00:00:40,900 --> 00:00:43,420 13
+vous l'avez vu chuter vous étiez avec lui sur la moto?
+
+15
+00:00:44,110 --> 00:00:45,540 14
+oui oui il était derrière moi
+
+16
+00:00:46,059 --> 00:00:47,440 15
+il est tombé sur sa tête?
+
+17
+00:00:48,290 --> 00:00:48,589 16
+oui
+
+18
+00:00:49,400 --> 00:00:50,109 17
+est ce qu'il avait un
+
+19
+00:00:50,109 --> 00:00:52,230 18
+mais là c'est pour ça il faut vous emmeniez une ambulance
+
+20
+00:00:52,330 --> 00:00:54,210 19
+est ce qu'il avait un casque lorsqu'il est tombé?
+
+21
+00:00:55,270 --> 00:01:01,589 20
+non mais c'est parce que j'en ai qu'un aussi de casque heu moi mon travail c'est livreur d'habitude derrière moi j'ai un sac hein pas mon frère
+
+22
+00:01:01,669 --> 00:01:07,420 21
+ok est ce que c'est la p- est ce que vous rouliez vite quand vous ça c'est arrivé vous rouliez à quelle vitesse?
+
+23
+00:01:07,460 --> 00:01:10,540 22
+ah bah moi docteur je se- je respecte les limitations de vitesse hein
+
+24
+00:01:10,540 --> 00:01:13,210 23
+et c'est à dire vous rouliez à quelle vitesse exactement?
+
+25
+00:01:14,350 --> 00:01:20,480 24
+bah là dans le tunnel heu j'étais à quarante kilomètres heure peut être pas plus en tous cas c'est sûr
+
+26
+00:01:21,150 --> 00:01:23,520 25
+est ce que quand il a chuté il a perdu connaissance?
+
+27
+00:01:24,818 --> 00:01:37,446 26
+heu non non non non non non c'est il il est il est tombé là devant la moto et et là il faut que vous envoyiez une ambulance en fait je comprends pas pourquoi vous me posez toutes ces questions moi il faut que je m'occupe de ma moto là mons-
+
+28
+00:01:37,456 --> 00:01:45,100 27
+oui je comprends je comprends je comprends que vous devez vous occuper de vot- votre moto mais on va se concentrer sur votre frère là est ce qu'il est conscient est ce qu'il respire bien?
+
+29
+00:01:45,560 --> 00:01:45,920 28
+oui
+
+30
+00:01:46,650 --> 00:01:48,000 29
+pour les deux questions?
+
+31
+00:01:48,310 --> 00:01:48,630 30
+oui
+
+32
+00:01:49,350 --> 00:01:53,560 31
+ok est ce que il se plaint de douleur quelque part?
+
+33
+00:01:54,126 --> 00:02:01,770 32
+heu bah là il a il a mal heu à la tête et puis heu il a un peu mal partout mais il est tombé quoi
+
+34
+00:02:01,920 --> 00:02:03,270 33
+ok est ce qu'il a vomi?
+
+35
+00:02:03,870 --> 00:02:04,270 34
+non
+
+36
+00:02:04,810 --> 00:02:07,750 35
+bon on va dé- on va amener les pompiers sur place
+
+37
+00:02:07,870 --> 00:02:24,330 36
+ah non non non mais les pompiers je les ai eu au téléphone ils veulent nous emmener tous les deux moi j'ai pas le temps moi là il faut que je je je m'occupe de ma moto hum donc non là il faut heu il faut pas les pompiers monsieur hein parce qu'ils font n'importe quoi ils veulent laisser ma moto là dans le tunnel du LANDY heu je vais me la faire voler c'est sûr moi c'est mon moyen de travail monsieur ma moto en fait
+
+38
+00:02:24,330 --> 00:02:31,060 37
+je comprends madame mais on va envoyer les pompiers ils vont venir sur place ils vont éva- vous évaluer et puis on va prendre une décision
+
+39
+00:02:31,060 --> 00:02:33,480 38
+ils vont pas vouloir venir en fait parce que je leur ai dit de pas venir moi
+
+40
+00:02:33,480 --> 00:02:39,770 39
+non les pomp- les pompiers vont venir ils vont venir je les ai déclenchés là à l'instant ils arrivent ils sont sur le trajet
+
+41
+00:02:41,160 --> 00:02:45,870 40
+mais dans ce cas là ils me prennent pas moi hein moi je m'occupe de ma moto en fait hein ils prennent que mon frère
+
+42
+00:02:46,020 --> 00:02:47,290 41
+vous vous êtes tombée?
+
+43
+00:02:48,290 --> 00:02:50,140 42
+bah oui on est tombés tous les deux avec la moto
+
+44
+00:02:50,140 --> 00:02:51,730 43
+vous avez des douleurs?
+
+45
+00:02:52,180 --> 00:02:55,620 44
+bah j'ai non mais vite fait enfin rien de non
+
+46
+00:02:55,930 --> 00:02:56,600 45
+vous avez chu-
+
+47
+00:02:56,600 --> 00:02:57,620 46
+moi je m'occupe de ma moto
+
+48
+00:02:57,620 --> 00:03:08,660 47
+vous avez chuté à moto heu à une vitesse qui n'est pas négligeable il faut que vous soyez au moins évaluée par les pompiers en- ensuite rien ne vous oblige à à respecter leurs consignes mais les pompiers sont sur le chemin ils arrivent
+
+49
+00:03:08,700 --> 00:03:10,600 48
+oui bah moi j'y vais pas en tous cas
+
+50
+00:03:10,750 --> 00:03:18,950 49
+vous pouvez prendre la décision que vous voulez mais en tous cas ils arrivent ils vont venir vous voir ils vont vous évaluer votre frère et vous et on prendra une décision par la suite ok?
+
+51
+00:03:19,580 --> 00:03:20,350 50
+on est d'accord?
+
+52
+00:03:21,120 --> 00:03:22,200 51
+ça marche j'attends
+
+53
+00:03:22,470 --> 00:03:23,080 52
+ok
+

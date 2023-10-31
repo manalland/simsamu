@@ -1,0 +1,128 @@
+2
+00:00:01,400 --> 00:00:02,400 1
+bonjour madame
+
+3
+00:00:03,550 --> 00:00:04,210 2
+bonjour
+
+4
+00:00:04,250 --> 00:00:11,200 3
+bonjour je suis le docteur ABAS du SAMU hum donc vous appelez pour le votre sœur de vingt huit ans qui aurait fait un malaise c'est bien cela?
+
+5
+00:00:11,850 --> 00:00:17,759 4
+ah bah elle a fait un malaise oui oui là elle est par terre heu pff elle veut pas me répondre heu c'est
+
+6
+00:00:18,869 --> 00:00:19,830 5
+elle est inconsciente?
+
+7
+00:00:19,830 --> 00:00:21,799 6
+il faut que vous veniez la chercher en fait là
+
+8
+00:00:21,799 --> 00:00:22,990 7
+elle est inconsciente?
+
+9
+00:00:24,270 --> 00:00:25,979 8
+heu bah elle me répond pas
+
+10
+00:00:26,080 --> 00:00:26,879 9
+elle respire?
+
+11
+00:00:26,890 --> 00:00:28,799 10
+elle me parle pas oui elle respire
+
+12
+00:00:28,799 --> 00:00:30,070 11
+elle a les yeux ouverts?
+
+13
+00:00:30,479 --> 00:00:30,830 12
+oui
+
+14
+00:00:31,939 --> 00:00:33,180 13
+passez la moi au téléphone
+
+15
+00:00:34,180 --> 00:00:35,490 14
+mais elle parle pas là monsieur
+
+16
+00:00:35,910 --> 00:00:39,910 15
+passez la moi quand même au téléphone approchez le téléphone de son oreille et de sa bouche
+
+17
+00:00:41,010 --> 00:00:42,010 16
+heu ok
+
+18
+00:00:47,350 --> 00:00:48,860 17
+madame vous m'entendez?
+
+19
+00:00:49,019 --> 00:00:49,570 18
+oui
+
+20
+00:00:51,610 --> 00:00:52,920 19
+je vous entends allo?
+
+21
+00:00:52,949 --> 00:00:54,019 20
+allo vous m'entendez?
+
+22
+00:00:54,019 --> 00:00:55,140 21
+vous voulez la chercher?
+
+23
+00:00:56,129 --> 00:00:58,609 22
+elle elle peut pas parler là? pas du tout?
+
+24
+00:00:58,609 --> 00:00:59,540 23
+répond pas
+
+25
+00:00:59,790 --> 00:01:02,309 24
+ok est ce qu'elle se plaint de douleur quelque part?
+
+26
+00:01:03,660 --> 00:01:06,510 25
+heu elle parle pas elle est crispée
+
+27
+00:01:06,520 --> 00:01:08,160 26
+elle est dans cet état depuis combien de temps?
+
+28
+00:01:09,560 --> 00:01:21,540 27
+heu ça fait cinq minutes là elle était au téléphone elle est venue me voir et puis d'un coup elle s'est allongée par terre et heu elle est toute crispée là elle répond pas faut que vous veniez la chercher là c'est tout le temps pareil avec elle pff
+
+29
+00:01:21,600 --> 00:01:23,620 28
+c'est la pas c'est pas la première fois qu'elle fait ça?
+
+30
+00:01:24,890 --> 00:01:31,640 29
+non non c'est déjà arrivé c'est tout le temps comme ça avec elle elle a perdu son travail elle est au téléphone je sais pas ce qui lui arrive
+
+31
+00:01:32,110 --> 00:01:37,600 30
+ok ce qu'on va faire madame c'est qu'on va envoyer les pompiers heu sur place ils arrivent heu tout de suite
+
+32
+00:01:39,030 --> 00:01:41,430 31
+ok bah vite alors puisque moi elle me saoule
+
+33
+00:01:42,300 --> 00:01:43,480 32
+il y a pas de soucis
+

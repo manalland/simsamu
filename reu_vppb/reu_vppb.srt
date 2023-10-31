@@ -1,0 +1,216 @@
+2
+00:00:01,049 --> 00:00:06,350 1
+bonjour monsieur je m'appelle DIANE JOUCLA je suis le médecin du SAMU vous appelez pour votre femme qui a des vertiges c'est bien ça?
+
+3
+00:00:06,549 --> 00:00:15,900 2
+oui bonjour ah par contre si il a fait une erreur le monsieur moi je suis la femme et c'est pour heu pour heu ben pour mon mari hein que que que je vous appelle
+
+4
+00:00:15,999 --> 00:00:18,799 3
+d'accord très bien il a quel âge votre mari madame?
+
+5
+00:00:20,000 --> 00:00:22,200 4
+il a dix huit ans comme moi
+
+6
+00:00:22,350 --> 00:00:25,550 5
+d'accord et heu il a des vertiges depuis quand?
+
+7
+00:00:26,400 --> 00:00:38,850 6
+heu depuis depuis ce matin quand il s'est réveillé il heu il a pris heu il s'est voulu se lever et c'est là qu'il a eu beaucoup de vertiges
+
+8
+00:00:39,650 --> 00:00:41,950 7
+d'accord il a des problèmes de santé votre mari?
+
+9
+00:00:43,650 --> 00:00:58,850 8
+je je crois pas non il a parfois il a été à l'hôpital heu mais c'était pour des petites choses c'était il y a longtemps pour heu pour des heu plusieurs fois il avait eu heu une infection de de de de l'oreille
+
+10
+00:00:58,850 --> 00:01:08,100 9
+et puis une fois il avait eu heu un et un il s'était coupé heu sur l'orteil là avec un couteau et heu puis je crois que c'est tout
+
+11
+00:01:08,500 --> 00:01:11,550 10
+il est suivi par un ORL depuis son problème à l'oreille?
+
+12
+00:01:12,699 --> 00:01:17,399 11
+ah non non non non c'était il y a très très longtemps ça c'était quand il était petit
+
+13
+00:01:18,949 --> 00:01:19,949 12
+et là il est à côté de vous?
+
+14
+00:01:21,850 --> 00:01:29,649 13
+il est heu alors je suis dans la accolé la pièce d'à côté parce qu'il est comme il vomit et il fait beaucoup beaucoup de bruit
+
+15
+00:01:29,649 --> 00:01:32,750 14
+et il a vomit combien de fois depuis ce matin?
+
+16
+00:01:34,550 --> 00:01:35,899 15
+trois quatre fois
+
+17
+00:01:37,990 --> 00:01:39,169 16
+il vous parle normalement?
+
+18
+00:01:39,169 --> 00:01:40,320 17
+des vertiges
+
+19
+00:01:41,399 --> 00:01:43,910 18
+heu bah là il parle pas il est en train de vomir
+
+20
+00:01:44,470 --> 00:01:45,350 19
+et avant ça?
+
+21
+00:01:47,390 --> 00:01:48,309 20
+bah oui
+
+22
+00:01:48,929 --> 00:01:50,229 21
+il s'est cogné la tête aujourd'hui?
+
+23
+00:01:52,270 --> 00:01:52,710 22
+non
+
+24
+00:01:53,039 --> 00:02:01,139 23
+non bon donc si je résume heu vous votre mari il a mal à la tête depuis ce matin il a la tête qui tourne heu il a vomi
+
+25
+00:02:01,139 --> 00:02:05,720 24
+ah non il a pas mal à la tête hein il a il a il a pas mal à la tête il a juste des vertiges
+
+26
+00:02:06,949 --> 00:02:08,729 25
+ok dans ce cas là je pense que
+
+27
+00:02:08,729 --> 00:02:09,810 26
+et ça le fait vomir
+
+28
+00:02:10,350 --> 00:02:12,930 27
+il il va falloir qu'il consulte son médecin traitant
+
+29
+00:02:14,549 --> 00:02:16,380 28
+vous vous pouvez l'emmener chez le médecin traitant?
+
+30
+00:02:22,230 --> 00:02:23,049 29
+vous m'avez entendue?
+
+31
+00:02:23,079 --> 00:02:23,730 30
+je vais voir
+
+32
+00:02:28,500 --> 00:02:32,630 31
+<NA>
+
+33
+00:02:33,130 --> 00:02:34,430 32
+il vomit toujours madame
+
+34
+00:02:35,079 --> 00:02:40,930 33
+hum hum j'entends et il vomit mais entre les moments où il vomit il est normal?
+
+35
+00:02:43,410 --> 00:02:46,410 34
+heu bah il a juste des vertiges quand il bouge la tête
+
+36
+00:02:48,109 --> 00:02:53,410 35
+bah là il faut qu'il aille voir son médecin traitant donc j'aimerais que vous l'emmeniez chez chez son médecin
+
+37
+00:02:54,560 --> 00:02:55,570 36
+parce que ce sera la solution
+
+38
+00:02:55,570 --> 00:02:57,180 37
+ça va être compliqué madame
+
+39
+00:02:58,310 --> 00:03:04,070 38
+parce que c'est la première fois qu'il fait ça ça c'est c'est c'est grave quand même ça ça m'inquiète
+
+40
+00:03:04,780 --> 00:03:12,920 39
+bah moi ce que heu la raison pour laquelle hum ce que je veux qu'il fasse c'est qu'il aille consulter son médecin traitant et pour ça j'aimerais que vous vous l'emmeniez
+
+41
+00:03:14,040 --> 00:03:16,640 40
+ce sera la solution la plus rapide pour lui pour qu'il voit un médecin
+
+42
+00:03:18,170 --> 00:03:20,590 41
+je fais comment si il vomit dans ma voiture?
+
+43
+00:03:21,040 --> 00:03:24,269 42
+bah vous prenez un sac pour le vomi et vous l'emmenez chez le médecin traitant là
+
+44
+00:03:24,829 --> 00:03:25,250 43
+ce matin
+
+45
+00:03:25,880 --> 00:03:26,730 44
+bah j'en ai pas
+
+46
+00:03:27,430 --> 00:03:28,690 45
+bah vous prenez un sac plastique
+
+47
+00:03:28,690 --> 00:03:31,870 46
+qu'il marche jusqu'à la voiture il va en mettre partout
+
+48
+00:03:32,519 --> 00:03:35,640 47
+c'est pas grave là il faut qu'il aille voir son médecin traitant aujourd'hui
+
+49
+00:03:36,799 --> 00:03:37,760 48
+et que vous l'emmeniez
+
+50
+00:03:39,739 --> 00:03:40,500 49
+aujourd'hui?
+
+51
+00:03:40,519 --> 00:03:41,290 50
+aujourd'hui oui
+
+52
+00:03:42,079 --> 00:03:47,269 51
+donc vous l'emmenez avec vous et puis heu si vraiment vous arrivez pas à joindre le médecin traitant vous nous rappelez
+
+53
+00:03:49,359 --> 00:03:51,870 52
+ben je vais on va on va on va essayer
+
+54
+00:03:52,380 --> 00:03:54,340 53
+ok au revoir madame
+
+55
+00:03:55,600 --> 00:03:56,460 54
+au revoir
+

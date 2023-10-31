@@ -1,0 +1,372 @@
+2
+00:00:00,750 --> 00:00:01,849 1
+d'accord
+
+3
+00:00:02,620 --> 00:00:07,280 2
+bonjour madame, je suis le docteur LAKHLIFI. vous appelez pour votre enfant de huit ans qui ne répond plus c'est ça?
+
+4
+00:00:07,830 --> 00:00:09,500 3
+oui oui bonjour oui
+
+5
+00:00:10,200 --> 00:00:12,200 4
+d'accord. est ce qu'il a les yeux ouverts?
+
+6
+00:00:13,560 --> 00:00:15,010 5
+bah je sais pas heu
+
+7
+00:00:15,510 --> 00:00:17,799 6
+il est dans son lit en fait heu je sais pas
+
+8
+00:00:17,840 --> 00:00:19,340 7
+est ce que vous pouvez aller le voir s'il vous plait?
+
+9
+00:00:19,950 --> 00:00:21,939 8
+bah bah non je peux pas
+
+10
+00:00:22,710 --> 00:00:27,400 9
+j'ai besoin que vous alliez le voir s'il vous plait, et vous le secouez un petit peu et je veux savoir si il répond
+
+11
+00:00:28,500 --> 00:00:30,990 10
+bah je sais pas, j'ai j'ai peur vraiment
+
+12
+00:00:31,689 --> 00:00:33,990 11
+on va faire ça ensemble. donc allez le voir dans sa chambre
+
+13
+00:00:34,870 --> 00:00:36,720 12
+ouais bah là je suis dans sa chambre ouais
+
+14
+00:00:36,720 --> 00:00:38,400 13
+d'accord. posez lui une question
+
+15
+00:00:40,360 --> 00:00:41,740 14
+demandez lui d'ouvrir les yeux
+
+16
+00:00:43,160 --> 00:00:46,110 15
+bah non je peux pas, je suis désolée
+
+17
+00:00:46,129 --> 00:00:47,480 16
+est ce que vous pouvez mettre le haut parleur?
+
+18
+00:00:48,920 --> 00:00:51,629 17
+ah bah non vu qu y a pas de on a pas de haut parleur
+
+19
+00:00:52,230 --> 00:00:53,449 18
+est ce que vous pouvez me le passer?
+
+20
+00:00:54,519 --> 00:00:55,220 19
+bah je peux pas là
+
+21
+00:00:55,360 --> 00:00:56,680 20
+passez le moi s'il vous plait
+
+22
+00:00:58,330 --> 00:01:01,380 21
+eh ERIC. bah il p- il p- bah je sais pas il
+
+23
+00:01:02,260 --> 00:01:03,510 22
+il dormait mais là je sais pas
+
+24
+00:01:03,580 --> 00:01:04,570 23
+là vous l'avez réveillé?
+
+25
+00:01:05,730 --> 00:01:08,290 24
+bah non non je suis à côté, j'ai un peu
+
+26
+00:01:08,930 --> 00:01:10,060 25
+réveillez le s'il vous plait
+
+27
+00:01:11,620 --> 00:01:13,010 26
+ERIC, réveille toi
+
+28
+00:01:13,620 --> 00:01:14,110 27
+ERIC
+
+29
+00:01:14,750 --> 00:01:15,760 28
+il se réveille?
+
+30
+00:01:16,660 --> 00:01:18,140 29
+bah non
+
+31
+00:01:18,560 --> 00:01:19,510 30
+il ouvre pas les yeux?
+
+32
+00:01:21,950 --> 00:01:24,810 31
+bah je je qu- je lui ai pas demandé quoi, je sais pas
+
+33
+00:01:24,900 --> 00:01:26,090 32
+demandez lui d'ouvrir les yeux
+
+34
+00:01:27,570 --> 00:01:29,840 33
+ERIC ouv- ouvre les yeux ERIC
+
+35
+00:01:31,480 --> 00:01:33,060 34
+il bouge un peu les paupières ouais
+
+36
+00:01:33,520 --> 00:01:36,200 35
+d'accord. heu ça fait combien de temps qu'il est comme ça?
+
+37
+00:01:37,270 --> 00:01:43,580 36
+bah en fait là il est il a je sais pas depuis quatorze heures c'était le la sieste à quatorze heures
+
+38
+00:01:44,640 --> 00:01:44,940 37
+hum
+
+39
+00:01:44,960 --> 00:01:47,380 38
+et d'habitude il fait le goûter là
+
+40
+00:01:47,640 --> 00:01:48,290 39
+d'accord
+
+41
+00:01:48,340 --> 00:01:49,250 40
+c'est l'heure du NUTELLA
+
+42
+00:01:49,710 --> 00:01:51,490 41
+et il s'est pas réveillé spontanément. c'est ça?
+
+43
+00:01:51,900 --> 00:01:54,690 42
+ouais à mon avis il s'est couché couché super tard
+
+44
+00:01:54,810 --> 00:01:56,110 43
+il a des problèmes de santé?
+
+45
+00:01:56,810 --> 00:01:59,180 44
+bah non. non non
+
+46
+00:01:59,210 --> 00:02:02,110 45
+et c'est la première fois qu'il ne se réveille pas comme ça de sa sieste?
+
+47
+00:02:03,410 --> 00:02:06,780 46
+heu ouais d'habitude je vous dis c'est c'est le NUTELLA là
+
+48
+00:02:07,900 --> 00:02:08,660 47
+c'est l'heure du goûter
+
+49
+00:02:09,390 --> 00:02:10,650 48
+il allait bien ce matin?
+
+50
+00:02:12,510 --> 00:02:14,320 49
+heu, je sais pas, ouais
+
+51
+00:02:15,210 --> 00:02:15,510 50
+je pense
+
+52
+00:02:16,620 --> 00:02:18,290 51
+est ce que vous pouvez lui demander de se lever?
+
+53
+00:02:19,660 --> 00:02:25,200 52
+ah bah non je je peux pas madame, je suis inquiète là, je peux pas lui demander
+
+54
+00:02:25,760 --> 00:02:27,360 53
+pour quelle raison vous pouvez pas lui demander?
+
+55
+00:02:29,190 --> 00:02:32,880 54
+bah je sais pas il se réveille pas comme d'habitude donc c'est un peu je sais pas
+
+56
+00:02:34,370 --> 00:02:39,770 55
+donc là si je résume bien, quand vous le secouez il ouvre quand même les yeux, il réagit, c'est ça?
+
+57
+00:02:41,630 --> 00:02:42,680 56
+bah hum je sais pas ouais
+
+58
+00:02:42,710 --> 00:02:44,380 57
+mais il ne se réveille pas correctement
+
+59
+00:02:47,460 --> 00:02:50,760 58
+bah je sais pas il dort enfin il est toujours dans son lit quoi
+
+60
+00:02:51,510 --> 00:02:52,940 59
+il est, j'ai pas entendu, il est quoi?
+
+61
+00:02:52,950 --> 00:02:55,250 60
+il est il est dans son lit là donc heu
+
+62
+00:02:56,460 --> 00:02:57,120 61
+il dormait quoi
+
+63
+00:02:57,660 --> 00:02:58,860 62
+et vous l'avez réveillé?
+
+64
+00:03:00,290 --> 00:03:01,820 63
+bah non
+
+65
+00:03:02,390 --> 00:03:11,350 64
+est ce que vous pouvez s'il vous plait madame heu lui demander de se de se lever, vous le stimulez, vous le réveillez, vous l'appelez, vous le secouez un petit peu, vous lui demandez se- se-de se lever de son lit
+
+66
+00:03:12,220 --> 00:03:14,410 65
+là je comprends plus là, y a trop de choses
+
+67
+00:03:16,090 --> 00:03:16,620 66
+bon
+
+68
+00:03:17,070 --> 00:03:17,720 67
+je comprends pas
+
+69
+00:03:18,300 --> 00:03:18,770 68
+d'accord
+
+70
+00:03:19,630 --> 00:03:26,790 69
+écoutez. on va vous envoyer heu les pompiers qui vont évaluer un peu la situation et heu ils nous rappelleront si y a quoi que ce soit
+
+71
+00:03:28,930 --> 00:03:32,620 70
+mais en attendant il il bouge pas du coup je le laisse comme ça dormir, je sais pas?
+
+72
+00:03:33,140 --> 00:03:36,620 71
+heu laissez le dans son lit pour l'instant, restez à côté de lui et les pompiers vont arriver
+
+73
+00:03:38,840 --> 00:03:40,090 72
+d'accord je ok
+
+74
+00:03:40,320 --> 00:03:42,440 73
+et vous nous rappelez si il y a quoique ce soit de nouveau
+
+75
+00:03:44,620 --> 00:03:47,330 74
+de nouveau. hum. d'accord, mais
+
+76
+00:03:48,280 --> 00:03:50,280 75
+sinon je le laisse comme ça?
+
+77
+00:03:50,310 --> 00:03:50,660 76
+oui
+
+78
+00:03:53,360 --> 00:03:53,840 77
+d'accord
+
+79
+00:03:56,090 --> 00:03:57,450 78
+très bien madame, merci
+
+80
+00:03:58,130 --> 00:03:58,890 79
+je suis inquiète hein
+
+81
+00:03:59,430 --> 00:04:01,060 80
+oui, c'est pour ça qu'on vous envoie les pompiers
+
+82
+00:04:04,030 --> 00:04:05,090 81
+dans combien de temps?
+
+83
+00:04:05,840 --> 00:04:06,780 82
+là ils partent
+
+84
+00:04:07,890 --> 00:04:10,940 83
+donc ils arriveront d'ici hum maximum vingt minutes
+
+85
+00:04:12,450 --> 00:04:13,880 84
+d'accord. sinon je rappelle hein?
+
+86
+00:04:14,150 --> 00:04:14,549 85
+oui
+
+87
+00:04:14,620 --> 00:04:15,020 86
+d'accord
+
+88
+00:04:15,900 --> 00:04:17,890 87
+bon ok
+
+89
+00:04:19,979 --> 00:04:20,510 88
+au revoir
+
+90
+00:04:20,899 --> 00:04:22,190 89
+<NA>
+
+91
+00:04:22,190 --> 00:04:24,719 90
+je vais rester à côt- je vais regarder
+
+92
+00:04:24,719 --> 00:04:25,620 91
+d'accord
+
+93
+00:04:25,679 --> 00:04:26,760 92
+voilà au revoir
+
+94
+00:04:26,760 --> 00:04:27,159 93
+au revoir
+

@@ -1,0 +1,152 @@
+2
+00:00:01,750 --> 00:00:08,899 1
+bonjour monsieur DIANE DOUPLE je suis médecin du SAMU heu vous appelez parce que vous avez heu des symptômes d'AVC c'est ça?
+
+3
+00:00:10,300 --> 00:00:16,150 2
+de d'a- d'AVC je je sais pas je suis désolé d'appeler hein désolé de déranger là je sais que vous avez du travail hein
+
+4
+00:00:16,200 --> 00:00:19,300 3
+il y a pas de problème expliquez moi ce qui vous arrive comme symptômes
+
+5
+00:00:20,750 --> 00:00:25,450 4
+bah bah oui mon bras il il est bizarre
+
+6
+00:00:25,850 --> 00:00:27,050 5
+d'accord c'est lequel?
+
+7
+00:00:28,650 --> 00:00:30,300 6
+c'est le bras gauche
+
+8
+00:00:30,500 --> 00:00:31,750 7
+et ça a commencé quand?
+
+9
+00:00:33,699 --> 00:00:37,300 8
+j'ai j'ai fait une sieste et ça a commencé après
+
+10
+00:00:38,199 --> 00:00:40,550 9
+c'était à quelle heure que vous vous êtes réveillé?
+
+11
+00:00:42,000 --> 00:00:44,300 10
+je me suis réveillé à treize heures trente
+
+12
+00:00:45,050 --> 00:00:47,599 11
+treize heures trente vous avez des problèmes de santé?
+
+13
+00:00:49,150 --> 00:00:51,000 12
+heu oui j'ai des problèmes de santé
+
+14
+00:00:51,150 --> 00:00:52,400 13
+vous pouvez me dire lesquels?
+
+15
+00:00:54,099 --> 00:00:59,349 14
+heu j'ai j'ai du diabète je crois et la tension aussi
+
+16
+00:00:59,399 --> 00:01:01,649 15
+les médicaments que vous prenez vous les connaissez?
+
+17
+00:01:03,250 --> 00:01:05,050 16
+non je connais pas le le nom
+
+18
+00:01:05,200 --> 00:01:11,100 17
+faudrait faut que vous récupériez l'ordonnance heu chez vous et que vous me donniez les les noms des médicaments
+
+19
+00:01:12,450 --> 00:01:13,399 18
+d'accord
+
+20
+00:01:14,950 --> 00:01:15,720 19
+je vous laisse y aller?
+
+21
+00:01:15,730 --> 00:01:16,820 20
+heu là je
+
+22
+00:01:18,270 --> 00:01:24,840 21
+et je j'y vais hein mais heu je crois que je l'ai perdue je je sais pas où elle est je je la trouve pas
+
+23
+00:01:24,869 --> 00:01:26,730 22
+et votre bras gauche il bouge plus là?
+
+24
+00:01:28,800 --> 00:01:31,250 23
+et heu le b- non la main bouge plus
+
+25
+00:01:32,830 --> 00:01:37,580 24
+et par contre si vous prenez la la main droite et que vous touchez le la main gauche vous sentez bien?
+
+26
+00:01:39,929 --> 00:01:43,350 25
+oui oui je sens je sens bien j'ai pris du paracétamol hein
+
+27
+00:01:44,530 --> 00:01:46,020 26
+vous êtes tout seul à la maison là?
+
+28
+00:01:47,450 --> 00:01:48,720 27
+oui je suis seul madame
+
+29
+00:01:49,320 --> 00:01:54,530 28
+alors j'aimerais que vous vous allongiez et heu je vais envoyer les secours pour aller jusqu'à chez vous
+
+30
+00:01:54,700 --> 00:01:55,550 29
+d'accord
+
+31
+00:01:56,420 --> 00:01:58,060 30
+là je je pense que
+
+32
+00:01:58,060 --> 00:02:04,540 31
+c'est possible que quelqu'un faut que j'aille à l'hôpital si c'est obligé il y a pas quelqu'un qui peut venir me faire une piqûre pour la douleur?
+
+33
+00:02:04,660 --> 00:02:09,310 32
+non il faut que vous alliez à l'hôpital c'est obligatoire et je pense que vous pouvez faire un
+
+34
+00:02:09,310 --> 00:02:14,880 33
+embêter à l'hôpital hein moi je veux je préfererais que quelqu'un vienne quand même pour me f- pour la douleur de mon bras
+
+35
+00:02:14,880 --> 00:02:28,920 34
+vous embêterez pas à l'hôpital monsieur moi j'ai besoin qu'il y ait un médecin qui vous évalue et là vous pouvez pas vous déplacer dans l'immédiat donc je vous envoie les secours qui vont arriver chez vous en attendant il faut que vous vous allongiez et que vous gardiez votre téléphone près de vous pour qu'ils puissent vous joindre en arrivant
+
+36
+00:02:29,650 --> 00:02:30,080 35
+d'accord?
+
+37
+00:02:30,270 --> 00:02:32,000 36
+d'accord madame oui
+
+38
+00:02:32,730 --> 00:02:33,320 37
+au revoir
+
+39
+00:02:34,450 --> 00:02:35,110 38
+au revoir
+

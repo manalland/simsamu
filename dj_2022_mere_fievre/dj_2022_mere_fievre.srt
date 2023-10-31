@@ -1,0 +1,236 @@
+2
+00:00:02,799 --> 00:00:04,350 1
+bonjour monsieur docteur CHI-
+
+3
+00:00:04,350 --> 00:00:04,869 2
+allo allo?
+
+4
+00:00:04,869 --> 00:00:05,260 3
+oui allo?
+
+5
+00:00:05,279 --> 00:00:05,600 4
+allo?
+
+6
+00:00:05,680 --> 00:00:06,799 5
+bonjour monsieur docteur CHITZ
+
+7
+00:00:06,799 --> 00:00:07,150 6
+bonjour
+
+8
+00:00:07,209 --> 00:00:10,060 7
+je vous appelez pour votre maman qui a de la fièvre c'est ça?
+
+9
+00:00:10,810 --> 00:00:12,950 8
+ouais c'est c'est maman elle a de la fièvre ouais ouais
+
+10
+00:00:13,299 --> 00:00:13,950 9
+d'accord
+
+11
+00:00:13,970 --> 00:00:14,139 10
+ouais
+
+12
+00:00:14,220 --> 00:00:16,820 11
+qu'est ce qui vous inquiète particulièrement, elle a d'autres symptômes?
+
+13
+00:00:18,330 --> 00:00:21,470 12
+bah je je sais pas trop elle a de la fièvre ça chauffe quoi
+
+14
+00:00:21,740 --> 00:00:22,710 13
+ça chauffe. d'accord
+
+15
+00:00:22,710 --> 00:00:23,180 14
+elle a chaud
+
+16
+00:00:23,610 --> 00:00:25,220 15
+elle a chaud. depuis combien de temps?
+
+17
+00:00:26,620 --> 00:00:33,050 16
+heu bah elle m'a dit ça ce matin et après hier je sais plus hein, mais heu ce matin ça chauffe et de la fièvre
+
+18
+00:00:33,720 --> 00:00:37,120 17
+je peux lui parl-, je peux, est ce que vous pouvez me la p-, non. passez la moi
+
+19
+00:00:38,390 --> 00:00:42,200 18
+ah non non, elle est pas dans la même pièce c'est chaud. non non non il faut pas je peux pas la passer
+
+20
+00:00:42,330 --> 00:00:46,650 19
+oh hum. non mais allez y, allez allez la voir et mettez là au téléphone
+
+21
+00:00:47,370 --> 00:00:50,420 20
+non mais elle veut pas elle veut pas. elle est fatiguée, elle a chaud elle peut pas parler
+
+22
+00:00:51,100 --> 00:00:52,020 21
+elle peut pas parler
+
+23
+00:00:52,020 --> 00:00:55,840 22
+faut l'amener à l'hôpital de toute façon parce que parce que elle a trop chaud, elle a la fièvre donc heu
+
+24
+00:00:56,680 --> 00:00:58,419 23
+elle elle a du mal à respirer?
+
+25
+00:00:59,630 --> 00:01:01,449 24
+​heu je regarde
+
+26
+00:01:02,050 --> 00:01:03,150 25
+non ça va, ça va
+
+27
+00:01:03,230 --> 00:01:04,819 26
+ah donc vous êtes à côté d'elle?
+
+28
+00:01:05,759 --> 00:01:07,030 27
+oui bah je suis allé la voir quoi
+
+29
+00:01:07,280 --> 00:01:08,690 28
+d'accord. donc passez la moi
+
+30
+00:01:09,550 --> 00:01:13,580 29
+mais elle veut pas parler heu c'est. maman euh? non je je lui demande mais elle veut pas elle
+
+31
+00:01:14,479 --> 00:01:15,289 30
+pourquoi elle veut pas?
+
+32
+00:01:16,440 --> 00:01:18,300 31
+heu bah je sais pas moi, j'en sais rien
+
+33
+00:01:19,199 --> 00:01:21,220 32
+ok hum
+
+34
+00:01:22,360 --> 00:01:23,050 33
+fièvre hum
+
+35
+00:01:23,550 --> 00:01:24,929 34
+elle a d'autre problèmes de santé?
+
+36
+00:01:26,320 --> 00:01:28,080 35
+elle a deux trois trucs ouais
+
+37
+00:01:28,470 --> 00:01:29,110 36
+deux trois trucs?
+
+38
+00:01:29,110 --> 00:01:30,440 37
+y a un médecin qui la suit pour ça
+
+39
+00:01:31,300 --> 00:01:31,960 38
+hum d'accord
+
+40
+00:01:32,890 --> 00:01:37,970 39
+hum je veux, je je souhaite lui parler, vous pouvez me la passer au téléphone s'il vous plait?
+
+41
+00:01:39,009 --> 00:01:40,199 40
+bah je vais essayer alors
+
+42
+00:01:40,259 --> 00:01:40,720 41
+allez y
+
+43
+00:01:45,300 --> 00:01:48,280 42
+non mais elle veut pas, elle veut pas. elle m'a dit casse toi heu
+
+44
+00:01:48,399 --> 00:01:49,089 43
+casse toi?
+
+45
+00:01:49,089 --> 00:01:53,550 44
+elle m'a dit fout moi la paix alors après. c'est pour ça il faut l'amener à l'hôpital. là je peux pas la gérer hein
+
+46
+00:01:54,119 --> 00:02:01,009 45
+bon hum. concrètement il faut aller voir un médecin heu hum donc essayez d'aller dans la maison médicale près de vous
+
+47
+00:02:01,250 --> 00:02:06,620 46
+ah non mais je faut l'emmener à l'hôpital, moi je peux pas gérer, j'ai j'ai pas le permis, je peux pas l'amener elle
+
+48
+00:02:06,710 --> 00:02:07,009 47
+ok
+
+49
+00:02:07,009 --> 00:02:09,239 48
+elle est forte ma mère hein, elle est grosse heu genre je
+
+50
+00:02:10,380 --> 00:02:11,710 49
+c'est compliqué hein, moi je peux pas
+
+51
+00:02:11,989 --> 00:02:18,180 50
+alors ce qu'on va faire dans ce cas c'est que je vais vous envoyer un médecin à la maison pour qu'il évalue votre mère d'accord?
+
+52
+00:02:18,239 --> 00:02:30,743 51
+mais moi je peux pas gérer ma mère comme ça à la maison heu je suis désolé moi je j'arrive pas heu heu. je comprends rien à son ordonnance fin voilà, donc faut l'amener à l'hôpital je crois que c'est grave hein. elle a très très chaud, elle avait de la fièvre tout ça
+
+53
+00:02:30,820 --> 00:02:35,120 52
+oui. monsieur je comprends votre soucis on va f- heu je vais faire passer un médecin à la maison
+
+54
+00:02:35,739 --> 00:02:37,340 53
+mais après il va l'amener à l'hôpital alors?
+
+55
+00:02:37,410 --> 00:02:40,930 54
+bah il va l'évaluer et on. il nous rappellera
+
+56
+00:02:41,870 --> 00:02:43,670 55
+et peut être qu'on va l'amener à l'hôpital alors?
+
+57
+00:02:43,700 --> 00:02:44,820 56
+c'est lui qui décidera
+
+58
+00:02:46,859 --> 00:02:47,790 57
+bon bah d'accord alors
+
+59
+00:02:47,890 --> 00:02:49,579 58
+ok. au revoir monsieur
+
+60
+00:02:49,799 --> 00:02:50,810 59
+au revoir
+

@@ -1,0 +1,232 @@
+2
+00:00:04,050 --> 00:00:12,600 1
+oui bonjour madame NICOLAS GUILLAM je suis le médecin du SAMU du coup vous appelez bien heu pour votre soeur qui s'est brûlée c'est ça? bonjour madame est ce que votre soeur elle a des problèmes de santé habituellement?
+
+3
+00:00:14,399 --> 00:00:15,950 2
+heu non
+
+4
+00:00:16,100 --> 00:00:17,650 3
+d'accord elle a jamais été hospitalisée?
+
+5
+00:00:19,750 --> 00:00:21,280 4
+heu non
+
+6
+00:00:21,320 --> 00:00:22,720 5
+elle prend pas de médicaments tous les jours?
+
+7
+00:00:25,420 --> 00:00:25,830 6
+non
+
+8
+00:00:25,880 --> 00:00:27,040 7
+elle a quel âge votre soeur pardon?
+
+9
+00:00:29,799 --> 00:00:31,320 8
+elle a vingt huit ans
+
+10
+00:00:31,460 --> 00:00:31,780 9
+d'accord
+
+11
+00:00:31,780 --> 00:00:32,750 10
+et elle est brûlée
+
+12
+00:00:32,940 --> 00:00:34,240 11
+elle s'est brûlée avec quoi madame?
+
+13
+00:00:36,110 --> 00:00:36,960 12
+de l'eau?
+
+14
+00:00:36,960 --> 00:00:37,660 13
+de l'eau
+
+15
+00:00:37,730 --> 00:00:39,330 14
+avec de l'eau d'accord
+
+16
+00:00:39,330 --> 00:00:41,080 15
+elle a elle a des brûlures ​à quel niveau?
+
+17
+00:00:43,080 --> 00:00:52,280 16
+heu au niveau des mains et au niveau de la jambe droite aussi un peu au niveau de la cuisse en fait elle m'a appelé et du coup j'ai pris ma voiture je suis venue chez elle
+
+18
+00:00:52,380 --> 00:00:54,600 17
+d'accord donc là à ce moment elle est pas avec vous c'est ça?
+
+19
+00:00:56,290 --> 00:00:58,090 18
+vous êtes en voiture en route pour la rejoindre?
+
+20
+00:01:00,140 --> 00:01:05,090 19
+non elle m'a appelée et comme j'habite pas loin j'ai pris ma voiture et là je suis chez elle
+
+21
+00:01:05,110 --> 00:01:06,650 20
+ah vous êtes chez elle? d'accord
+
+22
+00:01:07,130 --> 00:01:09,900 21
+heu donc vous avez dit les mains c'est des deux côtés des mains c'est ça?
+
+23
+00:01:11,920 --> 00:01:13,120 22
+heu oui oui
+
+24
+00:01:13,290 --> 00:01:15,350 23
+les bras la tête il y a pas?
+
+25
+00:01:15,350 --> 00:01:16,610 24
+il y a des cloques
+
+26
+00:01:16,710 --> 00:01:20,540 25
+sur la tête il y a pas de il y a pas d'atteinte? il y a pas de brûlures sur la tête pas de
+
+27
+00:01:20,550 --> 00:01:20,950 26
+non
+
+28
+00:01:20,950 --> 00:01:21,550 27
+ou de bulles?
+
+29
+00:01:23,150 --> 00:01:23,980 28
+non non
+
+30
+00:01:24,080 --> 00:01:25,150 29
+torse le dos non plus
+
+31
+00:01:27,140 --> 00:01:29,380 30
+non pas que je vois après elle a ses vêtements
+
+32
+00:01:30,040 --> 00:01:35,000 31
+ça marche là heu qu'est ce que vous avez fait est ce que vous avez mis de l'eau dessus sur les brûlures?
+
+33
+00:01:35,170 --> 00:01:36,760 32
+elle elle est où en ce moment là madame?
+
+34
+00:01:38,330 --> 00:01:41,030 33
+non elle est à côté de moi elle crie
+
+35
+00:01:41,750 --> 00:01:42,290 34
+elle crie?
+
+36
+00:01:42,520 --> 00:01:43,660 35
+on doit aller à l'hôpital?
+
+37
+00:01:45,050 --> 00:01:47,670 36
+je est ce que vous pouvez me la passer madame c'est possible?
+
+38
+00:01:49,120 --> 00:01:51,350 37
+ah non parce que là elle a très très mal là
+
+39
+00:01:52,120 --> 00:01:54,400 38
+elle est capable de vous parler ou elle fait que crier?
+
+40
+00:01:56,200 --> 00:01:59,800 39
+elle elle pleure elle a mal elle pleure elle dit j'ai mal
+
+41
+00:02:00,450 --> 00:02:04,860 40
+est ce que vous avez mis de l'eau sur les brûlures est ce que vous avez fait couler de l'eau en ce moment sinon il faudrait le faire madame
+
+42
+00:02:05,400 --> 00:02:06,860 41
+hum non
+
+43
+00:02:08,150 --> 00:02:12,520 42
+bon alors vous allez heu elle est installée où là dans quel endroit de la maison de l'appartement
+
+44
+00:02:13,660 --> 00:02:15,670 43
+elle est assise dans la cuisine
+
+45
+00:02:15,960 --> 00:02:24,660 44
+est ce qu'elle peut se déplacer jusqu'à un endroit où il y a de l'eau le robinet pour mettre de l'eau au niveau de ses mains ou éventuellement dans la baignoire la salle de bain pour mettre de l'eau au niveau de ses mains et de ses jambes
+
+46
+00:02:24,660 --> 00:02:26,800 45
+et moi je vous envoie une ambulance d'accord madame?
+
+47
+00:02:28,800 --> 00:02:31,530 46
+d'accord et donc on doit aller à l'hôpital?
+
+48
+00:02:31,710 --> 00:02:34,520 47
+oui il faut aller à l'hôpital pour évaluer les lésions et pour s'en occuper
+
+49
+00:02:35,800 --> 00:02:37,230 48
+donc je vous envoie une ambulance
+
+50
+00:02:37,760 --> 00:02:38,900 49
+heu vous m'appelez
+
+51
+00:02:38,900 --> 00:02:40,670 50
+donc je mets sa main sous l'eau
+
+52
+00:02:41,540 --> 00:02:50,710 51
+oui c'est ça vous mettez sa main les zones brûlées la main les jambes sous l'eau vous retirez pas les vêtements et vous me confirmez madame il y a pas d'atteinte au niveau de la tête du cou ou des organes génitaux?
+
+53
+00:02:52,720 --> 00:02:53,280 52
+non
+
+54
+00:02:53,340 --> 00:03:07,330 53
+d'accord donc là vous vous donc vous faites ce que je vous ai dit vous mettez la dame dans la baignoire si possible ou dans la cuisine à à côté d'un robinet vous appuyez sur les zones découv- vous mettez de l'eau sur les zones découvertes pardon et on vous envoie une ambulance dans la demi heure elle va arriver l'ambulance
+
+55
+00:03:08,950 --> 00:03:09,660 54
+d'accord
+
+56
+00:03:10,160 --> 00:03:10,920 55
+à tout à l'heure madame
+
+57
+00:03:10,930 --> 00:03:11,170 56
+ok
+
+58
+00:03:12,820 --> 00:03:13,350 57
+au revoir
+
+59
+00:03:13,440 --> 00:03:13,790 58
+au revoir
+

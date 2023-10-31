@@ -1,0 +1,320 @@
+2
+00:00:00,200 --> 00:00:02,300 1
+ok allo?
+
+3
+00:00:02,300 --> 00:00:03,269 2
+allo? oui
+
+4
+00:00:03,269 --> 00:00:08,380 3
+bonjour monsieur je suis le docteur DETOURY au SAMU alors vous appelez pour votre collègue qui a fait un malaise c'est ça?
+
+5
+00:00:09,240 --> 00:00:10,450 4
+oui c'est bien ça
+
+6
+00:00:10,530 --> 00:00:12,590 5
+d'accord ok là il a récupéré de son malaise?
+
+7
+00:00:13,600 --> 00:00:16,460 6
+oh bah je sais pas trop heu
+
+8
+00:00:16,670 --> 00:00:18,060 7
+il vous répond quand vous lui parlez?
+
+9
+00:00:19,020 --> 00:00:19,900 8
+oui il répond
+
+10
+00:00:20,040 --> 00:00:21,920 9
+d'accord et il respire normalement?
+
+11
+00:00:22,740 --> 00:00:24,009 10
+il respire normalement oui
+
+12
+00:00:24,240 --> 00:00:31,299 11
+d'accord ok alors hum heu est ce que là il vous pouvez me le passer au téléphone?
+
+13
+00:00:32,240 --> 00:00:35,370 12
+heu il se sent pas très bien je pourrais vous le passer oui
+
+14
+00:00:36,240 --> 00:00:43,050 13
+heu très bien juste avant de me le passer avant son malaise heu il vous a prévenu de quelque chose il a senti que ça n'allait pas?
+
+15
+00:00:44,050 --> 00:00:49,280 14
+bah il heu pff c'est c'est difficile parce que il a dit il parle pas très bien français
+
+16
+00:00:49,670 --> 00:00:50,089 15
+hum
+
+17
+00:00:50,110 --> 00:01:01,499 16
+il a dit qu'il se sentait pas bien heu et heu moi derrière j'ai appelé heu le 15 pour heu pour heu voilà vu qu'il se sentait pas bien j'ai appelé le 15
+
+18
+00:01:01,499 --> 00:01:05,080 17
+d'accord est ce qu'il a perdu connaissance est ce que à un moment il était comme si il dormait?
+
+19
+00:01:05,910 --> 00:01:07,710 18
+heu non il a pas perdu connaissance
+
+20
+00:01:07,850 --> 00:01:09,380 19
+d'accord il est pas tombé?
+
+21
+00:01:09,990 --> 00:01:11,190 20
+heu non il est pas tombé
+
+22
+00:01:11,560 --> 00:01:14,520 21
+d'accord très bien est ce que heu passez le moi au téléphone s'il vous plait
+
+23
+00:01:14,850 --> 00:01:15,460 22
+ok
+
+24
+00:01:17,700 --> 00:01:18,250 23
+allo?
+
+25
+00:01:18,350 --> 00:01:18,970 24
+allo?
+
+26
+00:01:19,920 --> 00:01:20,810 25
+oui bonjour?
+
+27
+00:01:20,860 --> 00:01:23,270 26
+bonjour monsieur je suis le médecin du SAMU
+
+28
+00:01:24,320 --> 00:01:24,950 27
+bonjour
+
+29
+00:01:25,250 --> 00:01:29,410 28
+est ce que heu ça vous est déjà arrivé de faire un malaise comme ça?
+
+30
+00:01:30,430 --> 00:01:34,100 29
+heu parlez plus doucement moi pas bien comprendre
+
+31
+00:01:34,100 --> 00:01:35,540 30
+pardon vous parlez anglais?
+
+32
+00:01:36,380 --> 00:01:37,090 31
+heu non
+
+33
+00:01:37,140 --> 00:01:41,470 32
+d'accord le malaise c'est la première fois?
+
+34
+00:01:42,440 --> 00:01:44,060 33
+heu oui première fois oui
+
+35
+00:01:44,270 --> 00:01:48,670 34
+d'accord et vous avez eu une douleur quelque part?
+
+36
+00:01:49,750 --> 00:01:50,630 35
+heu non
+
+37
+00:01:50,770 --> 00:01:51,620 36
+pas de douleur
+
+38
+00:01:52,880 --> 00:01:58,200 37
+ok est ce que vous avez hum ah ah
+
+39
+00:01:58,760 --> 00:02:03,110 38
+est ce que vous avez des problèmes de santé? des maladies?
+
+40
+00:02:03,140 --> 00:02:06,440 39
+heu n- non pas maladie non non
+
+41
+00:02:07,070 --> 00:02:09,660 40
+d'accord là maintenant ça va?
+
+42
+00:02:11,039 --> 00:02:13,930 41
+ça va heu fa- fatigué
+
+43
+00:02:15,420 --> 00:02:16,380 42
+d'accord
+
+44
+00:02:18,110 --> 00:02:21,420 43
+et hum qu'est ce heu
+
+45
+00:02:22,943 --> 00:02:27,243 44
+<NA>
+
+46
+00:02:28,240 --> 00:02:29,770 45
+hum
+
+47
+00:02:30,293 --> 00:02:32,793 46
+<NA>
+
+48
+00:02:33,430 --> 00:02:42,510 47
+d'accord monsieur peut être qu'il faut aller aux urgences pour voir un médecin et essayer de comprendre ce qu'il s'est passé vous comprenez?
+
+49
+00:02:43,390 --> 00:02:44,220 48
+urgences?
+
+50
+00:02:44,760 --> 00:02:46,960 49
+peut être peut être qu'il faut voir un docteur
+
+51
+00:02:48,180 --> 00:02:48,470 50
+ok
+
+52
+00:02:48,480 --> 00:02:50,090 51
+à cause de votre malaise
+
+53
+00:02:50,380 --> 00:02:52,220 52
+heu où où urgences où?
+
+54
+00:02:53,450 --> 00:02:57,060 53
+hum vous avez pas de médecin traitant?
+
+55
+00:02:57,800 --> 00:02:58,280 54
+non
+
+56
+00:02:58,290 --> 00:02:58,670 55
+non
+
+58
+00:02:59,549 --> 00:03:03,720 56
+il est où votre lieu de travail monsieur? c'est c'est quoi l'adresse de votre travail?
+
+59
+00:03:04,139 --> 00:03:10,549 57
+heu m- m- heu entreprise STEF heu AUL- AULNAY
+
+61
+00:03:12,799 --> 00:03:21,859 58
+il faut il faut aller heu consulter un médecin généraliste sûrement mais pas forcément les urgences vous pouvez aller
+
+62
+00:03:21,880 --> 00:03:22,490 59
+oh
+
+63
+00:03:22,600 --> 00:03:24,270 60
+attendez passez moi votre collègue
+
+64
+00:03:24,820 --> 00:03:25,270 61
+ok
+
+65
+00:03:26,419 --> 00:03:26,900 62
+allo?
+
+66
+00:03:27,199 --> 00:03:39,620 63
+oui bonjour hum je pense que votre collègue il faut qu'il aille consulter un médecin généraliste heu à la maison médicale de garde heu mais j'avais un peu de mal à lui expliquer vous pouvez trouver sur GOOGLE MAPS où ça se trouve et lui montrer?
+
+67
+00:03:39,960 --> 00:03:42,040 64
+médecin généraliste de de garde vous m'avez dit?
+
+68
+00:03:42,090 --> 00:03:45,645 65
+à la maison la maison médicale de garde excusez moi je parle trop vite
+
+69
+00:03:46,169 --> 00:03:48,600 66
+ok d'accord c'est où exactement?
+
+70
+00:03:51,390 --> 00:03:56,630 67
+heu c'est heu hum à BONDY à côté de l'hôpital JEAN VERDIER
+
+71
+00:03:57,590 --> 00:03:58,210 68
+ok
+
+72
+00:03:58,448 --> 00:04:01,840 69
+ou sinon là v- votre lieu de travail il est heu dans quelle ville?
+
+73
+00:04:02,280 --> 00:04:06,160 70
+à à AULNAY à AULNEY heu c'est l'entreprise heu STEF
+
+74
+00:04:07,037 --> 00:04:21,269 71
+d'acc bah y a une maison médicale de garde à AULNAY qui se situe à telle adresse que je suis en train de vous dire heu voilà l'adresse et heu vous vous hum vous pouvez accompagner votre collègue vous ou pas?
+
+75
+00:04:22,130 --> 00:04:38,046 72
+heu non moi moi je moi je peux pas heu je peux p- non je peux pas l'accompagner mais heu le patient enfin le le l- mon collègue il parle pas très bien français donc je sais pas si il va réussir à à à l- à se déplacer ou à même
+
+76
+00:04:38,859 --> 00:04:39,996 73
+à se déplacer?
+
+77
+00:04:40,498 --> 00:04:45,998 74
+à à à y aller je pense qu'il est pas il il est pas véhiculé il v- il il vient en transports je pense
+
+78
+00:04:46,659 --> 00:04:49,748 75
+bah là il peut prendre les transports pour la maison médicale de garde
+
+79
+00:04:50,099 --> 00:04:53,159 76
+ok donc donc je lui dis de prendre les transports heu
+
+80
+00:04:53,159 --> 00:04:54,799 77
+vous lui montrez où c'est et sur l'adresse
+
+81
+00:04:55,948 --> 00:04:56,859 78
+ok d'accord
+
+82
+00:04:57,239 --> 00:04:59,198 79
+super merci beaucoup monsieur
+
+83
+00:04:59,390 --> 00:05:00,340 80
+oui de rien
+

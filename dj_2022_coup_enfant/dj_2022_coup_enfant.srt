@@ -1,0 +1,196 @@
+4
+00:00:05,848 --> 00:00:14,200 1
+ok c'est bon. oui bonjour heu, je suis le docteur CELINE le médecin régulateur. c'est v-. vous appelez votre fils heu qui a reçu des coups?
+
+5
+00:00:14,500 --> 00:00:15,500 2
+oui oui c'est ça
+
+6
+00:00:15,500 --> 00:00:16,799 3
+oui? qu'est ce qui s'est passé?
+
+7
+00:00:17,650 --> 00:00:29,450 4
+heu et bah y a y a mon mari il bah il est enfin voilà il a tapé le petit quoi il lui a mis une tarte dans la gueule. je sais pas
+
+8
+00:00:29,560 --> 00:00:31,090 5
+c'est la première fois que ça arrive?
+
+9
+00:00:33,269 --> 00:00:34,500 6
+c'est la première fois que ça arrive?
+
+10
+00:00:35,769 --> 00:00:39,688 7
+euh ou- ouais je crois ouais ouais
+
+11
+00:00:40,620 --> 00:00:44,510 8
+là l'en- l'enfant vo- votre enfant, vous êtes avec lui?
+
+12
+00:00:45,500 --> 00:00:46,950 9
+là je suis pas avec lui non
+
+13
+00:00:47,310 --> 00:00:48,379 10
+et où est ce qu'il est?
+
+14
+00:00:49,110 --> 00:00:50,110 11
+bah il est dans sa chambre
+
+15
+00:00:50,110 --> 00:00:50,659 12
+d'accord
+
+16
+00:00:51,110 --> 00:00:53,700 13
+et heu il a hum il a mal où?
+
+17
+00:00:54,980 --> 00:00:56,170 14
+il a comment? j'ai pas entendu
+
+18
+00:00:56,239 --> 00:00:57,370 15
+où est ce qu'il a mal?
+
+19
+00:00:58,580 --> 00:01:00,170 16
+heu bah je suis pas allé lui demander
+
+20
+00:01:01,640 --> 00:01:03,120 17
+vous êtes pas parti le voir après?
+
+21
+00:01:04,120 --> 00:01:05,850 18
+si mais comme il pleurait je suis
+
+22
+00:01:06,190 --> 00:01:06,750 19
+d'accord
+
+23
+00:01:07,780 --> 00:01:11,030 20
+donc là il p- il vous parle normalement heu il heu
+
+24
+00:01:11,860 --> 00:01:12,860 21
+bah il pleure quoi
+
+25
+00:01:12,880 --> 00:01:13,450 22
+d'accord
+
+26
+00:01:14,160 --> 00:01:16,710 23
+et il s'est reçu du c- une gifle sur le visage?
+
+27
+00:01:18,080 --> 00:01:18,780 24
+ouais c'est ça ouais
+
+28
+00:01:18,780 --> 00:01:20,680 25
+d'accord. vous vous êtes vous avez reçu des coups?
+
+29
+00:01:21,990 --> 00:01:23,180 26
+moi? non non non
+
+30
+00:01:26,700 --> 00:01:30,320 27
+<NA>
+
+31
+00:01:30,430 --> 00:01:33,390 28
+hum donc là il pleure encore, vous êtes avec lui?
+
+32
+00:01:34,980 --> 00:01:38,420 29
+bah non je non non je suis dans le salon moi
+
+33
+00:01:38,430 --> 00:01:39,580 30
+et le mari où il est?
+
+34
+00:01:40,490 --> 00:01:46,620 31
+ah mon mari et bah il il tout à l'heure il est parti quoi, enfin il a crié puis il est parti
+
+35
+00:01:46,680 --> 00:01:48,820 32
+donc là il est plus à la maison avec vous?
+
+36
+00:01:49,240 --> 00:01:52,040 33
+non il est plus ​dans la maison
+
+37
+00:01:52,740 --> 00:01:59,499 34
+bah écoutez. on va vous envoyer des hum des secours pour aller à l'hôpital pour que l'enfant puisse être examiné
+
+38
+00:01:59,969 --> 00:02:00,729 35
+d'accord
+
+39
+00:02:01,729 --> 00:02:06,699 36
+donc restez à la maison et heu si il se passe heu quelque chose de nouveau vous nous rappelez
+
+40
+00:02:07,848 --> 00:02:08,709 37
+et si mon mari revient
+
+41
+00:02:08,709 --> 00:02:10,989 38
+si le mari revient vous appelez la police
+
+42
+00:02:12,099 --> 00:02:14,129 39
+ah d'accord. j'appelle la police, d'accord.
+
+43
+00:02:14,709 --> 00:02:16,829 40
+et heu les secours arrivent au plus vite pour heu
+
+44
+00:02:16,829 --> 00:02:17,769 41
+je vous rappelle pas vous?
+
+45
+00:02:18,649 --> 00:02:22,390 42
+bah là les je pense que les les pompiers vont pas vont arriver assez vite
+
+46
+00:02:22,859 --> 00:02:23,279 43
+et heu
+
+47
+00:02:23,279 --> 00:02:23,589 44
+d'accord
+
+48
+00:02:23,589 --> 00:02:26,839 45
+et de toute façon vous appelez la police, ils se mettront en relation avec nous également
+
+49
+00:02:27,909 --> 00:02:28,329 46
+d'accord
+
+50
+00:02:29,529 --> 00:02:29,819 47
+merci
+
+51
+00:02:30,819 --> 00:02:31,249 48
+au revoir
+
+52
+00:02:31,809 --> 00:02:32,269 49
+au revoir
+

@@ -1,0 +1,316 @@
+2
+00:00:02,049 --> 00:00:03,849 1
+oui bonjour madame
+
+3
+00:00:04,350 --> 00:00:04,900 2
+bonjour
+
+4
+00:00:04,900 --> 00:00:10,600 3
+docteur DAMANI le médecin régulateur, vous nous appelez pour votre mère qui a une douleur dans la poitrine c'est bien ça?
+
+5
+00:00:11,200 --> 00:00:13,049 4
+heu oui c'est ça
+
+6
+00:00:13,499 --> 00:00:15,799 5
+c'est la première fois que ça lui arrive?
+
+7
+00:00:16,400 --> 00:00:20,299 6
+hum là comme ça oui oui oui je pense c'est la première fois
+
+8
+00:00:20,750 --> 00:00:23,700 7
+bon heu elle a mal depuis quand?
+
+9
+00:00:24,799 --> 00:00:34,850 8
+hum bah là elle me dit ça me aujourd'hui en tous cas pff une quin- quinzaine vingtaine de minutes que ça ça c'est bien quelque chose comme ça
+
+10
+00:00:34,920 --> 00:00:36,220 9
+depuis quinze vingt minutes
+
+11
+00:00:37,280 --> 00:00:39,740 10
+et heu donc vous m'avez dit c'était la
+
+12
+00:00:39,810 --> 00:00:41,000 11
+elle m'a dit ça ouais
+
+13
+00:00:41,070 --> 00:00:42,700 12
+vous êtes avec elle là actuellement?
+
+14
+00:00:43,310 --> 00:00:44,870 13
+heu je suis avec elle ouais
+
+15
+00:00:46,000 --> 00:00:48,590 14
+donc elle elle heu elle est en sueurs?
+
+16
+00:00:49,480 --> 00:00:50,180 15
+non non
+
+17
+00:00:50,200 --> 00:00:50,480 16
+non
+
+18
+00:00:50,980 --> 00:00:54,240 17
+d'accord, elle vous décrit quel ty-, elle décrit quel type de douleurs?
+
+19
+00:00:55,300 --> 00:01:00,100 18
+<NA>
+
+20
+00:01:00,100 --> 00:01:02,610 19
+bah hum a a de comme un peu ça elle peut décrire peut être heu
+
+21
+00:01:02,660 --> 00:01:03,850 20
+est ce que c'est un poids?
+
+22
+00:01:03,850 --> 00:01:15,649 21
+en tous cas moi ça me fait un peu penser ​à mon vous savez moi j'ai déjà eu heu ce genre de douleurs auparavant heu heu. vous savez moi j'ai déjà fait un infarctus donc heu ça fait un peu penser à ça hein heu donc
+
+23
+00:01:15,649 --> 00:01:17,630 22
+bah justement en parlant heu
+
+24
+00:01:17,649 --> 00:01:25,679 23
+douleur heu vous savez moi on m'avait appelée aussi et on m'avait dit qu'il fallait appeler puis fallait que j'appelle le 15 quand si ça se reproduisait, donc là ça me faisait penser un peu à
+
+25
+00:01:25,699 --> 00:01:30,479 24
+oui bah justement d'ailleurs, heu elle a déjà un antécédent d'infarctus?
+
+26
+00:01:31,089 --> 00:01:33,149 25
+heu hum hum non
+
+27
+00:01:33,240 --> 00:01:35,660 26
+non? d'accord. est ce que je pourrais lui parler?
+
+28
+00:01:36,679 --> 00:01:40,369 27
+heu non là vous savez elle a très mal donc c'est c'est compliqué
+
+29
+00:01:40,479 --> 00:01:42,050 28
+oui bah passez la moi
+
+30
+00:01:43,350 --> 00:01:49,030 29
+heu hum je pourrai pas là vous la passer malheureusement elle peut p- elle a un peu mal là
+
+31
+00:01:49,089 --> 00:01:52,330 30
+bah justement heu j'ai besoin de savoir comment elle ​a mal. donc passez là moi
+
+32
+00:01:54,130 --> 00:01:57,479 31
+heu d'accord je vais essayer
+
+33
+00:01:59,460 --> 00:02:00,460 32
+oui allo?
+
+34
+00:02:00,630 --> 00:02:01,329 33
+oui
+
+35
+00:02:02,960 --> 00:02:05,850 34
+oui bonjour madame, je suis le docteur DAMANI le médecin régulateur
+
+36
+00:02:06,030 --> 00:02:10,130 35
+donc heu votre fille nous a appelés parce que vous avez une douleur au niveau de la poitrine?
+
+37
+00:02:10,960 --> 00:02:12,000 36
+oui c'est ça
+
+38
+00:02:12,000 --> 00:02:16,329 37
+qui est apparue depuis quinze vingt minutes, heu est ce que vous avez des problèmes de santé?
+
+39
+00:02:17,109 --> 00:02:22,780 38
+heu vous savez un peu de cholestérol, un peu d'hypertension voilà, enfin des trucs de base quoi hein
+
+40
+00:02:22,810 --> 00:02:24,850 39
+est ce que vous avez déjà fait un infarctus?
+
+41
+00:02:25,519 --> 00:02:28,180 40
+non je pense pas. infarctus, c'est quoi ça?
+
+42
+00:02:29,530 --> 00:02:31,660 41
+les artères bouchées au niveau du coeur
+
+43
+00:02:32,370 --> 00:02:36,829 42
+heu non non non moi non. mais mon fils heu oui oui
+
+44
+00:02:36,940 --> 00:02:38,760 43
+votr- heu votre fils. mais vous non?
+
+45
+00:02:39,000 --> 00:02:45,310 44
+heu et donc là vous avez mal. donc ça fait quinze minutes c'est toujours pas parti la douleur n'est n'est pas passée
+
+46
+00:02:45,590 --> 00:02:48,109 45
+heu est ce que ça serre au niveau de la poitrine?
+
+47
+00:02:48,829 --> 00:02:51,519 46
+heu ça serre pas non ça serre pas
+
+48
+00:02:51,519 --> 00:02:53,530 47
+ça brûle, ça pique?
+
+49
+00:02:53,609 --> 00:02:54,810 48
+non non
+
+50
+00:02:55,590 --> 00:02:56,790 49
+non pas du tout?
+
+51
+00:02:56,980 --> 00:02:59,410 50
+non pas non
+
+52
+00:02:59,420 --> 00:03:02,180 51
+et vous avez mal où exactement au niveau de la poitrine?
+
+53
+00:03:02,739 --> 00:03:05,109 52
+heu vous savez là en latéral gauche
+
+54
+00:03:05,410 --> 00:03:06,940 53
+d'accord. vous toussez?
+
+55
+00:03:07,630 --> 00:03:08,940 54
+je je tousse pas non
+
+56
+00:03:08,940 --> 00:03:10,019 55
+vous avez de la fièvre?
+
+57
+00:03:10,549 --> 00:03:11,960 56
+non plus non
+
+58
+00:03:12,109 --> 00:03:15,239 57
+non plus. et donc c'est apparu ce matin seulement
+
+59
+00:03:16,160 --> 00:03:25,260 58
+bah vous savez en fait heu déjà un peu hier soir, mais j'ai pas osé dire des choses. mais bon je croyais que ça allait passer mais là depuis quinze minutes ça fait quand même très mal
+
+60
+00:03:26,390 --> 00:03:28,160 59
+depuis quinze minutes ça fait très mal
+
+61
+00:03:29,090 --> 00:03:30,570 60
+heu très bien
+
+62
+00:03:34,829 --> 00:03:37,890 61
+heu écoutez madame, il faut aller à l'hôpital
+
+63
+00:03:39,290 --> 00:03:39,700 62
+d'accord
+
+64
+00:03:39,720 --> 00:03:42,260 63
+vo- votre fille est avec vous, elle peut vous y emmener?
+
+65
+00:03:43,609 --> 00:03:44,940 64
+heu mon mon fils?
+
+66
+00:03:44,980 --> 00:03:46,980 65
+est ce que vous pouvez. repassez moi votre fille
+
+67
+00:03:47,739 --> 00:03:49,570 66
+hum ok je vous repasse
+
+68
+00:03:50,239 --> 00:03:50,910 67
+oui allo?
+
+69
+00:03:50,960 --> 00:03:54,019 68
+oui madame. alors votre f- votre maman doit aller à l'hôpital
+
+70
+00:03:55,160 --> 00:03:56,280 69
+vous êtes véhiculée?
+
+71
+00:03:56,280 --> 00:03:58,910 70
+infarctus? parce que moi ça me fait penser à ça hein
+
+72
+00:03:58,910 --> 00:04:02,239 71
+justement. êtes vous véhiculée pour heu pour l'amener à l'hôpital?
+
+73
+00:04:02,829 --> 00:04:03,760 72
+bah oui bah oui tout à fait
+
+74
+00:04:03,780 --> 00:04:04,920 73
+eh bah amenez là à l'hôpital
+
+75
+00:04:05,790 --> 00:04:09,129 74
+hum ok entre temps je fais je l'amène tout de suite c'est ça?
+
+76
+00:04:09,129 --> 00:04:11,850 75
+oui voilà. vous prenez votre voiture et vous l'amenez à l'hôpital
+
+77
+00:04:12,340 --> 00:04:14,510 76
+ok bah c'est noté, je vais la ramener
+
+78
+00:04:14,580 --> 00:04:15,160 77
+très bien
+
+79
+00:04:15,700 --> 00:04:16,530 78
+merci
+
+80
+00:04:16,560 --> 00:04:17,320 79
+merci au revoir
+

@@ -1,0 +1,148 @@
+2
+00:00:03,250 --> 00:00:04,850 1
+oui bonjour
+
+3
+00:00:04,949 --> 00:00:05,850 2
+bonjour
+
+4
+00:00:05,920 --> 00:00:12,360 3
+oui bonjour docteur SAIEB donc du coup vous appelez pour votre femme c'est ça qui heu s'est blessée?
+
+5
+00:00:12,920 --> 00:00:13,579 4
+oui
+
+6
+00:00:14,489 --> 00:00:17,840 5
+d'accord hum qu'est ce qui s'est passé du coup racontez moi
+
+7
+00:00:18,840 --> 00:00:20,770 6
+elle est tombée sur un couteau
+
+8
+00:00:21,420 --> 00:00:23,140 7
+ok elle est où la plaie?
+
+9
+00:00:25,009 --> 00:00:26,900 8
+elle heu le hum au bras
+
+10
+00:00:27,119 --> 00:00:31,380 9
+au bras d'accord il y a il y a qu'une seule plaie là elle est avec vous heu elle est à côté de vous?
+
+11
+00:00:32,030 --> 00:00:32,580 10
+oui
+
+12
+00:00:32,790 --> 00:00:34,450 11
+d'accord je peux l'avoir au téléphone?
+
+13
+00:00:35,270 --> 00:00:39,600 12
+non là elle pleure trop elle elle peut pas parler elle est
+
+14
+00:00:40,640 --> 00:00:41,470 13
+d'accord
+
+15
+00:00:41,490 --> 00:00:42,490 14
+elle peut pas parler
+
+16
+00:00:42,900 --> 00:00:45,600 15
+et elle est ​à elle est dans dans la même pièce que vous c'est ça?
+
+17
+00:00:46,120 --> 00:00:46,640 16
+oui
+
+18
+00:00:46,660 --> 00:00:49,640 17
+d'accord et je peux l'entendre à côté parce que là je l'entends pas
+
+19
+00:00:51,080 --> 00:00:54,580 18
+bah elle pleure à côté mais il y a du bruit dans la rue
+
+20
+00:00:55,010 --> 00:00:55,860 19
+d'accord
+
+21
+00:00:56,490 --> 00:01:02,920 20
+heu du coup là il y a une elle a dix huit ans il y a une plaie au niveau du bras avec un couteau c'est ça à la maison un couteau de cuisine?
+
+22
+00:01:03,420 --> 00:01:04,160 21
+oui
+
+23
+00:01:04,489 --> 00:01:10,230 22
+d'accord heu au niveau du bras c'est à dire heu au niveau de la main au niveau heu
+
+24
+00:01:10,640 --> 00:01:14,210 23
+non au dessus de la main heu entre le poignet et le coude
+
+25
+00:01:14,290 --> 00:01:18,490 24
+d'accord ça c'est c'est ça saigne beaucoup ça saigne encore là?
+
+26
+00:01:19,050 --> 00:01:21,010 25
+bah moi je trouve que ça saigne beaucoup oui
+
+27
+00:01:21,140 --> 00:01:24,710 26
+d'accord et la plaie elle est comment elle mesure combien à peu près?
+
+28
+00:01:25,880 --> 00:01:30,010 27
+bah hum cinq cinq centimètres
+
+29
+00:01:31,730 --> 00:01:36,990 28
+d'accord vous heu vous avez comment vous avez mis un pansement quelque chose une heu une compression?
+
+30
+00:01:37,550 --> 00:01:39,140 29
+heu non on a rien fait
+
+31
+00:01:39,470 --> 00:01:40,210 30
+d'accord
+
+32
+00:01:40,250 --> 00:01:41,580 31
+je vous ai appelés tout de suite
+
+33
+00:01:42,210 --> 00:01:59,450 32
+bon très bien eh bah je vous laisse heu on va envoyer les pompiers et puis je vous laisse heu hum prendre heu enfin faire une compression avec heu avec ce que vous avez à la maison quelque chose de propre une serviette heu ce que vous avez
+
+34
+00:01:59,450 --> 00:02:03,360 33
+d'accord et je laisse garde appuyé?
+
+35
+00:02:03,620 --> 00:02:04,620 34
+oui vous gardez appuyé
+
+36
+00:02:04,639 --> 00:02:08,270 35
+je fais comment? d'accord ok
+
+37
+00:02:09,050 --> 00:02:10,380 36
+merci docteur
+
+38
+00:02:10,380 --> 00:02:11,510 37
+de rien
+

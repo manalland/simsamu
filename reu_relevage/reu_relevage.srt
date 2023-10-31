@@ -1,0 +1,204 @@
+2
+00:00:01,549 --> 00:00:03,149 1
+oui bonjour madame?
+
+3
+00:00:04,649 --> 00:00:08,700 2
+oui heu je vous appelle heu j'ai j'ai mon grand père là qui est qui est tombé
+
+4
+00:00:08,700 --> 00:00:14,849 3
+ouais je suis le médecin du SAMU du coup mon collègue il m'a expliqué heu vo- c'est votre papi qui est tombé il a quel âge votre papi?
+
+5
+00:00:16,650 --> 00:00:18,099 4
+heu il a quatre vingt cinq ans
+
+6
+00:00:18,210 --> 00:00:20,480 5
+quatre vingt cinq ans d'accord il est tombé d'où?
+
+7
+00:00:22,040 --> 00:00:24,419 6
+bah il est tombé heu là dans la cuisine
+
+8
+00:00:24,450 --> 00:00:26,090 7
+d'accord il était debout dans la cuisine?
+
+9
+00:00:27,859 --> 00:00:29,330 8
+heu oui oui il était debout
+
+10
+00:00:29,419 --> 00:00:31,590 9
+il est conscient là mons- madame votre papi?
+
+11
+00:00:32,740 --> 00:00:35,800 10
+oui oui il est conscient mais heu j'arrive pas à le relever heu
+
+12
+00:00:35,800 --> 00:00:38,590 11
+d'accord donc il parle votre papi? il parle votre papi?
+
+13
+00:00:42,060 --> 00:00:42,680 12
+allo allo?
+
+14
+00:00:42,710 --> 00:00:43,740 13
+heu oui il parle
+
+15
+00:00:43,770 --> 00:00:46,500 14
+il parle ok il est il est il est orienté?
+
+16
+00:00:49,120 --> 00:00:51,970 15
+bah orienté vous savez avec ce qu'il boit il sait jamais trop où il est hein
+
+17
+00:00:52,150 --> 00:00:54,000 16
+d'accord il a bu de l'alcool là tout à l'heure?
+
+18
+00:00:55,420 --> 00:00:58,090 17
+bah il boit de l'alcool tous tous les jours là faut
+
+19
+00:00:58,120 --> 00:00:59,620 18
+d'accord il respire votre papi?
+
+20
+00:00:59,650 --> 00:01:01,940 19
+l'hôpital faut qu'on fasse quelque chose hein pour lui hein
+
+21
+00:01:01,940 --> 00:01:04,000 20
+d'accord il respire votre papi mons- madame?
+
+23
+00:01:04,500 --> 00:01:05,550 21
+oui il respire
+
+24
+00:01:05,550 --> 00:01:07,530 22
+ok est ce qu'il bouge bien les deux jambes?
+
+25
+00:01:07,530 --> 00:01:09,590 23
+juste par terre il faudrait venir le le relever
+
+26
+00:01:09,680 --> 00:01:14,210 24
+il y a pas de problème on va on va venir le chercher est ce qu'il est heu est ce qu'il saigne madame votre papi?
+
+27
+00:01:15,590 --> 00:01:16,860 25
+heu non il saigne pas
+
+28
+00:01:16,890 --> 00:01:19,300 26
+au niveau de la tête au niveau du reste du corps il ne saigne pas
+
+29
+00:01:21,000 --> 00:01:24,860 27
+non non tout va bien là il est juste par terre je voudrais savoir là si vous allez bientôt venir
+
+30
+00:01:24,860 --> 00:01:26,240 28
+d'accord il a mal quelque part?
+
+31
+00:01:26,880 --> 00:01:30,680 29
+moi j'aimerais bien partir hein là je suis je suis passée heu mais heu
+
+32
+00:01:30,770 --> 00:01:32,530 30
+est ce qu'il a mal quelque part madame?
+
+33
+00:01:33,470 --> 00:01:35,300 31
+non non il se plaint pas là il
+
+34
+00:01:35,300 --> 00:01:36,800 32
+et vous arrivez pas à le relever?
+
+35
+00:01:38,060 --> 00:01:40,740 33
+non non j'arrive pas à le relever vous savez il est lourd hein
+
+36
+00:01:40,910 --> 00:01:46,320 34
+il est lourd il est il est parce qu'il a mal il a mal au niveau des jambes ou pas pour le relever au niveau du dos au niveau de la tête?
+
+37
+00:01:48,150 --> 00:01:50,910 35
+non il se plaint enfin il se plaint pas de douleur
+
+38
+00:01:51,030 --> 00:01:55,180 36
+d'accord bon et est ce que vous savez il a des problèmes de santé particuliers votre papa votre papi?
+
+39
+00:01:58,320 --> 00:01:59,790 37
+e- excusez moi je vous ai pas entendu
+
+40
+00:01:59,790 --> 00:02:01,708 38
+est ce qu'il prend des médicaments tous les jours votre papi?
+
+41
+00:02:03,760 --> 00:02:07,260 39
+heu non non il prend aucun médicament il heu il boit de l'alcool
+
+42
+00:02:07,260 --> 00:02:11,290 40
+juste de l'alcool d'accord ça marche bon bon on va venir le chercher madame d'accord il y a quelqu'un qui va venir
+
+43
+00:02:12,410 --> 00:02:13,440 41
+il y a les secours qui vont venir
+
+44
+00:02:13,440 --> 00:02:14,380 42
+vous vous venez vite?
+
+45
+00:02:14,530 --> 00:02:15,548 43
+bah je moi c'est demandé
+
+46
+00:02:15,648 --> 00:02:16,347 44
+<NA>
+
+47
+00:02:18,649 --> 00:02:20,200 45
+d'accord donc là je peux je peux y aller?
+
+48
+00:02:20,440 --> 00:02:24,320 46
+alors ce qui serait bien pour votre papi c'est de le surveiller jusqu'à que les secours ils arrivent
+
+49
+00:02:26,140 --> 00:02:31,760 47
+d'accord parce que moi là il faut que je parte heu j'ai des courses à faire donc heu je peux pas rester longtemps hein
+
+50
+00:02:31,760 --> 00:02:33,019 48
+bon il est ils font au plus vite
+
+51
+00:02:34,700 --> 00:02:42,030 49
+là vous avez juste à soi- vous avez juste à rassurer votre papi le temps que le temps qu'ils arrivent faut que vous restez auprès de lui que vous le rassurez voilà ils arrivent
+
+52
+00:02:45,530 --> 00:02:47,290 50
+bon d'accord monsieur au revoir
+
+53
+00:02:47,350 --> 00:02:48,060 51
+au revoir madame
+

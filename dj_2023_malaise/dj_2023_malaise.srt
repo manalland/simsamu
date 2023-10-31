@@ -1,0 +1,248 @@
+2
+00:00:01,950 --> 00:00:02,400 1
+allo?
+
+3
+00:00:02,950 --> 00:00:03,429 2
+allo?
+
+4
+00:00:03,429 --> 00:00:08,370 3
+oui bonjour docteur RICHARDO vous appelez pour votre femme heu qui a fait un malaise heu récemment c'est ça?
+
+5
+00:00:08,850 --> 00:00:10,190 4
+oui c'est ça
+
+6
+00:00:10,190 --> 00:00:12,220 5
+alors q- elle ​a dix huit ans votre femme?
+
+7
+00:00:12,520 --> 00:00:13,440 6
+<NA>
+
+8
+00:00:13,540 --> 00:00:15,639 7
+et elle a elle a des problèmes de santé particuliers?
+
+9
+00:00:16,869 --> 00:00:17,850 8
+non je sais pas
+
+10
+00:00:17,850 --> 00:00:19,369 9
+elle prend pas de médicament du tout?
+
+11
+00:00:20,089 --> 00:00:21,799 10
+non elle m'en a jamais parlé
+
+12
+00:00:22,059 --> 00:00:23,610 11
+là actuellement elle est consciente?
+
+13
+00:00:25,360 --> 00:00:27,170 12
+hum bah oui je pense
+
+14
+00:00:27,460 --> 00:00:29,030 13
+quand vous lui parlez elle vous répond?
+
+15
+00:00:29,680 --> 00:00:30,189 14
+non
+
+16
+00:00:31,009 --> 00:00:32,780 15
+secouez là pour voir si elle réagit
+
+17
+00:00:35,360 --> 00:00:35,960 16
+non
+
+18
+00:00:36,490 --> 00:00:39,280 17
+quand vous lui quand vous la se- secouez elle réagit pas du tout?
+
+19
+00:00:41,570 --> 00:00:42,320 18
+bah
+
+20
+00:00:43,640 --> 00:00:47,780 19
+prenez lui les bras vous lui vous vous lui vous lui appuyez sur les mains et vous l'appelez allez-y
+
+21
+00:00:49,350 --> 00:00:49,670 20
+<NA>
+
+22
+00:00:51,110 --> 00:00:52,010 21
+un peu oui
+
+23
+00:00:52,350 --> 00:00:54,130 22
+un peu elle elle elle ouvre les yeux?
+
+24
+00:00:55,520 --> 00:00:55,900 23
+oui
+
+25
+00:00:57,270 --> 00:01:00,990 24
+elle ouvre les yeux elle vous elle vous répond? dites dites dites lui de vous répondre
+
+26
+00:01:01,779 --> 00:01:02,969 25
+réponds moi
+
+27
+00:01:04,340 --> 00:01:04,930 26
+allez-y
+
+28
+00:01:04,950 --> 00:01:06,270 27
+elle respire fort
+
+29
+00:01:06,320 --> 00:01:09,220 28
+elle respire fort est-ce qu'elle est-ce qu'elle a des mouvements anormaux
+
+30
+00:01:11,010 --> 00:01:12,150 29
+heu non
+
+31
+00:01:12,310 --> 00:01:13,330 30
+elle bouge pas
+
+32
+00:01:14,590 --> 00:01:15,990 31
+heu elle est tendue
+
+33
+00:01:18,000 --> 00:01:20,840 32
+et là quand vous l- vous l'avez vue faire son malaise?
+
+34
+00:01:21,760 --> 00:01:23,760 33
+heu ouais on était dans la cuisine
+
+35
+00:01:24,220 --> 00:01:26,280 34
+et elle est elle est elle est tombée d'un coup?
+
+36
+00:01:27,660 --> 00:01:31,590 35
+heu non c'était heu c'était heu après qu'on se soit parlées
+
+37
+00:01:32,420 --> 00:01:34,350 36
+vous vous êtes dis- disputées?
+
+38
+00:01:34,830 --> 00:01:35,120 37
+hum
+
+39
+00:01:35,460 --> 00:01:37,490 38
+vous vous êtes disputées et là elle a fait son malaise?
+
+40
+00:01:38,330 --> 00:01:38,700 39
+oui
+
+41
+00:01:39,240 --> 00:01:41,540 40
+là elle tremble des elle tremble des mains?
+
+42
+00:01:42,540 --> 00:01:44,120 41
+oui elle est tendue
+
+43
+00:01:44,370 --> 00:01:50,570 42
+elle est tendue. alors secouez là encore dites di- enfin heu dites lui de heu dites lui de se calmer
+
+44
+00:01:52,650 --> 00:01:54,500 43
+calme toi là
+
+45
+00:01:58,600 --> 00:02:04,760 44
+alors là depuis depuis le début du coup de fil là est ce que est ce que vous avez l'impression que que qu'elle reprend ses esprits?
+
+46
+00:02:05,490 --> 00:02:07,750 45
+bah non mais ça pourrait être grave là
+
+47
+00:02:07,930 --> 00:02:13,150 46
+là est ce que elle depuis le début du coup de fil ma- madame est ce que vous avez l'impression qu'elle reprend ses esprits?
+
+48
+00:02:13,660 --> 00:02:14,240 47
+bah non
+
+49
+00:02:14,640 --> 00:02:15,740 48
+elle est pareil
+
+50
+00:02:16,600 --> 00:02:17,720 49
+<NA>
+
+51
+00:02:18,280 --> 00:02:22,160 50
+là elle est pareil madame elle elle est elle est aussi inconsciente qu'au début de l'appel?
+
+52
+00:02:23,400 --> 00:02:26,480 51
+elle respire fort heu moi j'ai j'ai peur
+
+53
+00:02:26,660 --> 00:02:27,940 52
+elle respire fort
+
+54
+00:02:28,410 --> 00:02:35,150 53
+et là là là quand vous lui lui parlez est ce qu'elle arrive à vous vous dire des mots? re- redeman- redemandez lui de vous répondre
+
+55
+00:02:37,810 --> 00:02:38,920 54
+elle me répond
+
+56
+00:02:39,220 --> 00:02:40,000 55
+elle vous rép-
+
+57
+00:02:40,040 --> 00:02:40,450 56
+<NA>
+
+58
+00:02:40,450 --> 00:02:52,340 57
+elle vous répond bon. alors ce que vous faites là vous vous restez avec elle vous vous la vous la calmez elle va reprendre ses esprits peu à peu vous rappelez dans dans la demi heure si si elle a pas repris ses esprits complètement
+
+59
+00:02:54,600 --> 00:02:55,940 58
+il y a pas le SAMU qui va venir?
+
+60
+00:02:56,460 --> 00:02:59,850 59
+vous rappelez dans une demi heure pour si les symptômes persistent
+
+61
+00:03:02,470 --> 00:03:02,890 60
+d'accord
+
+62
+00:03:04,280 --> 00:03:07,290 61
+voilà n'hésitez pas à rappeler dans une demi heure au revoir
+
+63
+00:03:07,330 --> 00:03:08,030 62
+au revoir
+

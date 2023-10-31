@@ -1,0 +1,344 @@
+3
+00:00:05,869 --> 00:00:08,099 1
+oui bonjour monsieur c'est le médecin du SAMU COLIN GUILLAUME
+
+4
+00:00:08,099 --> 00:00:08,689 2
+bonjour
+
+5
+00:00:10,000 --> 00:00:10,590 3
+oui
+
+6
+00:00:11,050 --> 00:00:15,099 4
+c'est pour votre mamie vous avez expliqué à mon collègue c'était pour votre grand mère qui a quatre vingt six ans
+
+7
+00:00:16,480 --> 00:00:17,819 5
+oui c'est ça
+
+8
+00:00:17,889 --> 00:00:19,609 6
+qu'est ce qui lui arrive ​à votre grand mère racontez moi
+
+9
+00:00:21,150 --> 00:00:23,150 7
+bah elle est malade je pense
+
+10
+00:00:23,299 --> 00:00:24,920 8
+elle est malade depuis combien de temps?
+
+11
+00:00:26,479 --> 00:00:28,689 9
+heu ça fait quatre trois quatre jours là je pense?
+
+12
+00:00:28,869 --> 00:00:30,280 10
+trois quatre jours ok
+
+13
+00:00:30,738 --> 00:00:31,789 11
+elle respire normalement?
+
+14
+00:00:33,870 --> 00:00:34,379 12
+bah non
+
+15
+00:00:36,250 --> 00:00:36,769 13
+c'est à dire?
+
+16
+00:00:38,690 --> 00:00:43,019 14
+bah elle tousse elle est fatiguée elle respire elle est fatiguée
+
+17
+00:00:43,410 --> 00:00:48,280 15
+d'accord passez moi votre grand mère madame monsieur s'il vous plait je veux entendre comment elle respire
+
+18
+00:00:48,280 --> 00:00:50,229 16
+je peux pas non parce non
+
+19
+00:00:51,069 --> 00:00:51,869 17
+elle est où là?
+
+20
+00:00:53,199 --> 00:00:54,920 18
+elle est à cô- elle est dans la maison
+
+21
+00:00:55,149 --> 00:00:58,379 19
+bah mettez juste le téléphone à côté d'elle que j'entende juste sa respiration
+
+22
+00:00:59,839 --> 00:01:01,250 20
+mais je je peux pas
+
+23
+00:01:02,589 --> 00:01:04,819 21
+c'est important monsieur je dois entendre sa respiration
+
+24
+00:01:05,479 --> 00:01:08,179 22
+ah bah je lui ai pas dit que j'appelais elle veut pas
+
+25
+00:01:08,229 --> 00:01:11,560 23
+ah bon au moins elle est capable de vous répondre alors si elle veut pas que vous appelez
+
+26
+00:01:12,710 --> 00:01:14,229 24
+oui elle va m'engueuler
+
+27
+00:01:14,360 --> 00:01:15,050 25
+d'accord ok
+
+28
+00:01:15,710 --> 00:01:18,020 26
+heu elle a quoi comme problème de santé votre mamie?
+
+29
+00:01:19,589 --> 00:01:21,360 27
+bah elle a son âge
+
+30
+00:01:21,869 --> 00:01:22,560 28
+oui
+
+31
+00:01:22,560 --> 00:01:25,000 29
+heu je elle a des cachets je crois qu'elle prend des médicaments
+
+32
+00:01:25,070 --> 00:01:26,640 30
+d'accord vous avez l'ordonnance à côté de vous?
+
+33
+00:01:28,820 --> 00:01:29,179 31
+non
+
+34
+00:01:29,589 --> 00:01:29,770 32
+non
+
+35
+00:01:30,199 --> 00:01:32,660 33
+vous savez si elle prend des médicaments pour la tension pour le coeur?
+
+36
+00:01:34,460 --> 00:01:35,770 34
+je crois elle fait de la tension
+
+37
+00:01:38,970 --> 00:01:45,839 35
+d'accord et elle fait quoi d'habitude votre grand mère heu elle elle se promène elle sort de chez elle elle heu
+
+38
+00:01:47,839 --> 00:01:52,638 36
+oui heu on habite tous ensemble donc heu des fois on fait les courses
+
+39
+00:01:52,740 --> 00:01:54,720 37
+d'accord ok elle sort
+
+40
+00:01:55,100 --> 00:01:59,840 38
+hum elle a vu son docteur depuis trois quatre jours qu'elle a mal qu'elle a la f-
+
+41
+00:01:59,840 --> 00:02:01,900 39
+non non elle aime pas trop
+
+42
+00:02:01,970 --> 00:02:03,070 40
+elle aime pas aller voir le docteur?
+
+43
+00:02:04,199 --> 00:02:04,630 41
+non
+
+44
+00:02:04,630 --> 00:02:06,280 42
+il fait des visites à domicile votre docteur?
+
+45
+00:02:08,199 --> 00:02:08,820 43
+bah je sais pas
+
+46
+00:02:09,130 --> 00:02:10,019 44
+bah il faut l'appeler
+
+47
+00:02:12,150 --> 00:02:15,660 45
+bah je sais j- je le connais pas moi on m'a dit de faire le 15
+
+48
+00:02:16,820 --> 00:02:17,870 46
+qui vous a dit de faire le 15?
+
+49
+00:02:19,100 --> 00:02:20,720 47
+bah on nous dit de faire ça
+
+50
+00:02:22,019 --> 00:02:31,540 48
+la publicité à la télé il faut heu faut que vous appeliez son médecin traitant monsieur pour savoir si il peut passer si il peut pas passer de dans ce cas là vous nous rappelez et on trouvera quelqu'un pour heu
+
+51
+00:02:31,640 --> 00:02:33,590 49
+si b- si besoin un médecin puisse déposer
+
+52
+00:02:34,250 --> 00:02:35,370 50
+bah appelez le et puis on verra
+
+53
+00:02:35,370 --> 00:02:35,950 51
+maintenant faut qu'il vienne là
+
+54
+00:02:36,670 --> 00:02:38,019 52
+bah appelle appelez le justement
+
+55
+00:02:38,019 --> 00:02:38,590 53
+il faut qu'il vienne
+
+56
+00:02:38,740 --> 00:02:40,049 54
+bah c'est pour ça qu'il faut l'appeler monsieur
+
+57
+00:02:41,950 --> 00:02:43,720 55
+bah j'ai pas son numé- vous avez son numéro?
+
+58
+00:02:44,380 --> 00:02:45,310 56
+c'est docteur quoi?
+
+59
+00:02:47,150 --> 00:02:48,560 57
+je sais pas c'est pas le mien
+
+60
+00:02:48,799 --> 00:02:49,320 58
+<NA>
+
+61
+00:02:49,930 --> 00:02:51,310 59
+comment il s'appelle?
+
+62
+00:02:52,870 --> 00:02:55,130 60
+bah je je sais pas c'est elle qui le voit
+
+63
+00:02:56,310 --> 00:02:57,230 61
+bah demandez à votre mamie
+
+64
+00:02:59,180 --> 00:03:00,760 62
+bah elle va pas vouloir je pense
+
+65
+00:03:04,180 --> 00:03:05,540 63
+elle va pas vouloir vous donner son nom?
+
+66
+00:03:07,049 --> 00:03:08,269 64
+bah elle veut pas voir le médecin
+
+67
+00:03:08,720 --> 00:03:09,760 65
+elle veut pas voir le médecin
+
+68
+00:03:10,910 --> 00:03:20,100 66
+bah écoutez je vous heu je vous transfère chez heu chez chez les collègues de je vous donne le numéro de SOS médecin de pour heu puissiez les appeler pour qu'ils puissent venir
+
+69
+00:03:21,440 --> 00:03:23,460 67
+et SOS ils vont venir avec le camion?
+
+70
+00:03:24,410 --> 00:03:30,130 68
+ils vont venir avec heu avec ce avec ce qu'ils ont et puis ils vont ils vont ils vont s'occuper de votre mamie d'accord monsieur?
+
+71
+00:03:30,560 --> 00:03:32,970 69
+donc il y a un médecin il y a un médecin qui vient là
+
+72
+00:03:33,590 --> 00:03:34,049 70
+ça serait
+
+73
+00:03:34,920 --> 00:03:36,640 71
+il va passer pour examiner votre grand mère
+
+74
+00:03:38,260 --> 00:03:38,850 72
+là maintenant?
+
+75
+00:03:39,560 --> 00:03:41,170 73
+dans la journée en tous cas aujourd'hui
+
+76
+00:03:43,049 --> 00:03:43,970 74
+bah il est neuf heures
+
+77
+00:03:44,510 --> 00:03:46,100 75
+bah c'est pour ça ça vous laisse du temps
+
+78
+00:03:48,950 --> 00:03:52,000 76
+donc il y a un médecin qui vient heu avec le camion voir ma grand mère là?
+
+79
+00:03:52,000 --> 00:03:53,200 77
+il va venir voir votre grand mère
+
+80
+00:03:55,359 --> 00:03:55,850 78
+bientôt?
+
+81
+00:03:56,329 --> 00:03:56,870 79
+bientôt
+
+82
+00:03:57,030 --> 00:03:58,180 80
+<NA>
+
+83
+00:03:59,490 --> 00:04:00,329 81
+c'est bon pour vous monsieur?
+
+84
+00:04:02,440 --> 00:04:03,850 82
+bah si il y a un médecin qui vient oui
+
+85
+00:04:03,899 --> 00:04:04,670 83
+il va venir
+
+86
+00:04:08,690 --> 00:04:09,100 84
+d'accord
+
+87
+00:04:09,380 --> 00:04:12,279 85
+allez bonne journée monsieur vous me rappelez si il y a un problème entre temps
+
+88
+00:04:12,510 --> 00:04:12,950 86
+au revoir
+

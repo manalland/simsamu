@@ -1,0 +1,104 @@
+2
+00:00:01,450 --> 00:00:04,100 1
+bonjour madame je suis le docteur DETOURY au SAMU
+
+3
+00:00:04,300 --> 00:00:08,400 2
+oui bonjour docteur SAIEB médecin urgentiste également au téléphone
+
+4
+00:00:08,550 --> 00:00:13,100 3
+bonjour vous appelez pour votre papa de quatre vingt cinq ans qui a fait un malaise c'est ça?
+
+5
+00:00:13,650 --> 00:00:24,599 4
+heu oui papa ah bah docteur aussi SAIEB un grand heu grand PH à la PITIE hum donc heu papa là il a fait un malaise en effet heu il y a pas longtemps
+
+6
+00:00:24,599 --> 00:00:36,800 5
+heu il était aux toilettes et heu et il a fait un un malaise et heu et voilà donc je pense qu'il enfin je je il faut que papa aille aux urgences
+
+7
+00:00:36,800 --> 00:00:38,650 6
+est ce qu'il a perdu connaissance?
+
+8
+00:00:39,650 --> 00:00:44,599 7
+non il pas perdu connaissance mais bon on peut pas non plus passer à côté quoi enfin heu
+
+9
+00:00:44,599 --> 00:00:48,199 8
+c'était quoi ses symptômes au moment de son malaise madame?
+
+10
+00:00:48,199 --> 00:01:04,250 9
+il était heu bah il était heu en heu aux toilettes et puis heu il a senti la t- heu il heu il s'est senti partir et puis heu il m'a appelé à ce moment là je suis arrivée et donc du coup tout de suite moi j'ai pris les choses en main je l'ai allongé j'ai levé les jambes heu et là il va mieux
+
+11
+00:01:04,250 --> 00:01:07,800 10
+très bien il va mieux maintenant d'accord est ce qu'il a des problèmes de santé votre papa?
+
+12
+00:01:09,070 --> 00:01:15,250 11
+heu non non il a pas beaucoup de problèmes de santé parti- il est il est un peu hypertendu mais sinon rien de rien de particulier
+
+13
+00:01:15,770 --> 00:01:18,869 12
+il prend que des traitements contre l'hypertension
+
+14
+00:01:18,950 --> 00:01:24,770 13
+oui c'est ça donc voilà il faut quand même qu'il soit vu par un soit vu aux urgences
+
+15
+00:01:24,770 --> 00:01:33,670 14
+ça ressemble à un malaise ça ressemble à un malaise vagal ce qu'il a fait hum votre papa comme épisode est ce que c'est la première fois que ça lui arrive?
+
+16
+00:01:34,070 --> 00:01:40,450 15
+ça ressemble à un malaise vagal enfin je sais pas il faut quand même faire un bilan j'imagine heu heu c'est ce qu'on fait aux urgences non?
+
+17
+00:01:41,920 --> 00:01:44,550 16
+est ce que vous souhaitez l'emmener aux urgences?
+
+18
+00:01:46,470 --> 00:02:02,520 17
+alors heu là si il refait un malaise ça va être compliqué moi hein de l'emmener hein ça si je conduis et qu'il fait un malaise derrière je sais pas hein je j'ai un peu peur quand même je sais pas ce que vous en pensez vous mais bon si il fait son malaise heu on est quand même embêtés tous hein heu
+
+19
+00:02:03,020 --> 00:02:13,200 18
+heu si il fait un malaise comme là où il se sent partir sans perte de connaissance et où ça va mieux après moi je pense que vous pouvez l'emmener sans problème aux urgences à côté de chez vous hein
+
+20
+00:02:14,450 --> 00:02:21,620 19
+donc là il faut que je prenne la voiture et que je l'emmène aux urgences heu même si il fait son malaise que heu dans la voiture
+
+21
+00:02:21,820 --> 00:02:34,870 20
+parce que bon il y a quand même l'autoroute à prendre je suis un peu enfin après si vous me dites que c'est comme ça et que vous vous pensez qu'il y a pas de soucis et qu'il risque de rien se passer dans la voiture heu moi je le fais hein mais bon voilà si vous m'assurez qu'il y a pas de soucis
+
+22
+00:02:34,970 --> 00:02:49,170 21
+on a pas d'argument pour dire que il va faire un épisode plus grave que ce qu'il a fait là à la maison heu aux toilettes donc heu donc oui vous vous rendez aux urgences heu avec votre papa et oubliez pas de prendre l'ordonnance de ses traitements habituels
+
+23
+00:02:49,180 --> 00:02:54,930 22
+c'est quand même dingue hein je suis urgentiste et j'ai même pas le droit à une ambulance hein il y a pas aucun traitement de heu du tout hein c'est
+
+24
+00:02:54,930 --> 00:03:02,830 23
+non il y a pas de privilèges particuliers madame mais ce qu'a fait votre papa est plutôt rassurant alors vous vous rendez aux urgences?
+
+25
+00:03:03,490 --> 00:03:07,120 24
+très bien très bien très bien je je fais ça merci
+
+26
+00:03:07,120 --> 00:03:07,820 25
+au revoir madame
+
+27
+00:03:08,060 --> 00:03:08,730 26
+au revoir
+

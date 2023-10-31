@@ -1,0 +1,140 @@
+2
+00:00:03,449 --> 00:00:04,149 1
+allo?
+
+3
+00:00:04,250 --> 00:00:05,049 2
+allo madame?
+
+4
+00:00:05,399 --> 00:00:06,430 3
+oui allo, allo?
+
+5
+00:00:06,449 --> 00:00:11,090 4
+oui bonjour je suis le docteur LAKHLIFI. vous m'appelez pour votre enfant qui a bien trois mois c'est ça?
+
+6
+00:00:11,529 --> 00:00:13,779 5
+oui c'est ça c'est ça, exactement
+
+7
+00:00:14,000 --> 00:00:16,059 6
+ça fait heu j'attends depuis longtemps là
+
+8
+00:00:16,360 --> 00:00:20,150 7
+hum d'accord. il a pris des médicaments qu'il aurait pas dû prendre?
+
+9
+00:00:20,450 --> 00:00:27,150 8
+oui c'est ça c'est ça, je pense heu ça fait beaucoup de médicaments là. je sais pas heu quoi faire, j'attends depuis très longtemps maintenant
+
+10
+00:00:27,859 --> 00:00:32,500 9
+je je heu j'en suis vraiment désolée. on on va essayer d'être rapides et de trouver la la
+
+11
+00:00:32,500 --> 00:00:34,150 10
+oui mais moi j'attends quoi, hein
+
+12
+00:00:34,590 --> 00:00:36,110 11
+quel médicament a-t-il pris?
+
+13
+00:00:36,640 --> 00:00:40,370 12
+bah c'est du para- paracétamol là vous savez?
+
+14
+00:00:40,700 --> 00:00:43,750 13
+oui tout à fait. en quelle dose il l'a il l'a pris?
+
+15
+00:00:44,420 --> 00:00:59,220 14
+bah je sais pas enfin moi euh j'ai l'habi-, enfin j'ai que qu'un enfant. j'en donne j'ai j'ai j'ai je prends pas l'habitude d'en donner. mais là je pense que j'ai donné une grande dose. trois fois la dose qu'il faut j'aurais dû donner, et moi on me dit pas quoi faire du coup moi là j'attends, je sais pas quoi faire voyez?
+
+16
+00:01:00,190 --> 00:01:01,310 15
+je comprends tout à fait
+
+17
+00:01:01,310 --> 00:01:02,250 16
+qu'est ce que je dois faire là?
+
+18
+00:01:02,250 --> 00:01:09,120 17
+vous restez vous restez avec votre enfant, vous lui donnez rien à boire ni à manger, vous le surveillez et j'envoie les secours tout de suite
+
+19
+00:01:09,750 --> 00:01:12,610 18
+mais moi là il faut que je donne quoi? qu'est ce qui faut que je donne? j'ai pas compris
+
+20
+00:01:12,610 --> 00:01:18,020 19
+il faut donner absolument rien à votre enfant. ni ​à boire, ni à manger, ni du lait, ni quoi que ce soit
+
+21
+00:01:18,030 --> 00:01:20,890 20
+oui mais est ce qu'il faut le faire vomir? on m'a dit qu'il fallait le faire vomir
+
+22
+00:01:20,910 --> 00:01:25,550 21
+non, il ne faut pas il faut pas le faire vomir. là vous le gardez avec vous, les secours arrivent ils sont en route
+
+23
+00:01:26,110 --> 00:01:29,530 22
+d'accord ils arrivent dans combien de temps? parce que moi j'attends là depuis tout à l'heure hein
+
+24
+00:01:29,700 --> 00:01:32,330 23
+ils vont arriver dans moins de quinze minutes
+
+25
+00:01:32,520 --> 00:01:34,610 24
+moins de quinze minutes? vous êtes sûre?
+
+26
+00:01:34,690 --> 00:01:35,430 25
+je suis sûre
+
+27
+00:01:36,250 --> 00:01:45,700 26
+n'hésitez pas à nous rappeler si heu il y a quoi que ce soit de nouveau. si votre enfant vomit, si il perd connaissance, si heu il y a heu un autre problème
+
+28
+00:01:46,530 --> 00:01:48,250 27
+c'est quoi un autre problème par exemple?
+
+29
+00:01:48,650 --> 00:01:58,320 28
+par exemple heu si heu vous voyez il devient tout blanc, tout jaune, tout rouge, si il vomit, si heu il.  si vous êtes inquiète vous rappelez et on vous répondra, d'accord?
+
+30
+00:01:58,320 --> 00:02:02,110 29
+je suis inquiète, je suis inquiète, c'est depuis tout à l'heure que je suis inquiète, bien sûr
+
+31
+00:02:02,570 --> 00:02:03,220 30
+je comprends et c'est
+
+32
+00:02:03,220 --> 00:02:04,560 31
+je répète trois fois la même chose
+
+33
+00:02:04,619 --> 00:02:08,320 32
+c'est heu c'est pour ça qu'on envoie les secours tout de suite madame. les secours arrivent
+
+34
+00:02:08,899 --> 00:02:09,539 33
+d'accord
+
+35
+00:02:09,709 --> 00:02:10,399 34
+au revoir
+
+36
+00:02:10,759 --> 00:02:11,600 35
+merci au revoir
+

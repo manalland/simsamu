@@ -1,0 +1,120 @@
+2
+00:00:00,500 --> 00:00:07,300 1
+ok bonjour madame je suis le docteur DETOURY au SAMU heu vous appelez pour vous même?
+
+3
+00:00:08,160 --> 00:00:10,309 2
+bonjour j'appelle non c'est pour ma ma femme
+
+4
+00:00:10,309 --> 00:00:11,690 3
+ah votre femme d'accord
+
+5
+00:00:11,690 --> 00:00:12,060 4
+oui
+
+6
+00:00:12,650 --> 00:00:14,590 5
+qu'est ce qui lui est arrivé à votre femme?
+
+7
+00:00:15,820 --> 00:00:24,780 6
+heu bah elle a pris des médicaments là elle a pris des médicaments heu je la trouve pas bien du tout heu je j'ai il faut il faut un médecin
+
+8
+00:00:24,780 --> 00:00:29,349 7
+est ce que vous savez est ce que vous savez exactement quel médicament elle a pris madame?
+
+9
+00:00:30,349 --> 00:00:41,029 8
+elle a pris ses médicaments heu bah elle est un peu déprimée en ce moment heu c'est heu attendez que je regarde la boite c'est heu du LORAZEPAM
+
+10
+00:00:42,931 --> 00:00:46,669 9
+d'accord est ce qu'elle a pu prendre d'autres médicaments que celui là?
+
+11
+00:00:47,494 --> 00:00:54,166 10
+heu elle a pas d'autres médicaments non il y a pas il y a rien à la maison y a rien mais là elle est pas bien du tout elle est pas bien hein il faut venir
+
+12
+00:00:54,211 --> 00:00:58,019 11
+quand vous dites qu'elle est pas bien quand vous dites qu'elle est pas bien madame est ce qu'elle est réveillée?
+
+13
+00:00:59,000 --> 00:01:00,830 12
+elle est pas réveillée non non elle dort là
+
+14
+00:01:00,830 --> 00:01:04,050 13
+et quand vous la stimulez quand vous la stimulez est ce qu'elle vous répond?
+
+15
+00:01:05,340 --> 00:01:06,820 14
+elle elle elle grogne
+
+16
+00:01:07,009 --> 00:01:08,649 15
+elle grogne d'accord
+
+17
+00:01:08,649 --> 00:01:11,640 16
+et il faut il faut il faut venir il faut venir maintenant
+
+18
+00:01:11,679 --> 00:01:14,950 17
+madame on va vous envoyer de l'aide il faut que juste que je vous
+
+19
+00:01:14,950 --> 00:01:16,580 18
+quelle aide quelle aide?
+
+20
+00:01:16,649 --> 00:01:22,450 19
+d'autres questions donc là vous êtes à la maison avec elle elle est allongée elle dort un peu et elle grogne
+
+21
+00:01:24,009 --> 00:01:24,950 20
+elle grogne oui
+
+22
+00:01:24,950 --> 00:01:32,200 21
+d'accord elle est suivie dans un hôpital particulier ou pas? pour en particulier elle est suivie dans un hôpital heu pour heu sa dépression?
+
+23
+00:01:34,679 --> 00:01:39,429 22
+elle elle est non elle a le suivi elle a un psychiatre heu en ville
+
+24
+00:01:41,200 --> 00:01:44,670 23
+heu je vous envoie les pompiers heu
+
+25
+00:01:44,679 --> 00:01:45,259 24
+d'accord
+
+26
+00:01:45,530 --> 00:01:46,759 25
+qui vont la prendre en charge
+
+27
+00:01:46,759 --> 00:01:55,009 26
+et là en fait heu je moi je sais pas quoi faire en fait là elle elle elle dort en fait et heu et bah il je là je
+
+28
+00:01:55,009 --> 00:02:05,270 27
+vous pouvez la mettre sur le côté elle est allongée vous pouvez l'allonger sur le côté et les pompiers arrivent tout de suite et ils vont la prendre en charge c'est bon pour vous?
+
+29
+00:02:06,399 --> 00:02:08,080 28
+d'accord merci beaucoup merci
+
+30
+00:02:08,080 --> 00:02:08,870 29
+au revoir madame
+
+31
+00:02:09,230 --> 00:02:09,930 30
+au revoir
+

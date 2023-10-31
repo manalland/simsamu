@@ -1,0 +1,260 @@
+2
+00:00:02,049 --> 00:00:09,100 1
+bonjour docteur SCHILTZ SAMU 93 vous m'appelez pour votre mère qui a mal au ventre c'est ça?
+
+3
+00:00:09,429 --> 00:00:17,089 2
+oui je suis vraiment désolée de vous embêter hein pour ça franchement je m'excuse hein je vous avez d'autres choses à faire mais
+
+4
+00:00:17,159 --> 00:00:19,900 3
+elle a mal depuis quand madame?
+
+5
+00:00:20,500 --> 00:00:28,390 4
+bah pff là elle a mal depuis heu depuis tout à l'heure c'est ça c'est ça qui m'a inquiétée quoi. je suis désolée hein
+
+6
+00:00:28,390 --> 00:00:31,220 5
+tout à l'heure c'est à dire? il y a deux heures deux trois heures?
+
+7
+00:00:32,160 --> 00:00:37,960 6
+bah pff ouais c'est arrivé heu y'a y'a pas si longtemps ouais
+
+8
+00:00:38,410 --> 00:00:40,260 7
+elle a des problèmes de santé?
+
+9
+00:00:40,450 --> 00:00:42,610 8
+heu du diabète
+
+10
+00:00:42,710 --> 00:00:43,690 9
+c'est tout?
+
+11
+00:00:44,920 --> 00:00:46,320 10
+heu ouais je crois
+
+12
+00:00:46,320 --> 00:00:49,420 11
+hypertension cholestérol heu non?
+
+13
+00:00:49,500 --> 00:00:50,200 12
+non
+
+14
+00:00:50,200 --> 00:00:51,410 13
+le coeur ça va?
+
+15
+00:00:51,470 --> 00:00:53,480 14
+je sais pas ouais ouais ça va
+
+16
+00:00:53,480 --> 00:00:55,919 15
+au niveau des traitements elle prend de l'insuline du coup?
+
+17
+00:00:56,070 --> 00:00:57,130 16
+non
+
+18
+00:00:57,410 --> 00:00:59,440 17
+non. elle prend quoi comme médicament?
+
+19
+00:01:00,110 --> 00:01:09,080 18
+heu pff elle prend un truc là qu'on donne aussi pour les enfants quand on a mal à la tête là
+
+20
+00:01:09,149 --> 00:01:10,119 19
+DOLIPRANE?
+
+21
+00:01:10,119 --> 00:01:18,839 20
+heu non un autre truc qui commence par un a ma mère elle m'en donnait quand j'étais petit heu
+
+22
+00:01:18,839 --> 00:01:20,160 21
+ASPIRINE?
+
+23
+00:01:20,240 --> 00:01:23,580 22
+oui ouais c'est ça c'est ça
+
+24
+00:01:23,690 --> 00:01:27,860 23
+bon hum et la douleur donc là elle vomit?
+
+25
+00:01:28,750 --> 00:01:29,380 24
+non
+
+26
+00:01:29,539 --> 00:01:30,289 25
+non
+
+27
+00:01:33,210 --> 00:01:34,419 26
+elle a de la fièvre?
+
+28
+00:01:34,949 --> 00:01:35,539 27
+non
+
+29
+00:01:37,419 --> 00:01:38,940 28
+passez la moi s'il vous plait
+
+30
+00:01:40,160 --> 00:01:43,550 29
+oh pff ben là elle peut pas parler là elle est pas bien
+
+31
+00:01:45,110 --> 00:01:46,640 30
+elle peut pas me parler
+
+32
+00:01:47,740 --> 00:01:54,350 31
+non elle est pas bien là en fait heu ce matin elle était mal mais là elle est elle a mal au ventre là
+
+33
+00:01:54,350 --> 00:01:57,019 32
+la douleur elle est en haut ou en bas du ventre?
+
+34
+00:01:57,650 --> 00:02:02,160 33
+bah plutôt en haut c'est pour ça que je j'appelle quoi donc
+
+35
+00:02:02,340 --> 00:02:02,910 34
+et
+
+36
+00:02:02,919 --> 00:02:04,440 35
+quand elle m'a dit que oui?
+
+37
+00:02:04,979 --> 00:02:06,160 36
+quand elle vous a dit que?
+
+38
+00:02:06,739 --> 00:02:14,840 37
+que maintenant elle avait mal au ventre et pas heu au- autre part bah c'est ça qui m'a fait peur quand ça s'est rajouté le ventre
+
+39
+00:02:15,090 --> 00:02:16,650 38
+et elle a des nausées?
+
+40
+00:02:17,840 --> 00:02:19,450 39
+heu bah ouais oui
+
+41
+00:02:20,060 --> 00:02:20,920 40
+et elle vomit?
+
+42
+00:02:21,620 --> 00:02:22,780 41
+non elle vomit pas
+
+43
+00:02:22,989 --> 00:02:24,820 42
+et elle est elle a des troubles du transit?
+
+44
+00:02:26,310 --> 00:02:28,660 43
+heu oui ça oui elle est constipée hein
+
+45
+00:02:29,049 --> 00:02:32,220 44
+elle est constipée. c'est depuis quand qu'elle ne va plus à la selle?
+
+46
+00:02:32,410 --> 00:02:38,320 45
+oh bah je sais je sais pas c'est qu'elle a toujours des trucs comme ça mais bon
+
+47
+00:02:39,940 --> 00:02:43,739 46
+bah non elle était pas bien mais là avec la la douleur en plus heu
+
+48
+00:02:44,109 --> 00:02:46,750 47
+mais elle a pris un médicament pour la douleur?
+
+49
+00:02:47,660 --> 00:02:51,390 48
+bah je lui ai donné du DOLIPRANE mais pff ça fait rien quoi
+
+50
+00:02:51,460 --> 00:02:55,940 49
+ça fait rien et elle a consulté un médecin traitant entre temps ou pas?
+
+51
+00:02:56,160 --> 00:03:00,150 50
+n- non mais non mais c'est en fait c'est arrivé ce matin
+
+52
+00:03:02,440 --> 00:03:10,480 51
+c'est ce matin elle s'est réveillée elle avait déjà mal mais c'était pas au ventre et maintenant c'est au ventre
+
+53
+00:03:10,540 --> 00:03:12,840 52
+bah ce matin c'était où la douleur?
+
+54
+00:03:13,010 --> 00:03:22,989 53
+bah elle avait mal au bras gauche ce matin et ​à la gorge bon bah je sais pas elle a soixante quinze ans elle a le droit d'avoir mal quoi mais là le ventre
+
+55
+00:03:23,049 --> 00:03:26,609 54
+et la douleur elle elle elle serre elle fait quoi?
+
+56
+00:03:27,280 --> 00:03:43,140 55
+bah je sais pas elle me dit ça me prend heu j'ai mal ça me prend et du coup j'ai eu j'ai eu d- j'ai envie de vomir et j'ai eu peur donc je suis désolée de vous embêter mais moi je je moi je voudrais l'amener à l'hôpital mais voilà
+
+57
+00:03:43,250 --> 00:03:44,950 56
+vous êtes véhiculée madame?
+
+58
+00:03:45,220 --> 00:03:46,150 57
+ah non
+
+59
+00:03:48,850 --> 00:03:55,290 58
+ok ok heu bon madame restez sur place ok il y ​a les pompiers qui arrivent
+
+60
+00:03:57,769 --> 00:03:58,880 59
+y'a les pompiers?
+
+61
+00:03:58,880 --> 00:04:00,970 60
+ah oui oui ils arrivent là
+
+62
+00:04:02,049 --> 00:04:04,040 61
+je d'accord
+
+63
+00:04:06,020 --> 00:04:07,780 62
+bah d'accord je on les attend
+
+64
+00:04:08,439 --> 00:04:08,989 63
+super
+
+65
+00:04:10,640 --> 00:04:11,070 64
+au revoir
+
+66
+00:04:11,070 --> 00:04:11,749 65
+au revoir
+

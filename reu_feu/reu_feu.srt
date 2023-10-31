@@ -1,0 +1,228 @@
+2
+00:00:01,870 --> 00:00:02,330 1
+allo?
+
+3
+00:00:02,410 --> 00:00:08,020 2
+oui bonjour je suis le docteur BEAUCHAMP donc vous appelez parce que il y a un chez un ami qui est où il y a le feu chez lui?
+
+4
+00:00:09,959 --> 00:00:11,860 3
+bah je sais pas moi je suis je suis en bas
+
+5
+00:00:12,680 --> 00:00:14,150 4
+vous êtes en bas de de l'immeuble?
+
+6
+00:00:15,510 --> 00:00:17,270 5
+heu oui oui je suis en bas de l'immeuble
+
+7
+00:00:17,680 --> 00:00:18,890 6
+et il y a le feu dans l'immeuble?
+
+8
+00:00:20,560 --> 00:00:23,330 7
+bah il y a il y a des flammes je crois oui il y a des flammes
+
+9
+00:00:23,610 --> 00:00:25,949 8
+il y a des flammes dans dans son appartement?
+
+10
+00:00:27,650 --> 00:00:32,479 9
+bah je vois elle elle habite au troisième et là le on dirait que c'est un peu au dessous
+
+11
+00:00:34,030 --> 00:00:36,280 10
+d'accord et les pompiers ils sont prévenus?
+
+12
+00:00:38,390 --> 00:00:46,260 11
+non heu bah les les pompiers je sais pas c'est pas vous vous avez pas appelé les pompiers là? moi j'ai pas j'ai pas appelé vous les avez appelés vous?
+
+13
+00:00:47,370 --> 00:00:52,050 12
+bah moi j'ai pas appelé les pompiers mais heu mes collègues veut vont les appeler heu le il y a pas de soucis
+
+14
+00:00:52,059 --> 00:00:52,320 13
+d'accord
+
+15
+00:00:52,559 --> 00:00:54,550 14
+d'accord et il y a il y a quelqu'un du coup dans l'appartement?
+
+16
+00:00:56,320 --> 00:00:59,550 15
+bah il y a je mon ami en tous cas elle habite là
+
+17
+00:01:00,020 --> 00:01:03,820 16
+d'accord vous avez réussi à l'a- à l'appeler à pour savoir si elle répondait?
+
+18
+00:01:05,140 --> 00:01:08,060 17
+heu oui j'ai fait son enfin j'ai j'ai fait son numéro
+
+19
+00:01:08,470 --> 00:01:09,600 18
+d'accord et elle a répondu?
+
+20
+00:01:11,180 --> 00:01:12,760 19
+heu ah bah non elle elle a pas répondu
+
+21
+00:01:13,330 --> 00:01:17,340 20
+heu elle a pas répondu et heu vous savez pas si elle était à son domicile à ce moment là
+
+22
+00:01:18,870 --> 00:01:19,840 21
+<NA>
+
+23
+00:01:20,860 --> 00:01:21,480 22
+d'accord
+
+24
+00:01:22,870 --> 00:01:30,330 23
+heu et heu il y a personne d'autre elle vit t- seule à la maison ou heu elle a des enfants ou heu d'autres personnes vivent avec elle?
+
+25
+00:01:31,870 --> 00:01:38,890 24
+bah bah c'est non non elle a pas d'enfants heu elle heu elle dit bah je sais peut être il reste c'est d'habitude il y a sa maman qui vit avec elle
+
+26
+00:01:39,340 --> 00:01:40,310 25
+d'accord elle est toute seule
+
+27
+00:01:42,070 --> 00:01:44,890 26
+heu ok et il y a beau- il y a beaucoup de flammes qui sortent?
+
+28
+00:01:46,590 --> 00:01:50,330 27
+heu il y a beaucoup c'est oui il y a beaucoup
+
+29
+00:01:50,810 --> 00:01:54,730 28
+d'accord et depuis combien de temps vous avez contas- con- enfin qu'il y a le feu
+
+30
+00:01:56,750 --> 00:01:59,550 29
+heu moi je suis arrivé heu il y a dix minutes
+
+31
+00:01:59,600 --> 00:02:00,520 30
+et il y avait déjà le feu?
+
+32
+00:02:02,340 --> 00:02:02,670 31
+oui
+
+33
+00:02:02,830 --> 00:02:12,400 32
+d'accord bon heu on va vous vous envoyer les les pompiers hein on a appelé les pompiers ils vont arriver et on va vous envoyer une équipe médicale heu aussi
+
+34
+00:02:13,450 --> 00:02:23,780 33
+d'accord après heu je crois il y a une cour avec heu un tuyau je vais heu je vais essayer d'aller heu d'aller éteindre le feu avec heu il y a un arrosoir je crois derrière dans la cour
+
+35
+00:02:24,520 --> 00:02:30,340 34
+dans dans la cour de de l'immeuble? faut faut pas que vous approchiez trop des flammes hein faut pas que vous vous mettiez en danger monsieur hein
+
+36
+00:02:30,350 --> 00:02:33,820 35
+non je vais rester à côté des flammes mais je vais jeter après dessus
+
+37
+00:02:36,140 --> 00:02:37,180 36
+d'accord de
+
+38
+00:02:37,610 --> 00:02:40,900 37
+je je vais pas toucher les flammes je vais de à côté je vais jeter de l'eau dessus
+
+39
+00:02:42,320 --> 00:02:42,760 38
+d'accord
+
+40
+00:02:44,460 --> 00:02:46,720 39
+j'ai vu ça à la télé hein comment ils font je sais faire
+
+41
+00:02:47,440 --> 00:02:52,910 40
+bah il y a il y a les pompiers qui vont arriver heu restez loin des flammes et les pompiers vont vont ​venir
+
+42
+00:02:52,910 --> 00:02:56,780 41
+commencé et les pompiers quand ils vont arriver j'aurai déjà commencé à les aider c'est parfait
+
+43
+00:02:56,950 --> 00:03:13,230 42
+heu bah restez plutôt en avant pour pas que les pompi- pour que les pompiers ils vous voient directement d'accord? comme ça vous les aiderez quand ils arrivent en en avant de l'immeuble dans dans la rue comme ça quand les pompiers ils arrivent vous heu vous les pouvez leur indiquer heu où où se garer et vous dire directement où aller
+
+44
+00:03:14,770 --> 00:03:16,590 43
+d'accord il faut il faut qu'ils se garent d'accord
+
+45
+00:03:16,720 --> 00:03:17,180 44
+d'accord?
+
+46
+00:03:17,180 --> 00:03:17,780 45
+qu'ils se garent où?
+
+47
+00:03:19,140 --> 00:03:25,730 46
+bah là où il y a de la place là où ça gêne pas d'accord? vous comme ça vous trouvez en attendant qu'ils arrivent d'accord? donc les pompiers arrivent et le médecin arrive d'accord?
+
+48
+00:03:26,290 --> 00:03:27,000 47
+d'accord bah é-
+
+49
+00:03:27,000 --> 00:03:27,380 48
+ok
+
+50
+00:03:28,840 --> 00:03:31,040 49
+o- donc les pompiers arrivent hein monsieur
+
+51
+00:03:31,040 --> 00:03:31,660 50
+appelle
+
+52
+00:03:31,940 --> 00:03:38,260 51
+comment je vous appelle si il y a un problème je fais quoi avec mon téléphone c'est quoi votre nom pour que je vous rappelle à vous?
+
+53
+00:03:38,350 --> 00:03:43,420 52
+vous rappelez le heu le 15 et ils passeront directement le le hum l'appel ils sauront que c'est moi
+
+54
+00:03:44,240 --> 00:03:45,060 53
+vous appelez le 15
+
+55
+00:03:45,070 --> 00:03:45,480 54
+d'accord
+
+56
+00:03:46,520 --> 00:03:49,790 55
+bon les pompiers arrivent hein monsieur a- attendez les hein
+
+57
+00:03:51,400 --> 00:03:51,690 56
+d'accord
+
+58
+00:03:53,620 --> 00:03:53,940 57
+au revoir
+

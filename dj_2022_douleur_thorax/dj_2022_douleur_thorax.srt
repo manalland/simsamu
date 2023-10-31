@@ -1,0 +1,244 @@
+2
+00:00:02,650 --> 00:00:04,980 1
+bonjour monsieur, docteur CHITZ à l'appareil
+
+3
+00:00:05,180 --> 00:00:08,250 2
+vous appelez pour votre heu collègue de cinquante ans qui a mal
+
+4
+00:00:08,280 --> 00:00:08,729 3
+oui oui
+
+5
+00:00:08,810 --> 00:00:09,450 4
+à la poitrine
+
+6
+00:00:09,450 --> 00:00:11,100 5
+il a mal a la poit- poitrine oui
+
+7
+00:00:11,340 --> 00:00:15,090 6
+ouais c'est heu c'est depuis combien de temps que ça a commencé?
+
+8
+00:00:15,150 --> 00:00:20,130 7
+je l'ai dit tout à l'heure, je ça ça fait ça fait quinze minutes là quinze minutes là il est plié en deux
+
+9
+00:00:20,160 --> 00:00:20,720 8
+d'accord
+
+10
+00:00:20,720 --> 00:00:21,410 9
+il est pas en forme
+
+11
+00:00:21,479 --> 00:00:23,710 10
+d'accord. il est i- i- ok
+
+12
+00:00:23,850 --> 00:00:28,409 11
+il est heu il a des sueurs, il a il est conscient?
+
+13
+00:00:28,430 --> 00:00:36,980 12
+je sais pas il est plié là, il a mal. il a arrêté le camion, on perd du temps, et voilà et ça fait. je sais pas non il a pas de sueurs voilà, il a pas de sueurs
+
+14
+00:00:36,980 --> 00:00:39,190 13
+et il a des problèmes de santé votre collègue?
+
+15
+00:00:40,309 --> 00:00:42,610 14
+est ce qu'il a déjà été hospitalisé?
+
+16
+00:00:42,610 --> 00:00:51,710 15
+mais je sais pas c'est pas un pote non plus hein. heu il voilà il a des problèmes de santé j'en sais rien. je sais pas je pense pas pff. bah il a mal des fois, il a mal ça fait deux semaines qu'il a mal
+
+17
+00:00:51,720 --> 00:00:54,379 16
+deux semaines qu'il a mal où ça? à la poitrine?
+
+18
+00:00:54,719 --> 00:00:57,550 17
+ouais heu poitrine non mais j'en sais rien heu
+
+19
+00:00:57,559 --> 00:00:58,070 18
+hum
+
+20
+00:00:58,559 --> 00:01:02,139 19
+voilà faut un truc pour lui parce que là il nous retarde et ça fait chier
+
+21
+00:01:02,290 --> 00:01:03,550 20
+passez le moi s'il vous plait
+
+22
+00:01:06,060 --> 00:01:06,790 21
+ok
+
+23
+00:01:08,260 --> 00:01:10,050 22
+allo allo, allo?
+
+24
+00:01:10,070 --> 00:01:11,670 23
+allo? oui bonjour monsieur
+
+25
+00:01:12,940 --> 00:01:15,060 24
+allo ouais ouais c'est qui?
+
+26
+00:01:15,260 --> 00:01:20,480 25
+oui docteur CHITZ à l'appareil, je suis le médecin régulateur. dites moi vous avez mal à la poitrine du coup, c'est ça?
+
+27
+00:01:20,490 --> 00:01:21,810 26
+ouais c'est ç- ouais ouais
+
+28
+00:01:21,850 --> 00:01:23,460 27
+ça a commencé il y a quinze minutes?
+
+29
+00:01:24,400 --> 00:01:25,200 28
+quoi?
+
+30
+00:01:25,230 --> 00:01:27,160 29
+ça a commencé il y a quinze minutes c'est ça?
+
+31
+00:01:27,210 --> 00:01:28,720 30
+heu je sais pas j'ai pas compris
+
+32
+00:01:28,790 --> 00:01:31,460 31
+d'accord. votre douleur vous avez déjà eu ça auparavant?
+
+33
+00:01:32,360 --> 00:01:32,860 32
+avant?
+
+34
+00:01:34,810 --> 00:01:35,400 33
+quoi?
+
+35
+00:01:35,630 --> 00:01:38,330 34
+est ce que vous avez déjà eu ça avant, dans le passé?
+
+36
+00:01:38,330 --> 00:01:39,790 35
+ouais ça fait deux semaines
+
+37
+00:01:39,820 --> 00:01:41,800 36
+d- deux semaines. est ce que vous avez déjà été hospitalisé?
+
+38
+00:01:41,800 --> 00:01:44,570 37
+je je peux pas parler, je vais je vais je vais vomir j'en peux plus là
+
+39
+00:01:44,570 --> 00:01:51,800 38
+vomir. d'accord. heu. heu la douleur elle est comment? heu vous sentez comme une oppression, ça brûle?
+
+40
+00:01:51,820 --> 00:01:53,010 39
+envoyez quelque chose j'en peux plus là
+
+41
+00:01:54,160 --> 00:01:57,980 40
+d'accord. heu vous fumez? vous vous vous avez quoi comment?
+
+42
+00:01:58,040 --> 00:02:00,330 41
+j'en sais rien, sais rien, j'en peux plus là. ouais je fume ouais ouais
+
+43
+00:02:00,500 --> 00:02:04,200 42
+ouais. et vous avez déjà ét- eu un stent? ça vous parle?
+
+44
+00:02:04,240 --> 00:02:05,840 43
+je sais pas je sais pas, je sais plus je sais plus
+
+45
+00:02:06,150 --> 00:02:08,539 44
+vous ne savez pas. vous avez pris quelque chose pour la douleur?
+
+46
+00:02:08,980 --> 00:02:14,890 45
+mais non je vous heu je sais plus là envoyez quelque chose je peux plus là. je peux plus, je lâ- je lâche le téléphone, là je lâche
+
+47
+00:02:15,140 --> 00:02:15,540 46
+ok
+
+48
+00:02:16,180 --> 00:02:16,830 47
+heu
+
+49
+00:02:17,910 --> 00:02:24,620 48
+ok. ce qu'on va faire c'est que on va vous envoyer un heu les secours d'accord le le SAMU là ok?
+
+50
+00:02:24,650 --> 00:02:25,740 49
+les secours? heu ok ok
+
+51
+00:02:25,750 --> 00:02:30,010 50
+restez avec votre collègue, prenez si vous avez un doliprane pour l'instant pour la douleur
+
+52
+00:02:30,620 --> 00:02:33,070 51
+et restez au calme, ne faites aucun effort
+
+53
+00:02:33,500 --> 00:02:35,160 52
+vous êtes assis ou allongé?
+
+54
+00:02:35,870 --> 00:02:36,960 53
+là je suis dans le camion là
+
+55
+00:02:37,160 --> 00:02:37,720 54
+bon
+
+56
+00:02:38,280 --> 00:02:40,000 55
+dans le camion. d'accord. assis?
+
+57
+00:02:41,150 --> 00:02:42,300 56
+bah ouais heu
+
+58
+00:02:42,370 --> 00:02:44,330 57
+ok. vous restez assis
+
+59
+00:02:44,820 --> 00:02:47,170 58
+vous attendez que les secours arrivent. d'accord?
+
+60
+00:02:47,610 --> 00:02:48,180 59
+d'accord
+
+61
+00:02:48,390 --> 00:02:49,750 60
+ok. au revoir monsieur
+
+62
+00:02:49,930 --> 00:02:50,410 61
+au revoir
+

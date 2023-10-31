@@ -1,0 +1,420 @@
+2
+00:00:02,200 --> 00:00:03,000 1
+allo?
+
+3
+00:00:03,950 --> 00:00:04,420 2
+oui allo?
+
+4
+00:00:04,490 --> 00:00:11,889 3
+oui bonjour madame je suis le docteur LAKHLIFI. heu vous appelez pour votre mère qui s'est fait frapper par votre père c'est ça?
+
+5
+00:00:12,570 --> 00:00:13,209 4
+oui c'est ça
+
+6
+00:00:13,709 --> 00:00:15,290 5
+est ce que vous pouvez m'en dire un peu plus?
+
+7
+00:00:16,950 --> 00:00:20,030 6
+bah écoutez enfin. je je viens d'arriver et je sais pas quoi
+
+8
+00:00:21,320 --> 00:00:22,650 7
+votre mère est avec vous?
+
+9
+00:00:23,140 --> 00:00:23,490 8
+oui
+
+10
+00:00:24,019 --> 00:00:25,379 9
+est ce qu'elle est bien consciente?
+
+11
+00:00:26,420 --> 00:00:26,930 10
+oui
+
+12
+00:00:27,369 --> 00:00:28,379 11
+elle vous parle?
+
+13
+00:00:28,990 --> 00:00:29,809 12
+oui
+
+14
+00:00:29,949 --> 00:00:30,830 13
+elle a des plaies?
+
+15
+00:00:32,299 --> 00:00:33,490 14
+bah y a du sang
+
+16
+00:00:34,010 --> 00:00:34,850 15
+​à quel niveau?
+
+17
+00:00:35,809 --> 00:00:37,510 16
+au niveau du visage
+
+18
+00:00:38,550 --> 00:00:39,790 17
+est ce que vous pouvez me la passer?
+
+19
+00:00:40,089 --> 00:00:41,180 18
+passez la moi s'il vous plait
+
+20
+00:00:42,260 --> 00:00:44,309 19
+heu enfin je je préfère pas non
+
+21
+00:00:44,640 --> 00:00:45,920 20
+passez la moi s'il vous plait
+
+22
+00:00:45,920 --> 00:00:46,309 21
+chercher
+
+23
+00:00:48,180 --> 00:00:49,100 22
+passez la moi s'il vous plait
+
+24
+00:00:49,839 --> 00:00:50,809 23
+elle est en train de pleurer
+
+25
+00:00:51,930 --> 00:00:54,460 24
+c'est pas grave, je vais essayer de lui parler. passez la moi s'il vous plait
+
+26
+00:00:55,540 --> 00:00:58,589 25
+ah bah je vais je vais essayer. elle veut pas
+
+27
+00:00:59,510 --> 00:00:59,880 26
+comment?
+
+28
+00:01:00,469 --> 00:01:02,499 27
+elle veut pas. elle préfère que je parle
+
+29
+00:01:03,790 --> 00:01:07,280 28
+d'accord. est ce qu'elle vous a raconté ce qu'il s'est passé exactement?
+
+30
+00:01:10,190 --> 00:01:16,490 29
+bah pas vraiment heu pff. après c'est pas la première fois mais heu. faut venir le chercher là, elle peut plus
+
+31
+00:01:17,210 --> 00:01:18,070 30
+faut venir comment?
+
+32
+00:01:18,820 --> 00:01:20,030 31
+faut venir le chercher hein
+
+33
+00:01:20,300 --> 00:01:21,980 32
+le chercher, c'est à dire votre père?
+
+34
+00:01:22,710 --> 00:01:23,050 33
+oui
+
+35
+00:01:23,550 --> 00:01:24,700 34
+actuellement il est où?
+
+36
+00:01:26,000 --> 00:01:29,330 35
+bah il est il est il est il est là dans la dans
+
+37
+00:01:30,070 --> 00:01:35,260 36
+d'accord. vous pensez qu y a une un hum y a vous êt- vous n'êtes pas en sécurité?
+
+38
+00:01:37,520 --> 00:01:45,760 37
+non mais enfin je sais pas. il l'a tapée heu. voilà et. c'est pas la première fois
+
+39
+00:01:46,900 --> 00:01:49,160 38
+d'accord. bon écoutez, le
+
+40
+00:01:49,160 --> 00:01:49,720 39
+toute sa tête
+
+41
+00:01:50,900 --> 00:01:52,720 40
+il a plus toute sa tête. c'est à dire?
+
+42
+00:01:54,340 --> 00:01:57,770 41
+bah ils l'ont diagnostiqué heu la semaine dernière
+
+43
+00:02:00,050 --> 00:02:09,060 42
+hum mais enfin voilà. ils ont dit qu'il a perdu sa tête quoi faut le chercher hein. il faut le il faut l'amener à l'hôpital
+
+44
+00:02:09,940 --> 00:02:11,560 43
+là actuellement, il est calme?
+
+45
+00:02:12,910 --> 00:02:13,240 44
+oui
+
+46
+00:02:14,050 --> 00:02:26,010 45
+d'accord écoutez d- d- tout d'abord par rapport à votre mère, il faudrait absolument qu'elle qu'elle aille aux urgences pour heu pour qu'elle soit examinée et si il y a une plaie qu'elle soit heu suturée si besoin
+
+47
+00:02:27,660 --> 00:02:28,850 46
+vous avez une voiture?
+
+48
+00:02:31,040 --> 00:02:34,380 47
+bah oui après lui il acceptera jamais de rentrer dans la voiture hein
+
+49
+00:02:36,950 --> 00:02:39,490 48
+il faut l'emmener là, il faut il faut venir le chercher hein
+
+50
+00:02:43,060 --> 00:02:53,950 49
+​à part heu les. donc il a il était récemment diagnostiqué par de de il a des troubles cognitifs une une maladie heu neurologique?
+
+51
+00:02:55,520 --> 00:02:56,710 50
+bah de la mémoire
+
+52
+00:02:57,070 --> 00:03:03,320 51
+d'accord et il a des des phases comme ça où il est violent envers vous et ou ou votre mère
+
+53
+00:03:04,870 --> 00:03:21,050 52
+bah d'après ce qu- ce qu'elle m'a dit heu oui, elle osait pas le dire avant mais heu. mais là enfin faut pas le garder à la maison, il a plus toute sa tête heu je j'ai pas envie qu'il tape sa maman tout ma maman tout le temps donc heu là faut venir le chercher et l'amener
+
+54
+00:03:21,200 --> 00:03:25,580 53
+à l'hôpital heu je sais pas le lui trouver un endroit quoi, là c'est plus possible hein
+
+55
+00:03:26,350 --> 00:03:26,684 54
+<NA>
+
+56
+00:03:26,684 --> 00:03:27,780 55
+il peut pas rester à la maison
+
+57
+00:03:30,420 --> 00:03:34,890 56
+hum en en en dehors de ses s- s- ses crises elles sont plutôt fréquentes?
+
+58
+00:03:36,770 --> 00:03:44,530 57
+bah moi je je tombe des nues moi je je ne sais pas heu. heu d'après d'après ma mère pas vraiment mais heu
+
+59
+00:03:44,830 --> 00:03:52,190 58
+c'est déjà arrivé et puis là enfin il y a du sang il y a il a des plaies sur le visage enfin il, il faut faut venir le chercher hein
+
+60
+00:03:52,920 --> 00:03:58,020 59
+est ce qu'il est est ce qu'il est il est dans la capacité de de rester seul heu au domicile?
+
+61
+00:03:59,100 --> 00:04:00,380 60
+je sais pas je sais pas
+
+62
+00:04:00,410 --> 00:04:05,359 61
+d'ha- d'habitude vous le laissez à la maison heu seul heu il est plutôt autonome à la maison?
+
+63
+00:04:05,650 --> 00:04:07,910 62
+oui bah oui, il vit avec heu ma maman
+
+64
+00:04:08,820 --> 00:04:09,200 63
+d'accord
+
+65
+00:04:09,200 --> 00:04:19,440 64
+mais là heu si il perd toute sa tête enfin faut faut l'amener à l'hôpital, faut faut le garder quoi enfin moi je peux pas il peut pas rester à la maison faut l'hospitaliser heu
+
+66
+00:04:20,769 --> 00:04:22,539 65
+faut venir le chercher hein
+
+67
+00:04:23,330 --> 00:04:35,090 66
+bon écoutez je vois je vois pas là heu d'urgence à l'amener à l'hôpital heu moi ce qui ce qui je pense heu est nécessaire c'est que votre vous ameniez votre mère aux urgences
+
+68
+00:04:36,849 --> 00:04:38,210 67
+mais pour lui qu'est ce qu'on fait?
+
+69
+00:04:38,620 --> 00:04:41,580 68
+pour lui il faudrait que ce soit évalué avec votre médecin
+
+70
+00:04:42,440 --> 00:04:48,859 69
+hum pour heu pour discuter heu de hum comment heu
+
+71
+00:04:49,280 --> 00:04:56,210 70
+heu est ce qu'il y a des traitements à mettre en place heu est ce que y a des choses qui peuvent être mises en place à la maison heu
+
+72
+00:04:56,960 --> 00:05:01,729 71
+mais là l'amener aux urgences je vois je vois pas comment ça pourrait heu aider la situation
+
+73
+00:05:02,109 --> 00:05:08,840 72
+heu la priorité là c'est votre mère elle a été frappée elle a une plaie heu elle nécessite d'être vue heu rapidement par un médecin
+
+74
+00:05:10,840 --> 00:05:11,520 73
+et lui non?
+
+75
+00:05:12,409 --> 00:05:13,099 74
+et lui non
+
+76
+00:05:15,630 --> 00:05:16,919 75
+donc si il recommence heu
+
+77
+00:05:18,830 --> 00:05:20,320 76
+bah je je sais pas moi je
+
+78
+00:05:20,349 --> 00:05:21,520 77
+si il recommence vous nous appelez
+
+79
+00:05:21,539 --> 00:05:22,270 78
+<NA>
+
+80
+00:05:22,289 --> 00:05:23,359 79
+si il recommence vous nous appelez
+
+81
+00:05:25,020 --> 00:05:28,560 80
+donc heu il vient pas à l'hôpital quoi je pas pas pas la peine que je le ramène
+
+82
+00:05:28,640 --> 00:05:29,020 81
+non
+
+83
+00:05:30,870 --> 00:05:35,750 82
+bon ben je vais essayer d'expliquer ça à ma maman
+
+84
+00:05:36,359 --> 00:05:38,010 83
+donc vous allez l'amener aux urgences?
+
+85
+00:05:39,099 --> 00:05:48,400 84
+et mais c'est surtout pour lui moi moi je suis vraiment inquiète pour lui et à la rigueur voilà ça saigne un peu, c'est pas grave mais c'est c'est c'est surtout lui. moi qu'est ce que j'en fais
+
+86
+00:05:50,979 --> 00:05:56,460 85
+écoutez je je je comprends. hum est ce que votre médecin traitant est disponible?
+
+87
+00:05:58,090 --> 00:06:02,179 86
+ah bah je sais pas je vous ai appelé vous je vais pas appeler le médecin traitant
+
+88
+00:06:02,390 --> 00:06:12,210 87
+bah en fait aux urgences on va pas faire grand chose pour votre père si il a des des troubles heu cognitifs. heu c'est pas aux urgences qu'on qu'on va résoudre heu le problème
+
+89
+00:06:12,539 --> 00:06:14,549 88
+est ce que vous habitez avec vos parents?
+
+90
+00:06:15,440 --> 00:06:15,989 89
+non
+
+91
+00:06:16,460 --> 00:06:16,979 90
+d'accord
+
+92
+00:06:18,020 --> 00:06:20,830 91
+hum est ce que vous pouvez là emmener votre mère à l'hôpital?
+
+93
+00:06:23,630 --> 00:06:28,440 92
+bah pff oui mais moi je vous je vous le dis c'est c'est mon père quoi enfin heu
+
+94
+00:06:30,359 --> 00:06:33,260 93
+je je fais quoi, je le prends avec moi heu je enfin c'est ça
+
+95
+00:06:36,669 --> 00:06:38,030 94
+hum
+
+96
+00:06:39,979 --> 00:06:42,130 95
+vous pensez qu'il peut pas rester seul au domicile?
+
+97
+00:06:43,620 --> 00:06:46,330 96
+oh si il il fait sa petite vie hein mais heu
+
+98
+00:06:46,880 --> 00:06:48,719 97
+bah écoutez pour l'instant emmenez votre mère aux urgences
+
+99
+00:06:51,010 --> 00:06:56,320 98
+d'accord bah ok et puis bah je vous rappellerai alors pour pour qu'on précise pour mon papa dans ce cas là
+
+100
+00:06:56,489 --> 00:07:03,560 99
+si jamais effectivement il est de nouveau violent au domicile vous nous appelez mais faudrait organiser un un un rendez vous avec votre médecin traitant
+
+101
+00:07:05,169 --> 00:07:06,650 100
+enfin son médecin traitant
+
+102
+00:07:08,429 --> 00:07:11,679 101
+d'a- d'accord mais je je vais ​me mettre en relation avec et puis voilà
+
+103
+00:07:11,710 --> 00:07:12,419 102
+d'accord
+
+104
+00:07:17,719 --> 00:07:18,229 103
+pour demain
+
+105
+00:07:18,950 --> 00:07:19,469 104
+au revoir
+
+106
+00:07:19,950 --> 00:07:20,380 105
+allez au revoir
+

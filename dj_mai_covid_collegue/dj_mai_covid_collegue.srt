@@ -1,0 +1,184 @@
+2
+00:00:02,800 --> 00:00:03,900 1
+bonjour madame
+
+3
+00:00:04,800 --> 00:00:05,950 2
+oui bonjour
+
+4
+00:00:05,980 --> 00:00:14,700 3
+bonjour je suis le docteur ABAZ de du SAMU donc on m'a dit que vous appeliez pour votre collègue de quarante sept ans qui avait des problèmes pour respirer c'est bien cela?
+
+5
+00:00:14,990 --> 00:00:26,160 4
+oui heu c'est bien ça moi je trouve qu'il est gêné pour respirer heu bah pour être honnête heu moi j'ai eu un COVID assez long heu et en fait je l'ai eu y a deux ans maintenant
+
+6
+00:00:26,160 --> 00:00:26,400 5
+ok
+
+7
+00:00:26,419 --> 00:00:29,130 6
+c'était au début du COVID en fait c'était en 2019 et
+
+8
+00:00:29,130 --> 00:00:32,760 7
+la la la gêne respiratoire a commencé quand exactement?
+
+9
+00:00:33,879 --> 00:00:35,160 8
+ma gêne respiratoire à moi?
+
+10
+00:00:35,160 --> 00:00:38,250 9
+non de de votre collègue de votre collègue
+
+11
+00:00:39,280 --> 00:00:45,400 10
+elle a commen- alors heu elle a commencé là aujourd'hui heu je je la trouve heu
+
+12
+00:00:45,459 --> 00:00:46,599 11
+à quelle heure exactement?
+
+13
+00:00:46,599 --> 00:00:52,660 12
+respirer elle tousse après moi je pense c'est un peu un COVID parce que le quand j'ai eu mon COVID moi j'ai
+
+14
+00:00:52,660 --> 00:00:56,899 13
+depuis quand depuis quelle heure exactement elle se sent gênée pour respirer
+
+15
+00:00:58,259 --> 00:01:03,480 14
+depuis heu pff je dirais trois quatre heures heu trois quatre heures
+
+16
+00:01:03,509 --> 00:01:05,619 15
+c'est la première fois que ça lui arrive au travail?
+
+17
+00:01:06,869 --> 00:01:11,170 16
+bah ça fait un petit m- ça fait une semaine qu'elle est un peu gênée pour respirer quand même
+
+18
+00:01:11,170 --> 00:01:11,710 17
+ok
+
+19
+00:01:11,789 --> 00:01:13,550 18
+ça fait une semaine et en fait le le
+
+20
+00:01:13,550 --> 00:01:17,140 19
+est ce que vous pouvez me la passer est ce que p- passez la moi au téléphone pardon
+
+21
+00:01:17,980 --> 00:01:20,759 20
+parce que si m- enfin elle
+
+22
+00:01:20,789 --> 00:01:22,380 21
+passez la moi au téléphone s'il vous plait
+
+23
+00:01:22,390 --> 00:01:27,230 22
+côté ok heu elle est à côté hein bon je vous la passe
+
+24
+00:01:28,110 --> 00:01:28,789 23
+oui allo?
+
+25
+00:01:28,789 --> 00:01:34,100 24
+oui bonjour je suis le docteur ABAZ du SAMU heu on m'a dit que vous aviez des problèmes pour respirer
+
+26
+00:01:34,740 --> 00:01:36,640 25
+oui c'est ça oui oui
+
+27
+00:01:36,690 --> 00:01:39,570 26
+depuis combien de temps vous avez cette gêne respiratoire?
+
+28
+00:01:39,840 --> 00:01:44,590 27
+bah ça fait une semaine que je suis gênée pour respirer heu c'est heu
+
+29
+00:01:44,610 --> 00:01:46,460 28
+vous avez consulté pour ça ou pas?
+
+30
+00:01:47,210 --> 00:01:57,850 29
+j'ai pas consulté non non parce que je suis pas inquiète après heu mon collègue elle elle ma collègue elle pense que c'est le COVID après moi j'en sais rien mais c'est vrai qu'elle est traumatisée donc heu
+
+31
+00:01:57,850 --> 00:02:00,740 30
+est ce que vous avez des des problèmes de santé habituellement?
+
+32
+00:02:01,740 --> 00:02:07,089 31
+heu non j'ai pas de j'ai je prends juste un un ou deux traitements
+
+33
+00:02:07,089 --> 00:02:08,590 32
+vous prenez quoi comme traitement?
+
+34
+00:02:09,690 --> 00:02:15,930 33
+je fais une hypothyroïdie et heu et heu l'autre c'est pour la constipation
+
+35
+00:02:16,500 --> 00:02:19,730 34
+est ce que vous avez d'autre symptômes à part la gêne respiratoire?
+
+36
+00:02:21,920 --> 00:02:27,470 35
+heu non j'ai pas d'autre j'ai pas d'autre symptôme non
+
+37
+00:02:27,480 --> 00:02:41,110 36
+ok madame pour pour votre problème là il faudra aller voir un médecin hum il faut aller voir un médecin heu je vous laisse prendre contact avec votre médecin traitant pour le pour le voir heu dans la journée ou dans la semaine
+
+38
+00:02:42,450 --> 00:02:45,860 37
+ok mais on est lundi là c'est pas grave si je le vois samedi?
+
+39
+00:02:45,880 --> 00:02:52,820 38
+heu y a aucun soucis si la situation s'aggrave entre temps vous pouvez consulter heu soit une maison médicale ou aux urgences
+
+40
+00:02:54,600 --> 00:02:56,040 39
+d'accord ok
+
+41
+00:02:56,390 --> 00:02:57,290 40
+nous on reste dispo-
+
+42
+00:02:57,290 --> 00:03:00,750 41
+je vous repasse mon collègue parce que je pense qu'il a d'autres choses à vous dire heu
+
+43
+00:03:01,540 --> 00:03:03,560 42
+c'est pas la peine c'est pas la peine
+
+44
+00:03:03,880 --> 00:03:04,630 43
+d'accord
+
+45
+00:03:05,230 --> 00:03:06,310 44
+bonne journée au revoir
+
+46
+00:03:06,920 --> 00:03:08,610 45
+au revoir merci docteur
+
+47
+00:03:08,650 --> 00:03:09,550 46
+au revoir
+

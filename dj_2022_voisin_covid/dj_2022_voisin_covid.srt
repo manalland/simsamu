@@ -1,0 +1,252 @@
+2
+00:00:03,550 --> 00:00:11,900 1
+heu oui bonjour madame, je suis le docteur DAMANI. donc vous appelez pour votre voisin qui avait de la fièvre c'est bien ça?
+
+3
+00:00:12,450 --> 00:00:15,900 2
+oui c'est ça il, il m'a demandé d'appeler
+
+4
+00:00:16,200 --> 00:00:17,400 3
+d'accord. il est à côté de vous?
+
+5
+00:00:18,299 --> 00:00:20,750 4
+heu oui, tout à fait
+
+6
+00:00:20,799 --> 00:00:26,699 5
+et donc c'est lui qui est venu spontanément heu à votre domicile, vous êtes en appartement ou en maison?
+
+7
+00:00:27,100 --> 00:00:28,600 6
+on est en appartement
+
+8
+00:00:28,809 --> 00:00:30,189 7
+d'accord. c'est votre voisin de pallier?
+
+9
+00:00:30,850 --> 00:00:31,390 8
+oui
+
+10
+00:00:32,140 --> 00:00:36,000 9
+et donc heu qu'est ce qu'il est venu vous vous vous dire spontanément?
+
+11
+00:00:36,519 --> 00:00:41,680 10
+heu il m'a dit qu'il avait de la fièvre et je vois qu'il, je vois qu'il tousse un peu heu
+
+12
+00:00:42,290 --> 00:00:47,780 11
+heu moi aussi j'ai fait de la fièvre y a y a pas très très longtemps heu, je tousse un peu aussi mais
+
+13
+00:00:47,839 --> 00:00:50,530 12
+heu pour vous il est comme d'habitude? il vous parle normalement?
+
+14
+00:00:51,640 --> 00:00:54,879 13
+ah bah oui vous sav- après il parle pas du tout le français donc c'est compliqué
+
+15
+00:00:55,040 --> 00:00:57,719 14
+ah donc il parle pas du tout français. il parle quelle langue?
+
+16
+00:00:58,790 --> 00:01:03,279 15
+heu je sais pas trop c'est pas très clair, je sais qu'il est en asie a- asie du sud est mais pff
+
+17
+00:01:03,639 --> 00:01:06,240 16
+et donc vous heu vous parlez une autre langue que le français?
+
+18
+00:01:07,730 --> 00:01:09,980 17
+heu non. moi je parle français, un peu anglais
+
+19
+00:01:10,310 --> 00:01:13,200 18
+d'accord. donc vous vous exprimez comment avec lui?
+
+20
+00:01:14,530 --> 00:01:21,940 19
+bah il me fait des signes et il montre des des des images et heu un peu sur heu sur le téléphone des mots
+
+21
+00:01:23,330 --> 00:01:28,710 20
+du coup on ne peut pas heu là je peux pas lui parler au téléphone si il parle pas ni anglais heu ni français c'est bien ça?
+
+22
+00:01:29,200 --> 00:01:29,780 21
+ouais
+
+23
+00:01:30,230 --> 00:01:30,580 22
+ok
+
+24
+00:01:31,370 --> 00:01:35,370 23
+heu et du coup vous m'avez dit qu'il a cinquante ans, il a de la famille?
+
+25
+00:01:36,700 --> 00:01:38,160 24
+ah je sais pas je lui ai pas demandé
+
+26
+00:01:39,240 --> 00:01:43,440 25
+mais vous en tant que voisine vous avez jamais vu heu quelqu'un d'autre avec lui heu
+
+27
+00:01:44,130 --> 00:01:46,500 26
+bah si parfois il y a des gens qui passent, mais après je sais pas qui c'est
+
+28
+00:01:47,130 --> 00:01:49,970 27
+y a des gens aussi pareil qui viennent me voir, mais il sait pas forcément qui c'est
+
+29
+00:01:51,330 --> 00:01:51,670 28
+ok
+
+30
+00:01:52,780 --> 00:01:56,400 29
+heu est ce que d'accord est ce que vous pouvez lui demander
+
+31
+00:01:56,800 --> 00:02:05,090 30
+du coup si heu y a quelqu'un d'autre qui pourrait venir heu parce que là si vous me dites que il heu il a de la fièvre mais qu'il se tient debout normalement et qu'il
+
+32
+00:02:05,110 --> 00:02:16,710 31
+bah écoutez madame, franchement moi je pense que c'est le COVID hein. soyons honnêtes il tousse, il a de la fièvre, enfin. moi aussi j'ai eu j'ai un COVID il y a il y a six mois, je toussais, j'avais les mêmes symptômes que lui heu j'étais bien au début mais et puis heu
+
+33
+00:02:16,830 --> 00:02:22,960 32
+après heu j'avais eu du mal à respirer donc j'ai dû être hospitalisée. j'ai été hospitalisée dans pendant
+
+34
+00:02:22,970 --> 00:02:24,150 33
+non mais bien évidemment
+
+35
+00:02:24,150 --> 00:02:37,240 34
+oxygène heu et depuis que je suis sortie, je suis très très fatiguée hein je pense que je suis je dois faire. j'ai vu ça à la télé ils parlent de d'un de du COVID long je je crois, je suis fatiguée, j'ai un peu mal dans la poitrine et tout
+
+36
+00:02:37,290 --> 00:02:39,070 35
+heu après là vous appelez pour votre voisin?
+
+37
+00:02:40,260 --> 00:02:43,140 36
+oui oui, j'appelle pour mon voisin je vous dis je pense qu'il a il a le COVID
+
+38
+00:02:43,160 --> 00:02:45,290 37
+après COVID ou pas COVID
+
+39
+00:02:45,290 --> 00:02:45,890 38
+les symptômes
+
+40
+00:02:45,940 --> 00:02:50,030 39
+oui bien évidemment. mais du coup ça nécessite quand même un un examen médical
+
+41
+00:02:50,290 --> 00:02:53,790 40
+donc heu essayez de voir avec lui pour qu'il aille voir un médecin
+
+42
+00:02:54,530 --> 00:02:55,100 41
+oui je
+
+43
+00:02:55,100 --> 00:02:56,480 42
+<NA>
+
+44
+00:02:56,480 --> 00:02:57,280 43
+après je
+
+45
+00:02:57,790 --> 00:03:04,240 44
+donc vous voyez avec lui pour qu'il heu pour qu'il aille voir un médecin y a des maisons médicales heu donc y a heu voyez avec lui pour qu'il aille voir un médecin
+
+46
+00:03:04,860 --> 00:03:06,590 45
+si y a un téléphone qu'il aille a
+
+47
+00:03:06,590 --> 00:03:11,750 46
+j'avais vu heu j'a- j'avais vu mon médecin mais enfin elle a pas détecté tout de suite hein donc heu bon je sais pas heu
+
+48
+00:03:11,790 --> 00:03:13,940 47
+bah donc voyez avec lui pour qu'il aille voir un médecin
+
+49
+00:03:14,510 --> 00:03:15,510 48
+en ville
+
+50
+00:03:16,710 --> 00:03:17,220 49
+d'accord?
+
+51
+00:03:17,250 --> 00:03:18,090 50
+d'accord. c'est tout?
+
+52
+00:03:18,460 --> 00:03:20,410 51
+bah qu'il aille voir un médecin en ville, effectivement oui
+
+53
+00:03:21,120 --> 00:03:21,640 52
+ok
+
+54
+00:03:21,670 --> 00:03:23,690 53
+donc il peut nous rappeler si il se passe quelque chose de nouveau
+
+55
+00:03:24,820 --> 00:03:25,950 54
+c'est à dire?
+
+56
+00:03:26,720 --> 00:03:30,930 55
+bah si vous voyez qu'il a un comportement inhabituel heu qu'il se plaint, qu'il a une nouvelle plainte
+
+57
+00:03:31,290 --> 00:03:34,510 56
+heu vous pouv- vous rappelez mais là il peut aller voir un médecin en ville
+
+58
+00:03:35,870 --> 00:03:36,610 57
+ok
+
+59
+00:03:37,030 --> 00:03:38,030 58
+merci beaucoup madame
+
+60
+00:03:38,030 --> 00:03:43,450 59
+et moi mes t- mais attendez madame et moi pour mon pour ma fatigue heu mes douleurs heu
+
+61
+00:03:43,550 --> 00:03:49,530 60
+là vous avez appelé pour votre pour votre voisin madame et comme vous m'avez dit vous avez déjà vu votre médecin donc heu rapprochez vous de lui
+
+62
+00:03:50,430 --> 00:03:51,670 61
+ok d'accord
+
+63
+00:03:51,760 --> 00:03:52,730 62
+bonne journée à vous
+
+64
+00:03:53,450 --> 00:03:54,910 63
+merci, au revoir
+

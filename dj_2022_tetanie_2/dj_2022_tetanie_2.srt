@@ -1,0 +1,336 @@
+3
+00:00:00,699 --> 00:00:02,250 1
+bonjour monsieur
+
+4
+00:00:02,480 --> 00:00:02,859 2
+allo?
+
+5
+00:00:02,880 --> 00:00:03,760 3
+allo oui bonjour?
+
+6
+00:00:03,769 --> 00:00:04,160 4
+bonjour
+
+7
+00:00:04,160 --> 00:00:10,120 5
+je suis médecin docteur CHITZ du coup y a votre soeur qui ne se sent pas bien de vingt huit ans elle fait un malaise, qu'est ce qui se passe?
+
+8
+00:00:10,530 --> 00:00:13,000 6
+ouais ma s- ma soeur elle est dans le mal là
+
+9
+00:00:13,360 --> 00:00:15,719 7
+dans le mal. depuis combien de temps?
+
+10
+00:00:16,740 --> 00:00:18,220 8
+depuis combien de quoi?
+
+11
+00:00:18,290 --> 00:00:19,250 9
+combien de temps?
+
+12
+00:00:20,430 --> 00:00:27,369 10
+ah ça fait s- heu je sais pas ça fait depuis qu'on est rentrés quoi heu
+
+13
+00:00:27,369 --> 00:00:30,420 11
+c'est à dire une dix minutes, une demi heure?
+
+14
+00:00:31,909 --> 00:00:36,730 12
+ah ça fait pas une demi heure quand même hein. je dirais moins, je dirais moins d'une demi heure
+
+15
+00:00:36,730 --> 00:00:40,200 13
+moins, ok. elle et elle vous répond votre soeur?
+
+16
+00:00:41,100 --> 00:00:43,800 14
+<NA>
+
+17
+00:00:43,950 --> 00:00:47,990 15
+non elle fait des petits bruits comme ça mais
+
+18
+00:00:48,120 --> 00:00:48,660 16
+des petits
+
+19
+00:00:48,660 --> 00:00:49,720 17
+pas sûr qu'elle réponde en vrai non
+
+20
+00:00:50,680 --> 00:00:53,780 18
+hum elle elle est en capacité de parler?
+
+21
+00:00:55,010 --> 00:00:57,530 19
+bah nan elle bouge plus heu elle
+
+22
+00:00:57,690 --> 00:00:58,819 20
+elle elle bouge pas
+
+23
+00:00:58,840 --> 00:01:02,860 21
+elle me parle plus là. là elle dans le mal, je vous dis elle est pas bien
+
+24
+00:01:02,950 --> 00:01:06,220 22
+elle hum. est ce que vous pouvez me la. passez la moi
+
+25
+00:01:07,060 --> 00:01:08,380 23
+ah j'essaye hein mais
+
+26
+00:01:09,440 --> 00:01:10,990 24
+passez la moi, passez la moi
+
+27
+00:01:12,370 --> 00:01:19,270 25
+bah je sais pas elle le té- elle peut même pas tenir le téléphone. euh j'ai essayé euh le téléphone il tombe et tout
+
+28
+00:01:19,720 --> 00:01:23,010 26
+le téléphone tombe. et elle respire? est-ce?
+
+29
+00:01:23,140 --> 00:01:27,660 27
+ouais elle respire ouais heu ouais ouais elle respire elle respire ouais
+
+30
+00:01:27,780 --> 00:01:30,190 28
+elle respire. et elle s'est plaint de douleurs?
+
+31
+00:01:31,600 --> 00:01:36,580 29
+bah je sais pas très bien, elle pleure, elle est pas bien, je comprends rien
+
+32
+00:01:36,630 --> 00:01:37,260 30
+d'accord là
+
+33
+00:01:37,260 --> 00:01:37,950 31
+elle répond pas
+
+34
+00:01:38,010 --> 00:01:39,570 32
+là là elle est en train de pleurer?
+
+35
+00:01:40,550 --> 00:01:41,470 33
+ouais on dirait hein
+
+36
+00:01:42,120 --> 00:01:42,660 34
+on dirait
+
+37
+00:01:43,120 --> 00:01:46,830 35
+d'accord. elle elle a des des maladies votre soeur?
+
+38
+00:01:47,800 --> 00:01:50,150 36
+des maladies? pff non
+
+39
+00:01:50,210 --> 00:01:51,820 37
+elle a jamais été hospitalisée?
+
+40
+00:01:53,400 --> 00:01:54,440 38
+c'est à dire hospitalisée, heu?
+
+41
+00:01:54,490 --> 00:01:55,980 39
+à l'hôpital, à l'hôpital
+
+42
+00:01:56,179 --> 00:01:59,829 40
+à l'hôpital. elle a été à l'hôpital. heu ouais elle a déjà été à l'hôpital je crois
+
+43
+00:01:59,880 --> 00:02:00,630 41
+pourquoi?
+
+44
+00:02:02,079 --> 00:02:05,419 42
+bah parce que elle était pas bien comme ça dans le mal et puis heu
+
+45
+00:02:05,449 --> 00:02:07,820 43
+d'accord donc elle elle a déjà fait ça avant?
+
+46
+00:02:08,429 --> 00:02:08,690 44
+ce
+
+47
+00:02:08,709 --> 00:02:10,259 45
+ouais des trucs comme ça ouais
+
+48
+00:02:10,320 --> 00:02:12,269 46
+d'accord. elle prend des médicaments?
+
+49
+00:02:13,820 --> 00:02:16,679 47
+bon pas des médicaments vraiment
+
+50
+00:02:16,910 --> 00:02:17,750 48
+c'est à dire?
+
+51
+00:02:18,660 --> 00:02:21,440 49
+bah elle méfu un peu elle est tipo
+
+52
+00:02:21,640 --> 00:02:22,640 50
+elle fume?
+
+53
+00:02:23,480 --> 00:02:24,310 51
+ouais ouais
+
+54
+00:02:24,369 --> 00:02:25,579 52
+et elle fume quoi?
+
+55
+00:02:26,549 --> 00:02:29,799 53
+bah des elle fume euh elle fume de la weed quoi
+
+56
+00:02:29,799 --> 00:02:33,359 54
+d'accord là elle a elle a elle a consommé elle a consommé là?
+
+57
+00:02:34,359 --> 00:02:35,480 55
+consommé c'est à dire?
+
+58
+00:02:35,510 --> 00:02:36,310 56
+elle a fumé?
+
+59
+00:02:36,429 --> 00:02:46,170 57
+elle a fum- ouais là on rentre d'une soirée elle a pris pris deux trois cachetons euh et puis euh ouais on a méfu un peu mais bon pas plus que d'habitude hein
+
+60
+00:02:46,220 --> 00:02:47,709 58
+pas plus que d'habitude?
+
+61
+00:02:48,040 --> 00:02:48,750 59
+non
+
+62
+00:02:51,589 --> 00:02:53,989 60
+heu ok. et elle a bu?
+
+63
+00:02:55,160 --> 00:02:56,399 61
+elle a bu? ouais elle a bu
+
+64
+00:02:56,470 --> 00:02:57,200 62
+beaucoup?
+
+65
+00:02:57,269 --> 00:03:02,459 63
+bah c'est une soirée quoi c'est. non non pas beaucoup on est rentrés à pied quoi
+
+66
+00:03:02,660 --> 00:03:08,239 64
+o- là e- vous si vous la stimulez elle se elle est elle v- elle est elle est elle vous répond?
+
+67
+00:03:08,839 --> 00:03:13,350 65
+un peu on comprend rien à ce qu'elle dit mais mais bon
+
+68
+00:03:14,359 --> 00:03:14,739 66
+hum
+
+69
+00:03:14,910 --> 00:03:17,560 67
+​elle pleurniche quoi depuis tout à l'heure, je comprends rien
+
+70
+00:03:19,119 --> 00:03:22,619 68
+hum. et elle a pas consommé plus qu'habituellement?
+
+71
+00:03:23,670 --> 00:03:25,690 69
+non comme d'hab quoi
+
+72
+00:03:28,000 --> 00:03:29,060 70
+et elle vomit pas?
+
+73
+00:03:30,910 --> 00:03:32,250 71
+non elle a pas vomi là
+
+74
+00:03:34,100 --> 00:03:40,880 72
+hum. moi j'aimerais bien qu'elle voit quand même un médecin même si c'est comme d'habitude. donc est ce que est ce que vous êtes véhiculé?
+
+75
+00:03:41,510 --> 00:03:45,230 73
+ah mais je peux pas prendre la voiture non enfin c'est dangereux madame hein
+
+76
+00:03:45,250 --> 00:03:46,720 74
+ah lui il a bu aussi
+
+77
+00:03:46,810 --> 00:03:52,459 75
+ok. ce qu'on va faire c'est on on va vous envoyer quelqu'un là dans les deux heures pour qu'elle il passe quand même la voir
+
+78
+00:03:53,339 --> 00:03:55,589 76
+ah bon? parce que là c'est enfin c'est comme d'habitude hein
+
+79
+00:03:55,649 --> 00:03:58,019 77
+oui j'en- j'en- j'entends bien j'entends bien, mais
+
+80
+00:03:58,030 --> 00:04:00,440 78
+elle chiale là et elle fait chier quoi
+
+81
+00:04:00,489 --> 00:04:05,459 79
+oui j'entends bien on va pas envoyer les pompiers, mais juste un médecin pour qu'il passe quand même la voir et être sûr que tout va bien
+
+82
+00:04:06,880 --> 00:04:08,810 80
+bah ok hein mais moi je bouge pas alors hein?
+
+83
+00:04:08,820 --> 00:04:10,070 81
+oui. restez avec elle
+
+84
+00:04:10,959 --> 00:04:11,560 82
+d'accord
+
+85
+00:04:11,599 --> 00:04:13,159 83
+ok. au revoir monsieur
+
+86
+00:04:13,279 --> 00:04:13,940 84
+au revoir
+

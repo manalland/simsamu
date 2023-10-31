@@ -1,0 +1,184 @@
+2
+00:00:04,100 --> 00:00:05,550 1
+bonjour madame
+
+3
+00:00:06,189 --> 00:00:07,410 2
+allo bonjour
+
+4
+00:00:07,410 --> 00:00:17,820 3
+bonjour je suis le docteur ABAS du SAMU heu on m'a dit que vous appeliez pour votre frère de trente deux ans qui se présentait ​heu une douleur thoracique c'est bien cela?
+
+5
+00:00:18,360 --> 00:00:20,890 4
+bah surtout il se sent pas bien là
+
+6
+00:00:21,450 --> 00:00:23,540 5
+c'est-à-dire dîtes m'en plus
+
+7
+00:00:24,970 --> 00:00:28,139 6
+bah il se sent pas bien il fait un malaise
+
+8
+00:00:29,230 --> 00:00:30,410 7
+est ce qu'il est conscient?
+
+9
+00:00:31,190 --> 00:00:32,019 8
+oui
+
+10
+00:00:32,760 --> 00:00:34,060 9
+il respire normalement?
+
+11
+00:00:35,239 --> 00:00:39,040 10
+heu bah je sais pas trop heu oui oui
+
+12
+00:00:39,560 --> 00:00:39,870 11
+est ce qu'il
+
+13
+00:00:39,879 --> 00:00:40,500 12
+oui oui
+
+14
+00:00:40,739 --> 00:00:41,860 13
+est ce qu'il est pâle?
+
+15
+00:00:43,040 --> 00:00:45,840 14
+ah oui oui docteur il est pâle hein là mon frère
+
+16
+00:00:46,050 --> 00:00:48,660 15
+il est dans quelle position il est assis allongé?
+
+17
+00:00:49,260 --> 00:00:51,730 16
+il est assis heu là sur le canapé
+
+18
+00:00:51,910 --> 00:00:56,670 17
+ok il se tient heu le le cœur il a une position particulière ou pas du tout?
+
+19
+00:00:57,250 --> 00:01:00,840 18
+heu oui il a la main heu sur le côté là
+
+20
+00:01:00,940 --> 00:01:06,400 19
+ok heu donc heu si est ce que vous pouvez enfin passez le moi au téléphone s'il vous plait
+
+21
+00:01:06,640 --> 00:01:09,660 20
+ah bah il parle pas français mon frère docteur
+
+22
+00:01:11,660 --> 00:01:14,830 21
+bon heu est ce qu'il a des problèmes de santé particuliers?
+
+23
+00:01:15,970 --> 00:01:17,320 22
+bah là il a mal hein
+
+24
+00:01:17,490 --> 00:01:21,780 23
+mais en temps normal est ce qu'il a des problèmes de diabète il a des problèmes d'hypertension?
+
+25
+00:01:21,780 --> 00:01:23,210 24
+ah non non non
+
+26
+00:01:23,260 --> 00:01:23,760 25
+il fume?
+
+27
+00:01:23,760 --> 00:01:24,840 26
+il a pas ça
+
+28
+00:01:25,070 --> 00:01:29,030 27
+ah oui il fume je lui ai dit qu'il fallait arrêter mais il m'écoute pas
+
+29
+00:01:29,680 --> 00:01:32,180 28
+la douleur elle est apparue quand exactement?
+
+30
+00:01:33,200 --> 00:01:36,000 29
+bah là tout à l'heure il rentrait du travail heu
+
+31
+00:01:36,030 --> 00:01:37,980 30
+ça fait combien de temps une heure deux heures?
+
+32
+00:01:38,530 --> 00:01:45,140 31
+oh ça fait moins d'une heure là et il se tient il est pas bien il est pale il fait un malaise
+
+33
+00:01:45,220 --> 00:01:47,540 32
+c'est la première fois qu'il heu qu'il a ce genre de douleurs?
+
+34
+00:01:48,790 --> 00:01:50,760 33
+heu je crois oui
+
+35
+00:01:53,490 --> 00:01:56,890 34
+la douleur il la décrit comment est ce que ça serre ça pique?
+
+36
+00:01:58,250 --> 00:01:59,910 35
+heu je lui demande
+
+37
+00:02:02,000 --> 00:02:03,670 36
+il dit ça fait un point
+
+38
+00:02:06,130 --> 00:02:15,829 37
+bon ce qu'on va faire madame c'est qu'on va vous envoyer heu un médecin sur place heu avec des pompiers y a le une équipe du SAMU avec un médecin qui va arriver et les pompiers qui vont se déplacer également
+
+39
+00:02:16,609 --> 00:02:17,280 38
+d'accord
+
+40
+00:02:17,489 --> 00:02:17,910 39
+voilà
+
+41
+00:02:18,820 --> 00:02:19,739 40
+merci docteur
+
+42
+00:02:19,790 --> 00:02:27,940 41
+en attendant vous restez avec lui et si il heu y a un tout changement de situation de si il perd connaissance ou qu'il lui arrive quoique ce soit de nouveau vous nous rappelez
+
+43
+00:02:29,119 --> 00:02:31,209 42
+d'accord donc là je reste avec lui?
+
+44
+00:02:31,209 --> 00:02:32,329 43
+vous restez avec lui oui
+
+45
+00:02:32,799 --> 00:02:33,649 44
+d'accord
+
+46
+00:02:34,640 --> 00:02:35,549 45
+merci docteur
+
+47
+00:02:35,560 --> 00:02:36,109 46
+au revoir
+

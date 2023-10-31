@@ -1,0 +1,148 @@
+2
+00:00:01,250 --> 00:00:12,899 1
+bonjour madame je suis le docteur ABAZ au SAMU hum moi mon collègue m'a transmis que vous appeliez pour votre père de quatre vingt cinq ans qui était atteint du COVID c'est bien cela?
+
+3
+00:00:13,200 --> 00:00:21,349 2
+oui enfin oui COVID j'en sais rien moi je suis pas médecin hein je heu j'en sais rien c'est ce que enfin je sais pas je je pense mais j'en sais rien
+
+4
+00:00:21,900 --> 00:00:27,700 3
+donc heu pour quelle raison vous appelez si heu si c'est pas pour ça?
+
+5
+00:00:28,599 --> 00:00:42,200 4
+bah pff là depuis ce matin en fait le problème c'est que là j'en déj- j'en peux plus depuis ce matin j'ai appelé SOS médecins ils répondent pas ils ils me disent qu'il faut qu'ils peuvent pas venir parce que y a pas assez de médecins y a j- j'appelle le 18 le 18 ils me disent
+
+6
+00:00:42,200 --> 00:00:47,110 5
+quels s- quels sont les symptômes quels sont les symptômes qui vous ont motivé à appeler le le 15 aujourd'hui?
+
+7
+00:00:48,179 --> 00:01:00,900 6
+là heu bah mon papa moi je suis inquiète ça fait trois jours il a la fièvre il tousse heu heu bah voilà je je je suis inquiète heu il est à la maison comme ça je sais pas je je sais pas
+
+8
+00:01:01,130 --> 00:01:04,330 7
+est ce que votre papa est à côté de vous?
+
+9
+00:01:05,200 --> 00:01:06,420 8
+oui il est à côté de moi
+
+10
+00:01:06,500 --> 00:01:10,200 9
+est-ce qu'il respire normalement ou il est il a des difficultés à respirer?
+
+11
+00:01:11,370 --> 00:01:17,050 10
+heu non il a l'air de respirer normalement oui il a l'air de oui oui oui oui
+
+12
+00:01:17,240 --> 00:01:21,850 11
+est ce que aujourd'hui y a eu une aggravation particulière sur les trois derniers jours?
+
+13
+00:01:23,220 --> 00:01:37,420 12
+non mais je peux pas le laisser comme ça moi hein je peux pas le laisser à la maison comme ça heu sans surveillance sans personnel tout seul comme ça non je peux pas hein heu donc non y a pas y a pas d'aggravation mais ça va durer combien de temps je sais pas moi non plus donc heu
+
+14
+00:01:37,590 --> 00:01:41,680 13
+est ce que votre heu est ce que votre papa a des problèmes de santé habituellement heu
+
+15
+00:01:41,960 --> 00:01:53,030 14
+ah oui il en a des problèmes hein il est hypertendu y a ​il a un un stent heu il est diabétique aussi il est diabétique
+
+16
+00:01:53,030 --> 00:01:56,000 15
+est ce qu'il est autonome à la maison est ce qu'il a besoin d'aide?
+
+17
+00:01:57,260 --> 00:01:59,570 16
+il non il il est autonome à la maison
+
+18
+00:02:03,920 --> 00:02:09,699 17
+est ce qu'il a des problèmes cognitifs ou des problèmes de mémoire ou heu de confusion?
+
+19
+00:02:09,869 --> 00:02:19,500 18
+ah non pas du tout hein d'ailleurs là il me dit je veux pas aller à l'hôpital je veux pas bon bah moi j'ai quand même envie qu'il y aille hein parce que je le voilà je je suis inquiète
+
+20
+00:02:22,630 --> 00:02:28,589 19
+en plus la semaine dernière c'était maman qui avait le COVID donc heu bah voilà moi ça me rassure pas du tout quoi
+
+21
+00:02:29,239 --> 00:02:35,589 20
+et vous vous voudriez qu'il aille à l'hôpital sur quel motif exactement c'est le fait que la les symptômes perdurent depuis un moment?
+
+22
+00:02:36,310 --> 00:02:46,570 21
+bah c'est ça il faut le surveiller hein il faut le surveiller il faut y qu'il y ait quelqu'un hein voilà hein heu c'est pas c'est pas maman qui va surveiller papa hein ça c'est sûr hein maman elle est fatiguée hein
+
+23
+00:02:46,720 --> 00:02:49,239 22
+passez le moi au téléphone j'aimerais bien pouvoir lui parler
+
+24
+00:02:49,720 --> 00:02:52,160 23
+il veut pas parler il veut pas parler à aucun médecin
+
+25
+00:02:57,790 --> 00:03:02,790 24
+bon sur ce que vous me dites heu et de des informations que vous m'avez transmis heu
+
+26
+00:03:02,790 --> 00:03:03,019 25
+hum
+
+27
+00:03:03,019 --> 00:03:16,019 26
+je ne vois pas là d'arguments pour une hospitalisation tout de suite tout de suite pour votre heu pour votre papa heu cependant je pense qu'il faut qu'il soit surveillé heu par vous ou par quelqu'un d'autre est ce qu'il y a une possibilité de surveillance à domicile?
+
+28
+00:03:16,920 --> 00:03:24,420 27
+bah moi je travaille hein je travaille hein après non je travaille je peux pas je peux pas la journée là comme ça heu non je travaille
+
+29
+00:03:24,420 --> 00:03:26,890 28
+est ce qu'il y a quelqu'un d'autre qui peut le surveiller à la maison?
+
+30
+00:03:27,940 --> 00:03:36,160 29
+ah bah maman elle est pas dans un bon état hein donc heu là en plus avec le COVID elle est extrêmement fatiguée heu je crois pas qu'elle pourra le surveiller hein
+
+31
+00:03:38,070 --> 00:03:53,350 30
+il faudra idéalement prendre un rendez vous avec le médecin traitant heu ce qu'on peut essayer de faire c'est de faire passer on va faire passer un médecin à domicile pour l'évaluer heu mais heu dans un délai qui sera heu probablement de plusieurs heures mais y aura quelqu'un qui va passer à la maison
+
+32
+00:03:53,660 --> 00:04:01,589 31
+bah si vous arrivez avec SOS médecins moi ça me va mais heu bon après je l'hospitalisation j'aurais préféré mais bon si vous me dites que tout va bien
+
+33
+00:04:01,829 --> 00:04:04,000 32
+parfait bah on fait comme ça heu je
+
+34
+00:04:04,000 --> 00:04:04,329 33
+très bien
+
+35
+00:04:04,329 --> 00:04:12,700 34
+on va faire en sorte je peux pas donner v-d'informations sur les délais pour le moment en attendant vous restez avec lui et si il y a une aggravation ou un changement particulier vous nous rappelez
+
+36
+00:04:13,180 --> 00:04:14,959 35
+très bien merci beaucoup
+
+37
+00:04:15,070 --> 00:04:15,589 36
+au revoir
+
+38
+00:04:15,700 --> 00:04:16,589 37
+au revoir
+

@@ -1,0 +1,212 @@
+2
+00:00:01,759 --> 00:00:02,740 1
+allo?
+
+3
+00:00:03,330 --> 00:00:04,109 2
+oui allo?
+
+4
+00:00:04,119 --> 00:00:07,460 3
+oui bonjour docteur RICHARDO vous appelez parce que vous avez mal au ventre?
+
+5
+00:00:08,570 --> 00:00:09,240 4
+oui
+
+6
+00:00:09,240 --> 00:00:11,149 5
+alors vous avez mal au ventre depuis combien de temps?
+
+7
+00:00:12,190 --> 00:00:13,910 6
+hum depuis ce matin
+
+8
+00:00:13,960 --> 00:00:16,930 7
+depuis ce matin. est ce qu'il y a eu des vomissements?
+
+9
+00:00:18,270 --> 00:00:18,660 8
+non
+
+10
+00:00:19,100 --> 00:00:21,090 9
+pas de vomissements. est ce qu'il y a eu des diarrhées?
+
+11
+00:00:22,490 --> 00:00:22,880 10
+non
+
+12
+00:00:23,070 --> 00:00:25,830 11
+pas de diarrhée. est ce que vous avez des problèmes de santé?
+
+13
+00:00:27,540 --> 00:00:31,000 12
+hum j'ai un peu de diabète
+
+14
+00:00:31,450 --> 00:00:33,150 13
+diabète. vous prenez de l'insuline?
+
+15
+00:00:34,580 --> 00:00:35,100 14
+hum oui
+
+16
+00:00:36,540 --> 00:00:37,960 15
+est ce que vous avez d'autres problèmes de santé?
+
+17
+00:00:40,350 --> 00:00:41,060 16
+non
+
+18
+00:00:41,270 --> 00:00:43,930 17
+non. vous prenez pas d'autre médicament que de l'insuline?
+
+19
+00:00:45,450 --> 00:00:46,810 18
+hum non
+
+20
+00:00:49,200 --> 00:00:56,010 19
+alors là vous avez mal donc depuis ce matin vous avez pas vomi vous avez pas de diarrhée et vous avez mal en bas du ventre en haut du ventre?
+
+21
+00:00:57,570 --> 00:00:59,420 20
+hum un peu en haut heu
+
+22
+00:01:01,209 --> 00:01:02,349 21
+au niveau de l'estomac?
+
+23
+00:01:03,180 --> 00:01:04,530 22
+oui c'est ça
+
+24
+00:01:04,720 --> 00:01:05,570 23
+ça brûle?
+
+25
+00:01:07,520 --> 00:01:10,950 24
+hum je je un peu
+
+26
+00:01:11,070 --> 00:01:14,190 25
+la douleur est ce que elle a tendance à remonter ou elle reste au même endroit?
+
+27
+00:01:15,760 --> 00:01:20,770 26
+hum je sais pas. je sais pas vous dire là comme ça
+
+28
+00:01:21,410 --> 00:01:23,530 27
+est ce que vous avez mal ailleurs que dans le ventre?
+
+29
+00:01:24,740 --> 00:01:30,320 28
+hum un peu un peu en au dos au bras un peu aussi
+
+30
+00:01:30,330 --> 00:01:31,700 29
+au bras gauche ou au bras droit?
+
+31
+00:01:32,760 --> 00:01:36,640 30
+hum pff bras gauche
+
+32
+00:01:36,640 --> 00:01:39,040 31
+vous avez mal au bras gauche. est ce que vous avez mal dans la mâchoire aussi?
+
+33
+00:01:39,710 --> 00:01:43,630 32
+hum non mais j'ai un peu mal à la gorge aussi
+
+34
+00:01:46,130 --> 00:01:49,840 33
+vous avez mal à la gorge. vous avez mal à la gorge depuis combien de temps?
+
+35
+00:01:51,290 --> 00:01:52,270 34
+ce matin
+
+36
+00:01:55,250 --> 00:01:57,740 35
+est ce que vous avez pris des médicaments pour vous soulager?
+
+37
+00:01:59,070 --> 00:02:02,220 36
+hum j'ai pris un do- doli- DOLIPRANE?
+
+38
+00:02:02,270 --> 00:02:03,220 37
+un DOLIPRANE
+
+39
+00:02:05,000 --> 00:02:07,199 38
+voilà ça m'a pas trop soulagée
+
+40
+00:02:09,009 --> 00:02:10,690 39
+est ce que vous avez envie de vomir?
+
+41
+00:02:11,860 --> 00:02:14,120 40
+hum oui
+
+42
+00:02:16,780 --> 00:02:18,780 41
+est ce que vous avez déjà eu ce genre de douleur?
+
+43
+00:02:20,580 --> 00:02:22,300 42
+hum non pas comme ça
+
+44
+00:02:22,980 --> 00:02:24,300 43
+ça vous est jamais arrivé?
+
+45
+00:02:25,750 --> 00:02:26,050 44
+non
+
+46
+00:02:26,360 --> 00:02:35,150 45
+donc si je résume vous avez mal en haut du ventre au niveau de l'estomac ça vous brûle vous avez aussi mal dans la gorge depuis ce m- ce matin et vous avez aussi envie de vomir
+
+47
+00:02:36,760 --> 00:02:37,440 46
+c'est ça
+
+48
+00:02:37,440 --> 00:02:39,640 47
+il y a des gens qui sont ​malades autour de vous?
+
+49
+00:02:40,540 --> 00:02:42,160 48
+hum non
+
+50
+00:02:45,900 --> 00:02:47,660 49
+non non j'ai personne là
+
+51
+00:02:49,130 --> 00:03:01,430 50
+bon alors il faut heu on va faire passer un médecin heu à domicile madame il va arriver dans les quatre à six heures si la douleur si les symptômes s'aggravent entre temps vous rappelez le 15
+
+52
+00:03:01,720 --> 00:03:05,800 51
+d'accord ok un médecin à la maison super très bien
+
+53
+00:03:06,680 --> 00:03:08,050 52
+bon bah bon courage madame
+
+54
+00:03:08,050 --> 00:03:09,270 53
+merci docteur au revoir
+

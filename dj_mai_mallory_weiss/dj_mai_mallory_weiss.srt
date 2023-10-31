@@ -1,0 +1,172 @@
+2
+00:00:01,089 --> 00:00:03,370 1
+bonjour docteur DETOURY au SAMU
+
+3
+00:00:03,900 --> 00:00:06,880 2
+oui bonjour bonjour je je oui?
+
+4
+00:00:06,880 --> 00:00:08,910 3
+vous appelez pour votre grand mère c'est ça?
+
+5
+00:00:09,260 --> 00:00:11,260 4
+oui c'est mamie elle va pas bien du tout
+
+6
+00:00:11,280 --> 00:00:13,140 5
+elle a vomi du sang c'est ce qu'on m'a dit?
+
+7
+00:00:13,790 --> 00:00:19,060 6
+oui elle a vomi là elle vomit je je vois le vomi et il y a il y a du vo- il y a un peu de sang là partout là je
+
+8
+00:00:19,060 --> 00:00:22,420 7
+ah il y a un peu de sang il y a un peu de sang mélangé au vomi
+
+9
+00:00:22,910 --> 00:00:23,660 8
+oui
+
+10
+00:00:23,720 --> 00:00:30,750 9
+d'accord et heu est ce que hum ça fait ça dure depuis aujourd'hui ou c'était déjà les jours précédents?
+
+11
+00:00:32,009 --> 00:00:34,520 10
+c'est c'est aujourd'hui là les vomi- les les vomissements
+
+12
+00:00:34,520 --> 00:00:36,210 11
+c'est la première fois que ça arrive?
+
+13
+00:00:36,610 --> 00:00:39,360 12
+non mais après elle vomit là hein depuis plusieurs jours hein
+
+14
+00:00:39,360 --> 00:00:41,010 13
+depuis plusieurs jours elle vomit
+
+15
+00:00:41,010 --> 00:00:42,370 14
+va pas bien du tout elle va pas bien
+
+16
+00:00:42,370 --> 00:00:48,770 15
+depuis plusieurs jours elle vomit et là aujourd'hui apparaissent des traces de sang mélangées au vomi c'est bien ça que vous me dites?
+
+17
+00:00:48,870 --> 00:00:49,870 16
+oui c'est ça
+
+18
+00:00:50,680 --> 00:00:54,180 17
+et est ce que ces derniers jours elle a vu un médecin pour ses vomissements?
+
+19
+00:00:55,100 --> 00:00:59,800 18
+non ma mamie elle est toute seule hein et là je passe la voir moi tous les jours mais elle est toute seule la chouchoute
+
+20
+00:01:00,370 --> 00:01:01,900 19
+elle a pas de médecin traitant?
+
+21
+00:01:03,089 --> 00:01:06,310 20
+bah pff il est dé- il est lui il est à la retraite hein son médecin
+
+22
+00:01:06,310 --> 00:01:07,479 21
+il est à la retraite
+
+23
+00:01:08,199 --> 00:01:12,020 22
+hum est ce que votre grand mère elle a des problèmes de santé connus?
+
+24
+00:01:13,039 --> 00:01:27,550 23
+ah elle est hypertendue elle a du diabète heu et heu et elle a une cataracte aussi elle a eu une fracture du col du fémur en 1999
+
+25
+00:01:27,550 --> 00:01:41,990 24
+heu elle a fait un AIT en 86 suivi maintenant à hum à ROTSCHILD heu quand elle était petite elle est tombée de la piscine
+
+26
+00:01:41,990 --> 00:01:58,449 25
+dans ses médicaments dans ses mé- dans ses médicaments est ce qu'il y a hum des anticoagulants est ce que vous pouvez me dire ce qu'il y a dans ses médicaments peut être il y a KARDEGIC ou XA- non XARELTO APIXABAN ce genre de choses?
+
+27
+00:01:58,449 --> 00:01:59,870 26
+non il y a pas il y a pas
+
+28
+00:01:59,940 --> 00:02:08,160 27
+il y a pas d'accord hum votre grand mère il faudrait qu'elle voit un médecin il faudra qu'elle voit un médecin
+
+29
+00:02:08,160 --> 00:02:09,160 28
+oui oui oui
+
+30
+00:02:09,160 --> 00:02:18,780 29
+heu je peux vous faire passer un médecin à domicile si heu elle a pas de médecin traitant je vais juste voir avec mes collègues un peu quels sont les délais et quels sont les médecins disponibles
+
+31
+00:02:18,780 --> 00:02:19,710 30
+vous pensez que c'est grave?
+
+32
+00:02:20,160 --> 00:02:21,620 31
+ça n'en a pas l'air
+
+33
+00:02:22,730 --> 00:02:23,840 32
+ma petite chouchoute
+
+34
+00:02:23,880 --> 00:02:34,980 33
+heu ça n'en a pas l'air cependant c'est important heu je pense de voir un médecin dans les vingt quatre heures je vais voir si j'ai des médecins disponibles pour passer à domicile et sinon je vous orienterai vers la maison médicale de garde
+
+35
+00:02:36,530 --> 00:02:38,019 34
+ok ok
+
+37
+00:02:39,359 --> 00:02:47,960 35
+il y a pas mal de délai madame pour les médecins à domicile en revanche je vois je vois sur la carte que vous habitez juste à côté de la maison médicale de garde je vais vous donner l'adresse
+
+38
+00:02:49,560 --> 00:02:51,150 36
+et je vais vous laisser
+
+39
+00:02:51,180 --> 00:02:53,440 37
+et là on va faire comment là tout seule parce que
+
+40
+00:02:54,210 --> 00:03:09,890 38
+vous présenter avec elle à la maison médicale de garde vous emportez avec vous le traitem- heu ses ordonnances heu les la le dernier dossier médical que vous ayez pour elle et vous l'emmenez voir le médecin généraliste de la maison médicale voici l'adresse bla bla bla l'adresse
+
+41
+00:03:10,840 --> 00:03:14,000 39
+on va pas aux urgences là avec des vomissements de sang non?
+
+42
+00:03:14,260 --> 00:03:17,720 40
+ce sera mieux d'aller voir un médecin généraliste à la maison médicale de garde
+
+43
+00:03:18,859 --> 00:03:20,530 41
+bon d'accord ok
+
+44
+00:03:20,870 --> 00:03:22,829 42
+très bien au revoir madame
+
+45
+00:03:23,230 --> 00:03:24,609 43
+au revoir merci
+

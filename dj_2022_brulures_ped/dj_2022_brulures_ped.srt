@@ -1,0 +1,216 @@
+2
+00:00:01,400 --> 00:00:02,299 1
+allo?
+
+3
+00:00:02,650 --> 00:00:03,900 2
+allo? oui allo?
+
+4
+00:00:03,900 --> 00:00:07,850 3
+bonjour madame, vous appelez pour euh votre fils de huit ans qui a qui s'est brûlé c'est ça?
+
+5
+00:00:08,600 --> 00:00:16,450 4
+oui c'est ça c'est ça. là euh il s- on on faisait du thé et en fait l'eau est tombée sur lui et il s'est brûlé. je suis très très inquiète hein
+
+6
+00:00:16,650 --> 00:00:18,250 5
+elle est tombée ​à quelle niveau?
+
+7
+00:00:18,650 --> 00:00:21,100 6
+bah c'est au niveau de son bras
+
+8
+00:00:21,650 --> 00:00:23,100 7
+juste son bras?
+
+9
+00:00:23,300 --> 00:00:24,600 8
+juste son bras ouais
+
+10
+00:00:24,800 --> 00:00:26,259 9
+d'accord. est ce que
+
+11
+00:00:26,259 --> 00:00:27,430 10
+moi je suis inquiète vous savez
+
+12
+00:00:27,830 --> 00:00:32,460 11
+oui je je je comprends tout à fait, est ce que vous avez la possibilité de de l'emmener dans les urgences?
+
+13
+00:00:33,250 --> 00:00:41,500 12
+heu les urgences mais heu enfin moi j'ai vu que sur internet en fait heu les brûlures comme ça ça se prend pas en charge aux urgences
+
+14
+00:00:41,500 --> 00:00:49,450 13
+il faut qu'il y ait une équipe heu qui vienne voir sur place. heu c'est pas comme ça qu'on va aux urgences, il est quand même brûlé mon enfant
+
+15
+00:00:49,940 --> 00:00:57,910 14
+justement il a donc été brûlé avec de l'eau chaude. heu il faut qu'il soit évalué par un médecin pour voir la profondeur de sa brûlure
+
+16
+00:00:58,919 --> 00:01:05,369 15
+bah justement justement, faites passer quelqu'un, il faut que quelqu'un vienne le voir. heu un des urgences, un SAMU quoi
+
+17
+00:01:06,410 --> 00:01:06,830 16
+il faut
+
+18
+00:01:06,860 --> 00:01:11,419 17
+je suis très inquiète, c'est la première fois que ça arrive heu il est brûlé au niveau de son bras, c'est quand même grave
+
+19
+00:01:11,429 --> 00:01:12,559 18
+vous avez un véhicule?
+
+20
+00:01:13,884 --> 00:01:15,280 19
+j'ai un véhicule mais ça
+
+21
+00:01:15,289 --> 00:01:18,580 20
+dans ce cas là emmenez le, emme- emmenez le aux aux urgences
+
+22
+00:01:19,410 --> 00:01:24,210 21
+mais c'est pas ​à moi de l'amener aux urgences, là il est grave mon enfant il faut que quelqu'un vienne le chercher
+
+23
+00:01:24,210 --> 00:01:33,899 22
+justement vous avez la possibilité de l'emmener aux urgences, ça rajoutera un délai d'attendre des moyens chez vous. donc amenez votre enfant dans votre voiture et amenez le aux urgences pédiatriques les plus proches
+
+24
+00:01:34,820 --> 00:01:43,610 23
+mais les urgences là on va attendre longtemps là si vous ramenez quelqu'un à à domicile, une équipe du SAMU il va il va le voir tout de suite mon enfant, il est grave
+
+25
+00:01:43,610 --> 00:01:47,940 24
+ça n'i- ça n'ira pas plus vite. mettez le dans la voiture amenez le aux urgences
+
+26
+00:01:48,789 --> 00:01:52,169 25
+non mais c'est pas à moi de faire ça quand même. vous vous rendez compte?
+
+27
+00:01:52,559 --> 00:01:52,979 26
+madame
+
+28
+00:01:52,990 --> 00:01:57,549 27
+je vais pas aller le transporter il est il est grave il est grave heu il s'est brûlé heu
+
+29
+00:01:57,549 --> 00:02:00,989 28
+madame votre enfant a une brûlure, madame votre enfant a une brûl-
+
+30
+00:02:01,009 --> 00:02:05,850 29
+il se passe quoi que ce soit heu moi dans la voiture je j'arrive pas à le surveiller, je conduis imaginez
+
+31
+00:02:06,280 --> 00:02:10,639 30
+madame, votre enfant a une brûlure sur le bras, il faut qu'il soit évalué par un médecin
+
+32
+00:02:10,789 --> 00:02:14,609 31
+le mieux c'est que vous le mettiez dans votre voiture et que vous l'emmeniez aux urgences. amenez le aux urgences
+
+33
+00:02:15,730 --> 00:02:20,579 32
+mais là heu je le laisse comme ça et je je monte dans une voiture et on on va aux urgences comme ça
+
+34
+00:02:20,609 --> 00:02:21,010 33
+oui
+
+35
+00:02:22,340 --> 00:02:25,649 34
+je fais rien quoi, je le laisse comme ça le le mon gosse là il est en train de pleurer
+
+36
+00:02:25,649 --> 00:02:28,950 35
+est ce que vous est ce que vous l'avez mis sous l'eau froide le bras de l'enfant?
+
+37
+00:02:29,579 --> 00:02:30,390 36
+heu non
+
+38
+00:02:30,829 --> 00:02:31,790 37
+eh bien commencez par ça
+
+39
+00:02:31,820 --> 00:02:33,079 38
+mais c'est grave peut être
+
+40
+00:02:33,700 --> 00:02:36,920 39
+justement il va év- va être évalué par un médecin aux urgences
+
+41
+00:02:38,269 --> 00:02:43,070 40
+aux urgences. mais et vous faites passer personne? personne ne viendra jusqu'à là voir mon enfant?
+
+42
+00:02:43,079 --> 00:02:43,380 41
+non
+
+43
+00:02:43,390 --> 00:02:43,739 42
+quand même?
+
+44
+00:02:43,750 --> 00:02:48,620 43
+non personne ne viendra. donc mettez l'enfant heu mettez le bras de l'enfant sous de l'eau ch- sous de l'eau froide
+
+45
+00:02:49,070 --> 00:02:51,940 44
+heu puis vous le mettez dans votre voiture et vous l'amenez aux urgences
+
+46
+00:02:52,320 --> 00:02:53,079 45
+c'est clair?
+
+47
+00:02:54,320 --> 00:02:54,640 46
+hum
+
+48
+00:02:55,230 --> 00:02:57,980 47
+oui ouais ok
+
+49
+00:02:58,579 --> 00:02:58,920 48
+bon
+
+50
+00:02:59,350 --> 00:02:59,750 49
+au revoir
+
+51
+00:02:59,750 --> 00:03:05,079 50
+c'est ça. et ce n'est pas ma responsabilité hein si jamais il se passe quoi que ce soit et je vous dis tout de suite hein
+
+52
+00:03:05,480 --> 00:03:06,690 51
+oui pas de problème
+
+53
+00:03:07,540 --> 00:03:09,900 52
+bon d'accord bon c'est pas grave
+
+54
+00:03:10,329 --> 00:03:11,220 53
+au revoir
+
+55
+00:03:11,530 --> 00:03:12,060 54
+au revoir
+
